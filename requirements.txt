@@ -1,0 +1,8 @@
+streamlit
+google-genai
+python-dotenv
+st-copy-to-clipboard
+pandas
+numpy
+scikit-learn
+joblib
