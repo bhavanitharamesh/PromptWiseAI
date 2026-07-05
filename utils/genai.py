@@ -6,9 +6,9 @@ import streamlit as st
 from dotenv import load_dotenv
 from google import genai
 
-# ---------------------------------------------------
-# Load Environment Variables
-# ---------------------------------------------------
+# --------------------------------------------------
+# Load API Key
+# --------------------------------------------------
 
 load_dotenv()
 
@@ -18,15 +18,13 @@ if not api_key:
     api_key = st.secrets.get("GEMINI_API_KEY")
 
 if not api_key:
-    raise ValueError(
-        "GEMINI_API_KEY not found. Configure it in .env (local) or Streamlit Secrets."
-    )
+    raise Exception("GEMINI_API_KEY not found.")
 
 client = genai.Client(api_key=api_key)
 
-# ---------------------------------------------------
-# Load PromptWise System Prompt
-# ---------------------------------------------------
+# --------------------------------------------------
+# Paths
+# --------------------------------------------------
 
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 
@@ -36,12 +34,25 @@ SYSTEM_PROMPT_PATH = os.path.join(
     "system_prompt.txt"
 )
 
+RECOMMENDER_PROMPT_PATH = os.path.join(
+    BASE_DIR,
+    "assets",
+    "recommender_prompt.txt"
+)
+
+# --------------------------------------------------
+# Load Prompt Files
+# --------------------------------------------------
+
 with open(SYSTEM_PROMPT_PATH, "r", encoding="utf-8") as f:
     SYSTEM_PROMPT = f.read()
 
-# ---------------------------------------------------
+with open(RECOMMENDER_PROMPT_PATH, "r", encoding="utf-8") as f:
+    RECOMMENDER_PROMPT = f.read()
+
+# --------------------------------------------------
 # Prompt Generator
-# ---------------------------------------------------
+# --------------------------------------------------
 
 def generate_prompt(
     role,
@@ -49,7 +60,7 @@ def generate_prompt(
     context,
     constraint,
     output_format,
-    goal,
+    goal
 ):
 
     user_prompt = f"""
@@ -79,9 +90,10 @@ Goal:
 
     return response.text
 
-# ---------------------------------------------------
-# AI Recommendation Engine
-# ---------------------------------------------------
+
+# --------------------------------------------------
+# Recommendation Engine
+# --------------------------------------------------
 
 def recommend_ai(
     role,
@@ -91,15 +103,6 @@ def recommend_ai(
     output_format,
     goal
 ):
-
-    RECOMMENDER_PROMPT_PATH = os.path.join(
-        BASE_DIR,
-        "assets",
-        "recommender_prompt.txt"
-    )
-
-    with open(RECOMMENDER_PROMPT_PATH, "r", encoding="utf-8") as f:
-        recommender_prompt = f.read()
 
     user_prompt = f"""
 User Requirement
@@ -125,16 +128,16 @@ Goal:
 
     response = client.models.generate_content(
         model="gemini-2.5-flash",
-        contents=recommender_prompt + "\n\n" + user_prompt
+        contents=RECOMMENDER_PROMPT + "\n\n" + user_prompt
     )
-
-    print("\n========== GEMINI RESPONSE ==========")
-    print(response.text)
-    print("=====================================\n")
 
     text = response.text.strip()
 
-    # Remove markdown fences
+    print("\n========== GEMINI RESPONSE ==========")
+    print(text)
+    print("=====================================\n")
+
+    # Remove markdown if Gemini returns ```json
     text = text.replace("```json", "")
     text = text.replace("```", "")
     text = text.strip()
@@ -143,27 +146,23 @@ Goal:
     match = re.search(r"\[.*\]", text, re.DOTALL)
 
     if not match:
-        print("❌ No JSON array found.")
-        print(text)
+        print("No JSON array found.")
         return []
 
     json_text = match.group()
 
     try:
-
-        result = json.loads(json_text)
+        recommendations = json.loads(json_text)
 
         print("\n========== PARSED RESULT ==========")
-        print(result)
+        print(recommendations)
         print("===================================\n")
 
-        return result
+        return recommendations
 
     except Exception as e:
-
         print("\n========== JSON ERROR ==========")
         print(e)
         print(json_text)
         print("================================\n")
-
         return []
