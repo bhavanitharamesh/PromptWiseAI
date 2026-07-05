@@ -114,6 +114,9 @@ Goal:
         model="gemini-2.5-flash",
         contents=recommender_prompt + "\n\n" + user_prompt
     )
+    print("========== GEMINI RESPONSE ==========")
+    print(response.text)
+    print("====================================")
 
        
     import re
@@ -135,10 +138,21 @@ Goal:
 
     json_text = match.group()
 
+
     try:
-        return json.loads(json_text)
+    result = json.loads(json_text)
+
+    print("=========== PARSED RESULT ===========")
+    print(result)
+    print("====================================")
+
+    return result
 
     except Exception as e:
-        print("JSON Error:", e)
+
+        print("=========== JSON ERROR ===========")
+        print(e)
         print(json_text)
-        return []
+        print("==================================")
+
+        raise
