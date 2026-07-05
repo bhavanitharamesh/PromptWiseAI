@@ -140,13 +140,13 @@ Goal:
 
 
     try:
-    result = json.loads(json_text)
+        result = json.loads(json_text)
 
-    print("=========== PARSED RESULT ===========")
-    print(result)
-    print("====================================")
+        print("=========== PARSED RESULT ===========")
+        print(result)
+        print("====================================")
 
-    return result
+        return result
 
     except Exception as e:
 
