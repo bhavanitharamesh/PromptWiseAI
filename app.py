@@ -250,7 +250,15 @@ st.markdown("<br>", unsafe_allow_html=True)
 
 col1, col2, col3 = st.columns([1,2,1])
 
-    
+
+
+with col2:
+
+    generate = st.button(
+        "✨ Generate Professional Prompt",
+        use_container_width=True,
+        key="generate_prompt"
+    )
 
 st.markdown("<br><br>", unsafe_allow_html=True)
 
@@ -259,6 +267,13 @@ st.markdown("<br><br>", unsafe_allow_html=True)
 # ----------------------------------------------------
 
 if generate:
+
+    if "recommendations" in st.session_state:
+        del st.session_state["recommendations"]
+
+    # Remove old recommendations when generating a new prompt
+    if "recommendations" in st.session_state:
+        del st.session_state["recommendations"]
 
     with st.spinner("🧠 Generating your professional prompt..."):
 
@@ -273,7 +288,6 @@ if generate:
                 goal=goal
             )
 
-            # Save everything for later
             st.session_state.generated_prompt = prompt
             st.session_state.role = role
             st.session_state.task = task
@@ -288,9 +302,16 @@ if generate:
             st.stop()
 
 
+
 # ----------------------------------------------------
 # DISPLAY GENERATED PROMPT
 # ----------------------------------------------------
+
+# ----------------------------------------------------
+# DISPLAY GENERATED PROMPT
+# ----------------------------------------------------
+
+recommend_ai_button = False
 
 if "generated_prompt" in st.session_state:
 
@@ -308,58 +329,39 @@ if "generated_prompt" in st.session_state:
         "",
         value=st.session_state.generated_prompt,
         height=350,
-        disabled=True
+        disabled=True,
+        key="generated_prompt_output"
     )
 
-    st_copy_to_clipboard(
-        st.session_state.generated_prompt,
-        "📋 Copy Prompt"
-    )
-
-    st.download_button(
-        "📥 Download Prompt",
-        st.session_state.generated_prompt,
-        file_name="generated_prompt.txt",
-        mime="text/plain",
-        use_container_width=True
-    )
     st.markdown("<br>", unsafe_allow_html=True)
 
-    recommend_ai_button = st.button(
-        "🤖 Recommend Best AI Assistants",
-        use_container_width=True
-    )
-
-    c1, c2, c3 = st.columns(3)
+    c1, c2 = st.columns(2)
 
     with c1:
 
         st_copy_to_clipboard(
-            prompt,
+            st.session_state.generated_prompt,
             "📋 Copy Prompt"
         )
 
     with c2:
 
         st.download_button(
-            label="📄 Download TXT",
-            data=prompt,
+            label="📄 Download Prompt",
+            data=st.session_state.generated_prompt,
             file_name="PromptWise_Prompt.txt",
             mime="text/plain",
             use_container_width=True,
-            key="download_txt"
+            key="download_prompt"
         )
 
-    with c3:
+    st.markdown("<br>", unsafe_allow_html=True)
 
-        st.download_button(
-            label="📑 Download Markdown",
-            data=prompt,
-            file_name="PromptWise_Prompt.md",
-            mime="text/markdown",
-            use_container_width=True,
-            key="download_md"
-        )
+    recommend_ai_button = st.button(
+        "🤖 Recommend Best AI Assistants",
+        use_container_width=True,
+        key="recommend_ai_button"
+    )
 
     st.markdown("<br><br>", unsafe_allow_html=True)
 
@@ -371,25 +373,34 @@ if "generated_prompt" in st.session_state:
 # AI RECOMMENDATIONS
 # ----------------------------------------------------
 
+# ----------------------------------------------------
+# AI RECOMMENDATIONS
+# ----------------------------------------------------
+
 if recommend_ai_button:
 
-    with st.spinner("🤖 Finding the best AI assistants for your task..."):
+    # Use cached recommendations if already available
+    if "recommendations" not in st.session_state:
 
-        try:
+        with st.spinner("🤖 Finding the best AI assistants for your task..."):
 
-            recommendations = recommend_ai(
-                role=st.session_state.role,
-                task=st.session_state.task,
-                context=st.session_state.context,
-                constraint=st.session_state.constraint,
-                output_format=st.session_state.output_format,
-                goal=st.session_state.goal
-            )
+            try:
 
-        except Exception as e:
+                st.session_state.recommendations = recommend_ai(
+                    role=st.session_state.role,
+                    task=st.session_state.task,
+                    context=st.session_state.context,
+                    constraint=st.session_state.constraint,
+                    output_format=st.session_state.output_format,
+                    goal=st.session_state.goal
+                )
 
-            st.error(f"❌ Recommendation Error:\n\n{e}")
-            st.stop()
+            except Exception as e:
+
+                st.error(f"❌ Recommendation Error:\n\n{e}")
+                st.stop()
+
+    recommendations = st.session_state.recommendations
 
     st.markdown("<br>", unsafe_allow_html=True)
 
@@ -399,24 +410,40 @@ if recommend_ai_button:
     </div>
 
     <p style="color:#6B7280;margin-bottom:20px;">
-        Based on your requirements, Gemini recommends these AI assistants.
+        Based on your requirements, PromptWise AI recommends these AI assistants.
     </p>
     """, unsafe_allow_html=True)
 
     medals = ["🥇", "🥈", "🥉"]
 
-    if isinstance(recommendations, list):
+    if not recommendations:
+
+        st.warning("No recommendations returned.")
+
+    else:
 
         for i, ai in enumerate(recommendations):
 
             medal = medals[i] if i < 3 else "⭐"
 
             name = ai.get("name", "Unknown AI")
-            score = ai.get("confidence_score", ai.get("score", "N/A"))
-            reason = ai.get("reason", "No explanation available.")
+
+            score = ai.get(
+                "confidence_score",
+                ai.get("score", "N/A")
+            )
+
+            reason = ai.get(
+                "reason",
+                "No explanation available."
+            )
+
             website = ai.get(
                 "official_website",
-                ai.get("url", "https://www.google.com")
+                ai.get(
+                    "url",
+                    "https://www.google.com"
+                )
             )
 
             st.markdown(f"""
@@ -448,9 +475,6 @@ if recommend_ai_button:
 
             st.markdown("<br>", unsafe_allow_html=True)
 
-    else:
-
-        st.warning("No recommendations returned.")
 
 # ----------------------------------------------------
 # FOOTER
