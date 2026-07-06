@@ -252,11 +252,7 @@ col1, col2, col3 = st.columns([1,2,1])
 
 with col2:
 
-    generate = st.button(
-        "✨ Generate Professional Prompt",
-        use_container_width=True,
-        key="generate_prompt_button"
-    )
+    
 
 st.markdown("<br><br>", unsafe_allow_html=True)
 
@@ -266,27 +262,7 @@ st.markdown("<br><br>", unsafe_allow_html=True)
 
 if generate:
 
-    # ---------------- Validation ----------------
-
-    if role.strip() == "":
-        st.warning("⚠ Please enter the AI Role.")
-        st.stop()
-
-    if task.strip() == "":
-        st.warning("⚠ Please enter the Task.")
-        st.stop()
-
-    if context.strip() == "":
-        st.warning("⚠ Please enter the Context.")
-        st.stop()
-
-    if goal.strip() == "":
-        st.warning("⚠ Please enter the Goal.")
-        st.stop()
-
-    # ---------------- Prompt Generation ----------------
-
-    with st.spinner("🧠 PromptWise AI is engineering your professional prompt..."):
+    with st.spinner("🧠 Generating your professional prompt..."):
 
         try:
 
@@ -299,32 +275,62 @@ if generate:
                 goal=goal
             )
 
+            # Save everything for later
+            st.session_state.generated_prompt = prompt
+            st.session_state.role = role
+            st.session_state.task = task
+            st.session_state.context = context
+            st.session_state.constraint = constraint
+            st.session_state.output_format = output_format
+            st.session_state.goal = goal
+
         except Exception as e:
 
             st.error(f"❌ Prompt Generation Error:\n\n{e}")
             st.stop()
 
-    st.success("✅ Professional Prompt Generated Successfully!")
+
+# ----------------------------------------------------
+# DISPLAY GENERATED PROMPT
+# ----------------------------------------------------
+
+if "generated_prompt" in st.session_state:
+
+    st.success("✅ Prompt Generated Successfully")
 
     st.markdown("<br>", unsafe_allow_html=True)
 
     st.markdown("""
-    <div class="card">
     <div class="section-title">
-        📝 Generated Prompt
-    </div>
+        📝 Generated Professional Prompt
     </div>
     """, unsafe_allow_html=True)
 
     st.text_area(
         "",
-        value=prompt,
+        value=st.session_state.generated_prompt,
         height=350,
-        disabled=True,
-        key="generated_prompt"
+        disabled=True
     )
 
+    st_copy_to_clipboard(
+        st.session_state.generated_prompt,
+        "📋 Copy Prompt"
+    )
+
+    st.download_button(
+        "📥 Download Prompt",
+        st.session_state.generated_prompt,
+        file_name="generated_prompt.txt",
+        mime="text/plain",
+        use_container_width=True
+    )
     st.markdown("<br>", unsafe_allow_html=True)
+
+    recommend_ai_button = st.button(
+        "🤖 Recommend Best AI Assistants",
+        use_container_width=True
+    )
 
     c1, c2, c3 = st.columns(3)
 
@@ -359,21 +365,27 @@ if generate:
 
     st.markdown("<br><br>", unsafe_allow_html=True)
 
-    # ----------------------------------------------------
-    # AI RECOMMENDATIONS
-    # ----------------------------------------------------
+# ----------------------------------------------------
+# AI RECOMMENDATIONS
+# ----------------------------------------------------
+
+# ----------------------------------------------------
+# AI RECOMMENDATIONS
+# ----------------------------------------------------
+
+if recommend_ai_button:
 
     with st.spinner("🤖 Finding the best AI assistants for your task..."):
 
         try:
 
             recommendations = recommend_ai(
-                role=role,
-                task=task,
-                context=context,
-                constraint=constraint,
-                output_format=output_format,
-                goal=goal
+                role=st.session_state.role,
+                task=st.session_state.task,
+                context=st.session_state.context,
+                constraint=st.session_state.constraint,
+                output_format=st.session_state.output_format,
+                goal=st.session_state.goal
             )
 
         except Exception as e:
@@ -411,11 +423,11 @@ if generate:
 
             st.markdown(f"""
             <div class="card">
-            <h3>{medal} {name}</h3>
+                <h3>{medal} {name}</h3>
             </div>
             """, unsafe_allow_html=True)
 
-            left, right = st.columns([4,1])
+            left, right = st.columns([4, 1])
 
             with left:
 
