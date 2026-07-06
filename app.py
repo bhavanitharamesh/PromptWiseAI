@@ -1,6 +1,6 @@
 import streamlit as st
 from utils.genai import generate_prompt
-from utils.genai import recommend_ai
+from utils.ml_recommender import recommend_ai_ml
 from st_copy_to_clipboard import st_copy_to_clipboard
 
 # ----------------------------------------------------
@@ -386,7 +386,7 @@ if recommend_ai_button:
 
             try:
 
-                st.session_state.recommendations = recommend_ai(
+                st.session_state.recommendations = recommend_ai_ml(
                     role=st.session_state.role,
                     task=st.session_state.task,
                     context=st.session_state.context,

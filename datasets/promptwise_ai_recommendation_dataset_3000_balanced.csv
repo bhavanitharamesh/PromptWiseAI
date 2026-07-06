@@ -1,0 +1,3001 @@
+Role,Task,Context,Goal,Best_AI
+Research Scientist,Generate project structure,Research Lab,Presentation,Cursor AI
+Frontend Developer,Research comparison,Hospital,Business Growth,Perplexity
+Business Analyst,Implement feature,Research Lab,Documentation,Cursor AI
+Financial Analyst,Build ML model,Hospital,Exam Preparation,ChatGPT
+Financial Analyst,Current events summary,E-commerce,Documentation,Grok
+Professor,Fact checking,Education,Exam Preparation,Perplexity
+DevOps Engineer,Complete code,Healthcare,Presentation,GitHub Copilot
+Teacher,Competitive programming,Finance,Documentation,DeepSeek
+Frontend Developer,Summarize documents,Finance,Research,Claude
+Research Scientist,Social media insights,Finance,Exam Preparation,Grok
+Full Stack Developer,Competitive programming,Finance,Business Growth,DeepSeek
+Business Analyst,Explain algorithms,Hospital,Presentation,ChatGPT
+Teacher,Analyze images,Research Lab,Automation,Gemini
+Software Engineer,Word drafting,Hospital,Prototype,Microsoft Copilot
+HR Manager,Chinese NLP task,Healthcare,Documentation,Qwen
+Professor,Citation search,Startup,Deployment,Perplexity
+Cybersecurity Analyst,Find latest information,E-commerce,Business Growth,Perplexity
+Teacher,Technical writing,Startup,Placement,Claude
+Frontend Developer,General coding,Enterprise,Presentation,Qwen
+Frontend Developer,Social media insights,Startup,Learning,Grok
+HR Manager,System design,College,Presentation,ChatGPT
+Professor,System design,Legal Firm,Research,ChatGPT
+Full Stack Developer,Research comparison,Healthcare,Learning,Perplexity
+Lawyer,Generate project structure,Education,Business Growth,Cursor AI
+DevOps Engineer,Generate unit tests,Enterprise,Exam Preparation,GitHub Copilot
+Student,Multilingual translation,Hospital,Learning,Qwen
+Machine Learning Engineer,Trend analysis,College,Presentation,Grok
+Full Stack Developer,Generate unit tests,Education,Exam Preparation,GitHub Copilot
+Professor,Debug Python code,Startup,Business Growth,ChatGPT
+Doctor,Generate unit tests,Healthcare,Exam Preparation,GitHub Copilot
+DevOps Engineer,Research comparison,Enterprise,Placement,Perplexity
+Content Writer,Office automation,Enterprise,Learning,Microsoft Copilot
+Teacher,Google Workspace task,College,Prototype,Gemini
+Research Scientist,Knowledge Q&A,Legal Firm,Deployment,Qwen
+Teacher,Debug Python code,Hospital,Placement,ChatGPT
+Marketing Manager,Educational content,College,Business Growth,Gemini
+Financial Analyst,Competitive programming,Education,Automation,DeepSeek
+Lawyer,Long-form analysis,Startup,Prototype,Claude
+DevOps Engineer,Build ML model,Finance,Business Growth,ChatGPT
+Marketing Manager,Autocomplete functions,Education,Exam Preparation,GitHub Copilot
+Financial Analyst,Explain algorithms,E-commerce,Exam Preparation,ChatGPT
+Software Engineer,Build ML model,Education,Documentation,ChatGPT
+Backend Developer,Technical writing,Finance,Exam Preparation,Claude
+Lawyer,Multimodal explanation,College,Business Growth,Gemini
+Professor,Excel analysis,Startup,Placement,Microsoft Copilot
+UI UX Designer,Word drafting,Hospital,Prototype,Microsoft Copilot
+Teacher,Brainstorm ideas,Startup,Prototype,Grok
+Data Scientist,Build ML model,Enterprise,Placement,ChatGPT
+Financial Analyst,Brainstorm ideas,Startup,Learning,Grok
+Cybersecurity Analyst,Word drafting,Education,Placement,Microsoft Copilot
+Financial Analyst,Literature review,Finance,Documentation,Perplexity
+Lawyer,Coding interview,Startup,Presentation,DeepSeek
+Software Engineer,Write SQL queries,Hospital,Placement,ChatGPT
+Lawyer,Trend analysis,E-commerce,Learning,Grok
+Teacher,Write SQL queries,Education,Business Growth,ChatGPT
+Financial Analyst,Reasoning task,E-commerce,Exam Preparation,Qwen
+Software Engineer,Autocomplete functions,Startup,Exam Preparation,GitHub Copilot
+DevOps Engineer,Educational content,Education,Prototype,Gemini
+Financial Analyst,Current events summary,Research Lab,Research,Grok
+Professor,Find latest information,Enterprise,Presentation,Perplexity
+Software Engineer,Educational content,E-commerce,Business Growth,Gemini
+Business Analyst,Educational content,Research Lab,Deployment,Gemini
+Data Scientist,Create presentation,Startup,Learning,Gemini
+Backend Developer,Debug Python code,Hospital,Deployment,ChatGPT
+Data Scientist,Explain algorithms,Finance,Exam Preparation,ChatGPT
+Machine Learning Engineer,Citation search,Healthcare,Prototype,Perplexity
+Professor,Refactor project,Healthcare,Deployment,GitHub Copilot
+Frontend Developer,Refactor project,Education,Prototype,GitHub Copilot
+HR Manager,PowerPoint outline,Education,Placement,Microsoft Copilot
+Marketing Manager,Technical writing,College,Automation,Claude
+Data Scientist,Excel analysis,E-commerce,Placement,Microsoft Copilot
+Research Scientist,Tech discussion,Finance,Exam Preparation,Grok
+Machine Learning Engineer,Chinese NLP task,Education,Automation,Qwen
+Doctor,Code navigation,Enterprise,Prototype,Cursor AI
+Doctor,Build ML model,Enterprise,Deployment,ChatGPT
+DevOps Engineer,Google Workspace task,Research Lab,Documentation,Gemini
+Frontend Developer,Math reasoning,Startup,Learning,DeepSeek
+Student,Multilingual translation,Legal Firm,Deployment,Qwen
+Data Scientist,Math reasoning,College,Exam Preparation,DeepSeek
+Backend Developer,Trend analysis,College,Documentation,Grok
+Marketing Manager,Generate project structure,Healthcare,Placement,Cursor AI
+Frontend Developer,Edit repository,Hospital,Exam Preparation,Cursor AI
+Professor,Multimodal explanation,Finance,Automation,Gemini
+Lawyer,Edit repository,E-commerce,Deployment,Cursor AI
+Marketing Manager,Implement feature,College,Research,Cursor AI
+Software Engineer,Write SQL queries,College,Automation,ChatGPT
+Teacher,Tech discussion,Enterprise,Presentation,Grok
+Software Engineer,Refactor project,Research Lab,Presentation,GitHub Copilot
+Data Scientist,Tech discussion,College,Presentation,Grok
+HR Manager,Multilingual translation,E-commerce,Documentation,Qwen
+Professor,Long-form analysis,E-commerce,Placement,Claude
+Software Engineer,Refactor project,Hospital,Prototype,GitHub Copilot
+Machine Learning Engineer,Current events summary,Education,Business Growth,Grok
+Business Analyst,Fix bugs,Education,Learning,GitHub Copilot
+DevOps Engineer,Teams meeting summary,Healthcare,Placement,Microsoft Copilot
+Financial Analyst,Summarize documents,Research Lab,Prototype,Claude
+Full Stack Developer,Current events summary,Finance,Automation,Grok
+Student,Python optimization,College,Prototype,DeepSeek
+Professor,Write SQL queries,Education,Documentation,ChatGPT
+Content Writer,Teams meeting summary,Legal Firm,Business Growth,Microsoft Copilot
+Content Writer,Math reasoning,E-commerce,Deployment,DeepSeek
+UI UX Designer,Build ML model,Enterprise,Documentation,ChatGPT
+Doctor,Analyze images,E-commerce,Documentation,Gemini
+Research Scientist,Office automation,Finance,Business Growth,Microsoft Copilot
+Cybersecurity Analyst,Refactor project,E-commerce,Exam Preparation,GitHub Copilot
+Software Engineer,Google Workspace task,Finance,Exam Preparation,Gemini
+Software Engineer,Implement feature,Legal Firm,Business Growth,Cursor AI
+Backend Developer,Write research report,Legal Firm,Presentation,Claude
+Lawyer,System design,College,Exam Preparation,ChatGPT
+Student,Teams meeting summary,College,Documentation,Microsoft Copilot
+Student,Knowledge Q&A,College,Placement,Qwen
+Teacher,Long-form analysis,Education,Automation,Claude
+Professor,Reasoning task,Enterprise,Business Growth,Qwen
+Frontend Developer,Refactor large codebase,Research Lab,Exam Preparation,Cursor AI
+Marketing Manager,Summarize documents,Enterprise,Prototype,Claude
+Machine Learning Engineer,Math reasoning,Enterprise,Automation,DeepSeek
+Backend Developer,Debug Python code,Enterprise,Presentation,ChatGPT
+Frontend Developer,Long-form analysis,Healthcare,Research,Claude
+Student,Autocomplete functions,E-commerce,Presentation,GitHub Copilot
+Financial Analyst,Code navigation,Legal Firm,Deployment,Cursor AI
+DevOps Engineer,Reasoning task,Startup,Documentation,Qwen
+Frontend Developer,Fix bugs,Legal Firm,Automation,GitHub Copilot
+Full Stack Developer,Google Workspace task,Education,Business Growth,Gemini
+Lawyer,Word drafting,College,Automation,Microsoft Copilot
+Frontend Developer,Autocomplete functions,Legal Firm,Exam Preparation,GitHub Copilot
+UI UX Designer,Coding interview,Startup,Automation,DeepSeek
+Business Analyst,Implement feature,Finance,Automation,Cursor AI
+Backend Developer,Analyze images,Finance,Learning,Gemini
+UI UX Designer,Google Workspace task,Finance,Prototype,Gemini
+Research Scientist,Fact checking,Finance,Automation,Perplexity
+Software Engineer,Algorithm optimization,Finance,Exam Preparation,DeepSeek
+Marketing Manager,Autocomplete functions,Healthcare,Placement,GitHub Copilot
+Doctor,Implement feature,Education,Business Growth,Cursor AI
+Backend Developer,Teams meeting summary,Research Lab,Business Growth,Microsoft Copilot
+Student,Find latest information,College,Deployment,Perplexity
+Backend Developer,Policy drafting,E-commerce,Exam Preparation,Claude
+Content Writer,Build ML model,Research Lab,Deployment,ChatGPT
+Machine Learning Engineer,Teams meeting summary,Legal Firm,Placement,Microsoft Copilot
+Full Stack Developer,Literature review,Enterprise,Automation,Perplexity
+Research Scientist,Math reasoning,College,Documentation,DeepSeek
+Business Analyst,Brainstorm ideas,E-commerce,Placement,Grok
+Data Scientist,Fix bugs,Legal Firm,Exam Preparation,GitHub Copilot
+Marketing Manager,Competitive programming,Healthcare,Deployment,DeepSeek
+Doctor,Chinese NLP task,Enterprise,Placement,Qwen
+Data Scientist,Algorithm optimization,Startup,Prototype,DeepSeek
+Research Scientist,Write research report,Startup,Learning,Claude
+Student,Algorithm optimization,Legal Firm,Exam Preparation,DeepSeek
+Frontend Developer,Math reasoning,E-commerce,Prototype,DeepSeek
+Lawyer,Generate project structure,Healthcare,Documentation,Cursor AI
+Doctor,System design,Education,Deployment,ChatGPT
+Software Engineer,Edit repository,Healthcare,Prototype,Cursor AI
+Backend Developer,Knowledge Q&A,Education,Prototype,Qwen
+Machine Learning Engineer,Research comparison,Enterprise,Research,Perplexity
+UI UX Designer,Math reasoning,Legal Firm,Automation,DeepSeek
+DevOps Engineer,Write research report,Healthcare,Deployment,Claude
+Marketing Manager,Edit repository,Finance,Exam Preparation,Cursor AI
+Research Scientist,Debug Python code,Startup,Documentation,ChatGPT
+HR Manager,General coding,E-commerce,Deployment,Qwen
+Backend Developer,PowerPoint outline,Hospital,Business Growth,Microsoft Copilot
+Cybersecurity Analyst,Chinese NLP task,Finance,Presentation,Qwen
+UI UX Designer,Teams meeting summary,Startup,Prototype,Microsoft Copilot
+Machine Learning Engineer,Refactor large codebase,Education,Research,Cursor AI
+Business Analyst,Write SQL queries,Legal Firm,Deployment,ChatGPT
+Backend Developer,Long-form analysis,Legal Firm,Documentation,Claude
+Doctor,Excel analysis,Legal Firm,Presentation,Microsoft Copilot
+DevOps Engineer,Autocomplete functions,Startup,Automation,GitHub Copilot
+Doctor,System design,Hospital,Deployment,ChatGPT
+Software Engineer,Current events summary,College,Automation,Grok
+Data Scientist,Competitive programming,College,Automation,DeepSeek
+DevOps Engineer,Long-form analysis,Education,Automation,Claude
+Data Scientist,Multilingual translation,Healthcare,Deployment,Qwen
+Frontend Developer,General coding,Education,Research,Qwen
+Business Analyst,Excel analysis,Research Lab,Placement,Microsoft Copilot
+Financial Analyst,Analyze images,Finance,Prototype,Gemini
+Frontend Developer,Chinese NLP task,College,Automation,Qwen
+Cybersecurity Analyst,Fix bugs,E-commerce,Deployment,GitHub Copilot
+Backend Developer,Algorithm optimization,Legal Firm,Research,DeepSeek
+Machine Learning Engineer,Excel analysis,College,Automation,Microsoft Copilot
+HR Manager,Long-form analysis,Legal Firm,Business Growth,Claude
+Full Stack Developer,Excel analysis,E-commerce,Research,Microsoft Copilot
+Data Scientist,Technical writing,E-commerce,Documentation,Claude
+Backend Developer,Tech discussion,Education,Research,Grok
+DevOps Engineer,Generate project structure,Hospital,Automation,Cursor AI
+DevOps Engineer,Multilingual translation,Finance,Placement,Qwen
+Lawyer,Build ML model,Legal Firm,Business Growth,ChatGPT
+Software Engineer,Explain algorithms,Hospital,Presentation,ChatGPT
+Backend Developer,Build ML model,Research Lab,Placement,ChatGPT
+Research Scientist,Competitive programming,Research Lab,Presentation,DeepSeek
+Machine Learning Engineer,Complete code,Enterprise,Prototype,GitHub Copilot
+Software Engineer,Excel analysis,College,Placement,Microsoft Copilot
+Cybersecurity Analyst,Educational content,College,Learning,Gemini
+Machine Learning Engineer,Research comparison,Legal Firm,Presentation,Perplexity
+Doctor,Generate project structure,Research Lab,Placement,Cursor AI
+Lawyer,Write research report,Research Lab,Automation,Claude
+Software Engineer,Find latest information,Research Lab,Deployment,Perplexity
+Teacher,Trend analysis,Research Lab,Automation,Grok
+Machine Learning Engineer,Policy drafting,Finance,Automation,Claude
+Business Analyst,Social media insights,Education,Placement,Grok
+Business Analyst,Multimodal explanation,Startup,Documentation,Gemini
+Financial Analyst,Write SQL queries,College,Deployment,ChatGPT
+Cybersecurity Analyst,Refactor project,College,Learning,GitHub Copilot
+Teacher,Implement feature,College,Presentation,Cursor AI
+Research Scientist,Build ML model,Enterprise,Placement,ChatGPT
+Doctor,Brainstorm ideas,Enterprise,Exam Preparation,Grok
+Data Scientist,Generate project structure,Startup,Presentation,Cursor AI
+Full Stack Developer,Refactor project,Enterprise,Placement,GitHub Copilot
+Doctor,Python optimization,College,Business Growth,DeepSeek
+Frontend Developer,Competitive programming,Legal Firm,Placement,DeepSeek
+Data Scientist,Write research report,E-commerce,Presentation,Claude
+Full Stack Developer,Competitive programming,E-commerce,Research,DeepSeek
+Backend Developer,Code navigation,Education,Deployment,Cursor AI
+Frontend Developer,Excel analysis,Healthcare,Documentation,Microsoft Copilot
+Business Analyst,Generate unit tests,Finance,Prototype,GitHub Copilot
+Financial Analyst,Math reasoning,Hospital,Presentation,DeepSeek
+Frontend Developer,Google Workspace task,Startup,Exam Preparation,Gemini
+Machine Learning Engineer,Write SQL queries,E-commerce,Prototype,ChatGPT
+Machine Learning Engineer,Debug Python code,Legal Firm,Research,ChatGPT
+Lawyer,Long-form analysis,Enterprise,Business Growth,Claude
+Marketing Manager,Implement feature,College,Research,Cursor AI
+Software Engineer,Coding interview,E-commerce,Automation,DeepSeek
+Marketing Manager,Generate unit tests,Research Lab,Exam Preparation,GitHub Copilot
+Backend Developer,PowerPoint outline,Research Lab,Documentation,Microsoft Copilot
+Marketing Manager,Multimodal explanation,Hospital,Business Growth,Gemini
+Content Writer,Chinese NLP task,Education,Automation,Qwen
+Financial Analyst,Complete code,Hospital,Learning,GitHub Copilot
+Professor,Long-form analysis,Enterprise,Placement,Claude
+Marketing Manager,System design,Hospital,Presentation,ChatGPT
+Doctor,Algorithm optimization,Healthcare,Research,DeepSeek
+Research Scientist,Research comparison,College,Prototype,Perplexity
+Marketing Manager,Explain algorithms,E-commerce,Presentation,ChatGPT
+Data Scientist,Generate unit tests,Research Lab,Documentation,GitHub Copilot
+Full Stack Developer,Implement feature,Enterprise,Placement,Cursor AI
+Backend Developer,Social media insights,E-commerce,Deployment,Grok
+Research Scientist,Build ML model,E-commerce,Documentation,ChatGPT
+Full Stack Developer,Analyze images,College,Automation,Gemini
+Cybersecurity Analyst,Citation search,Education,Placement,Perplexity
+UI UX Designer,Write research report,Education,Documentation,Claude
+Frontend Developer,Excel analysis,Education,Learning,Microsoft Copilot
+Frontend Developer,Trend analysis,E-commerce,Automation,Grok
+Teacher,Create presentation,College,Research,Gemini
+Student,Current events summary,College,Business Growth,Grok
+HR Manager,Create presentation,Research Lab,Automation,Gemini
+DevOps Engineer,Generate project structure,Enterprise,Presentation,Cursor AI
+Cybersecurity Analyst,Edit repository,Education,Learning,Cursor AI
+Business Analyst,Explain algorithms,Research Lab,Automation,ChatGPT
+Student,Policy drafting,Healthcare,Documentation,Claude
+Cybersecurity Analyst,Citation search,College,Exam Preparation,Perplexity
+Financial Analyst,Long-form analysis,College,Documentation,Claude
+Student,Multimodal explanation,Finance,Prototype,Gemini
+Student,Trend analysis,Hospital,Documentation,Grok
+Full Stack Developer,Literature review,Hospital,Automation,Perplexity
+Marketing Manager,Autocomplete functions,Startup,Prototype,GitHub Copilot
+Full Stack Developer,System design,Enterprise,Prototype,ChatGPT
+Lawyer,Research comparison,Research Lab,Learning,Perplexity
+Cybersecurity Analyst,Multilingual translation,Legal Firm,Business Growth,Qwen
+Teacher,General coding,Healthcare,Deployment,Qwen
+Business Analyst,Implement feature,Finance,Prototype,Cursor AI
+Cybersecurity Analyst,Brainstorm ideas,E-commerce,Automation,Grok
+Full Stack Developer,Generate project structure,Education,Placement,Cursor AI
+Full Stack Developer,Python optimization,Healthcare,Documentation,DeepSeek
+DevOps Engineer,PowerPoint outline,Enterprise,Exam Preparation,Microsoft Copilot
+Frontend Developer,Office automation,Enterprise,Research,Microsoft Copilot
+Cybersecurity Analyst,Explain algorithms,Research Lab,Presentation,ChatGPT
+Machine Learning Engineer,Citation search,E-commerce,Prototype,Perplexity
+Lawyer,Summarize documents,Legal Firm,Documentation,Claude
+Doctor,Competitive programming,Finance,Automation,DeepSeek
+Backend Developer,Current events summary,Finance,Placement,Grok
+Frontend Developer,Tech discussion,Healthcare,Prototype,Grok
+Backend Developer,Multilingual translation,Finance,Automation,Qwen
+Software Engineer,Long-form analysis,Legal Firm,Research,Claude
+Content Writer,Implement feature,Enterprise,Documentation,Cursor AI
+Content Writer,Fact checking,Healthcare,Exam Preparation,Perplexity
+Lawyer,Competitive programming,College,Learning,DeepSeek
+DevOps Engineer,Technical writing,Education,Documentation,Claude
+Research Scientist,Find latest information,Startup,Automation,Perplexity
+HR Manager,Fact checking,Hospital,Learning,Perplexity
+Business Analyst,Reasoning task,Finance,Documentation,Qwen
+Research Scientist,Research comparison,Education,Research,Perplexity
+Business Analyst,Literature review,Healthcare,Documentation,Perplexity
+Research Scientist,Debug Python code,E-commerce,Deployment,ChatGPT
+Financial Analyst,Word drafting,Finance,Research,Microsoft Copilot
+Software Engineer,Literature review,College,Exam Preparation,Perplexity
+Frontend Developer,Long-form analysis,Research Lab,Documentation,Claude
+Full Stack Developer,Create presentation,Legal Firm,Documentation,Gemini
+Financial Analyst,Fact checking,Education,Prototype,Perplexity
+Professor,Implement feature,Education,Business Growth,Cursor AI
+Software Engineer,Write SQL queries,College,Prototype,ChatGPT
+Marketing Manager,Multilingual translation,Education,Learning,Qwen
+HR Manager,Summarize documents,College,Placement,Claude
+Backend Developer,Write research report,Enterprise,Documentation,Claude
+Software Engineer,Reasoning task,College,Exam Preparation,Qwen
+Machine Learning Engineer,Chinese NLP task,College,Documentation,Qwen
+Lawyer,Fix bugs,Enterprise,Exam Preparation,GitHub Copilot
+Financial Analyst,Office automation,Enterprise,Automation,Microsoft Copilot
+Teacher,Generate project structure,Enterprise,Prototype,Cursor AI
+DevOps Engineer,Trend analysis,Education,Placement,Grok
+Financial Analyst,Multimodal explanation,Research Lab,Research,Gemini
+Lawyer,Brainstorm ideas,Hospital,Learning,Grok
+Cybersecurity Analyst,Social media insights,Finance,Documentation,Grok
+Content Writer,Policy drafting,Education,Prototype,Claude
+Doctor,Write research report,Enterprise,Presentation,Claude
+Student,Research comparison,Legal Firm,Research,Perplexity
+DevOps Engineer,Debug Python code,Startup,Documentation,ChatGPT
+Financial Analyst,Office automation,Healthcare,Prototype,Microsoft Copilot
+Marketing Manager,Chinese NLP task,College,Prototype,Qwen
+Teacher,Analyze images,Enterprise,Deployment,Gemini
+Marketing Manager,Generate unit tests,Finance,Prototype,GitHub Copilot
+Financial Analyst,Teams meeting summary,Education,Prototype,Microsoft Copilot
+HR Manager,Office automation,Research Lab,Learning,Microsoft Copilot
+Machine Learning Engineer,Write research report,Hospital,Documentation,Claude
+Doctor,Policy drafting,Startup,Documentation,Claude
+Frontend Developer,Generate unit tests,Healthcare,Business Growth,GitHub Copilot
+UI UX Designer,Multimodal explanation,Enterprise,Business Growth,Gemini
+UI UX Designer,Python optimization,Healthcare,Learning,DeepSeek
+Lawyer,PowerPoint outline,Education,Placement,Microsoft Copilot
+Software Engineer,Competitive programming,Legal Firm,Automation,DeepSeek
+Backend Developer,Summarize documents,Healthcare,Business Growth,Claude
+Software Engineer,General coding,Enterprise,Placement,Qwen
+Cybersecurity Analyst,Edit repository,Research Lab,Business Growth,Cursor AI
+Full Stack Developer,Excel analysis,E-commerce,Business Growth,Microsoft Copilot
+Frontend Developer,Fact checking,Education,Presentation,Perplexity
+Student,Analyze images,Finance,Exam Preparation,Gemini
+Lawyer,Implement feature,Enterprise,Automation,Cursor AI
+Student,Generate project structure,College,Presentation,Cursor AI
+Business Analyst,Teams meeting summary,Finance,Exam Preparation,Microsoft Copilot
+Content Writer,Excel analysis,Research Lab,Exam Preparation,Microsoft Copilot
+UI UX Designer,Build ML model,Enterprise,Business Growth,ChatGPT
+HR Manager,Algorithm optimization,E-commerce,Automation,DeepSeek
+Software Engineer,Trend analysis,Finance,Presentation,Grok
+DevOps Engineer,Coding interview,Healthcare,Business Growth,DeepSeek
+Full Stack Developer,Educational content,E-commerce,Business Growth,Gemini
+HR Manager,Research comparison,Healthcare,Documentation,Perplexity
+Content Writer,Edit repository,Education,Business Growth,Cursor AI
+Research Scientist,Fact checking,E-commerce,Research,Perplexity
+Research Scientist,Fact checking,Finance,Documentation,Perplexity
+Lawyer,Chinese NLP task,Hospital,Automation,Qwen
+Doctor,Algorithm optimization,Healthcare,Prototype,DeepSeek
+Marketing Manager,Autocomplete functions,Startup,Placement,GitHub Copilot
+Machine Learning Engineer,Competitive programming,Research Lab,Learning,DeepSeek
+Research Scientist,Complete code,Hospital,Presentation,GitHub Copilot
+Teacher,Tech discussion,College,Exam Preparation,Grok
+Financial Analyst,Summarize documents,Finance,Automation,Claude
+Backend Developer,Find latest information,Hospital,Prototype,Perplexity
+Marketing Manager,Current events summary,College,Deployment,Grok
+Data Scientist,Technical writing,Finance,Automation,Claude
+Student,Generate unit tests,Research Lab,Placement,GitHub Copilot
+Backend Developer,Chinese NLP task,Startup,Learning,Qwen
+Research Scientist,Long-form analysis,Legal Firm,Deployment,Claude
+Cybersecurity Analyst,Office automation,Research Lab,Deployment,Microsoft Copilot
+DevOps Engineer,Policy drafting,Education,Deployment,Claude
+Research Scientist,Citation search,Startup,Research,Perplexity
+Content Writer,Brainstorm ideas,Finance,Documentation,Grok
+Student,System design,Research Lab,Learning,ChatGPT
+Professor,Generate project structure,E-commerce,Placement,Cursor AI
+Data Scientist,Chinese NLP task,Startup,Exam Preparation,Qwen
+Teacher,Write research report,Education,Research,Claude
+Software Engineer,Knowledge Q&A,Education,Business Growth,Qwen
+Full Stack Developer,Multimodal explanation,Finance,Prototype,Gemini
+Marketing Manager,General coding,Hospital,Presentation,Qwen
+Content Writer,Complete code,Healthcare,Exam Preparation,GitHub Copilot
+Lawyer,Knowledge Q&A,Legal Firm,Business Growth,Qwen
+Lawyer,Coding interview,Healthcare,Automation,DeepSeek
+HR Manager,Implement feature,Legal Firm,Placement,Cursor AI
+Professor,Create presentation,Finance,Documentation,Gemini
+Machine Learning Engineer,Educational content,Finance,Research,Gemini
+Cybersecurity Analyst,Educational content,Research Lab,Learning,Gemini
+Research Scientist,Implement feature,Healthcare,Research,Cursor AI
+UI UX Designer,Autocomplete functions,Education,Exam Preparation,GitHub Copilot
+Cybersecurity Analyst,Refactor large codebase,Enterprise,Deployment,Cursor AI
+Cybersecurity Analyst,Generate project structure,Startup,Learning,Cursor AI
+Frontend Developer,Long-form analysis,E-commerce,Exam Preparation,Claude
+Backend Developer,Summarize documents,Healthcare,Exam Preparation,Claude
+Frontend Developer,PowerPoint outline,Legal Firm,Business Growth,Microsoft Copilot
+Content Writer,Office automation,Education,Prototype,Microsoft Copilot
+Data Scientist,Debug Python code,E-commerce,Business Growth,ChatGPT
+Frontend Developer,PowerPoint outline,Enterprise,Presentation,Microsoft Copilot
+DevOps Engineer,Autocomplete functions,Hospital,Deployment,GitHub Copilot
+Student,Office automation,E-commerce,Prototype,Microsoft Copilot
+Professor,Write SQL queries,College,Business Growth,ChatGPT
+Content Writer,Office automation,Research Lab,Exam Preparation,Microsoft Copilot
+Financial Analyst,Educational content,Education,Automation,Gemini
+Student,Coding interview,Startup,Placement,DeepSeek
+Student,Multimodal explanation,Education,Learning,Gemini
+Lawyer,Multimodal explanation,Finance,Exam Preparation,Gemini
+Research Scientist,Write research report,Hospital,Placement,Claude
+HR Manager,Trend analysis,Hospital,Learning,Grok
+Frontend Developer,Teams meeting summary,Education,Automation,Microsoft Copilot
+Financial Analyst,Citation search,Enterprise,Deployment,Perplexity
+Software Engineer,Create presentation,College,Automation,Gemini
+DevOps Engineer,Research comparison,Startup,Placement,Perplexity
+Professor,Python optimization,Hospital,Prototype,DeepSeek
+Financial Analyst,Excel analysis,Healthcare,Learning,Microsoft Copilot
+Marketing Manager,Citation search,Finance,Prototype,Perplexity
+Lawyer,Office automation,Hospital,Automation,Microsoft Copilot
+Content Writer,Edit repository,E-commerce,Business Growth,Cursor AI
+UI UX Designer,Word drafting,E-commerce,Prototype,Microsoft Copilot
+Teacher,Technical writing,Hospital,Exam Preparation,Claude
+Professor,Long-form analysis,Enterprise,Research,Claude
+Software Engineer,Research comparison,E-commerce,Business Growth,Perplexity
+DevOps Engineer,General coding,Hospital,Prototype,Qwen
+Research Scientist,Multimodal explanation,Education,Placement,Gemini
+Doctor,General coding,Healthcare,Deployment,Qwen
+Research Scientist,PowerPoint outline,Research Lab,Business Growth,Microsoft Copilot
+Research Scientist,Trend analysis,Healthcare,Documentation,Grok
+Data Scientist,Brainstorm ideas,Hospital,Deployment,Grok
+Research Scientist,Word drafting,E-commerce,Learning,Microsoft Copilot
+Full Stack Developer,System design,E-commerce,Research,ChatGPT
+Content Writer,Current events summary,Hospital,Placement,Grok
+Student,Multimodal explanation,College,Automation,Gemini
+Frontend Developer,Python optimization,Hospital,Deployment,DeepSeek
+Software Engineer,PowerPoint outline,Legal Firm,Business Growth,Microsoft Copilot
+Cybersecurity Analyst,Summarize documents,Startup,Automation,Claude
+Research Scientist,Office automation,College,Documentation,Microsoft Copilot
+UI UX Designer,Debug Python code,Hospital,Placement,ChatGPT
+Teacher,Technical writing,College,Deployment,Claude
+Research Scientist,Refactor project,College,Placement,GitHub Copilot
+Financial Analyst,Fix bugs,Education,Automation,GitHub Copilot
+Doctor,Explain algorithms,Research Lab,Documentation,ChatGPT
+Student,Word drafting,E-commerce,Placement,Microsoft Copilot
+Data Scientist,Technical writing,E-commerce,Deployment,Claude
+UI UX Designer,Build ML model,Education,Research,ChatGPT
+Doctor,Python optimization,E-commerce,Prototype,DeepSeek
+Marketing Manager,Refactor project,Enterprise,Business Growth,GitHub Copilot
+DevOps Engineer,Literature review,College,Presentation,Perplexity
+Student,Google Workspace task,Legal Firm,Business Growth,Gemini
+DevOps Engineer,Fact checking,Education,Automation,Perplexity
+DevOps Engineer,Educational content,Startup,Placement,Gemini
+DevOps Engineer,Technical writing,Startup,Prototype,Claude
+Teacher,Policy drafting,Education,Documentation,Claude
+Software Engineer,Write research report,Enterprise,Documentation,Claude
+Full Stack Developer,Social media insights,College,Research,Grok
+Data Scientist,Write research report,Research Lab,Research,Claude
+Backend Developer,Reasoning task,College,Documentation,Qwen
+UI UX Designer,Literature review,Education,Prototype,Perplexity
+Business Analyst,Autocomplete functions,E-commerce,Deployment,GitHub Copilot
+Backend Developer,Fix bugs,Enterprise,Research,GitHub Copilot
+HR Manager,Complete code,Finance,Placement,GitHub Copilot
+Student,Code navigation,Finance,Prototype,Cursor AI
+Teacher,Math reasoning,Research Lab,Learning,DeepSeek
+Doctor,Find latest information,College,Automation,Perplexity
+Lawyer,System design,Legal Firm,Prototype,ChatGPT
+Marketing Manager,Excel analysis,College,Presentation,Microsoft Copilot
+Full Stack Developer,Competitive programming,Healthcare,Exam Preparation,DeepSeek
+Doctor,Autocomplete functions,Enterprise,Business Growth,GitHub Copilot
+Business Analyst,Competitive programming,Enterprise,Automation,DeepSeek
+Business Analyst,Long-form analysis,Legal Firm,Automation,Claude
+DevOps Engineer,Edit repository,Education,Placement,Cursor AI
+Research Scientist,Knowledge Q&A,College,Automation,Qwen
+Frontend Developer,Build ML model,College,Prototype,ChatGPT
+Backend Developer,Trend analysis,Healthcare,Research,Grok
+Research Scientist,Multilingual translation,Enterprise,Documentation,Qwen
+Data Scientist,Literature review,Healthcare,Learning,Perplexity
+Lawyer,General coding,Education,Presentation,Qwen
+Doctor,Complete code,Education,Deployment,GitHub Copilot
+DevOps Engineer,Refactor project,College,Presentation,GitHub Copilot
+Marketing Manager,System design,Healthcare,Exam Preparation,ChatGPT
+Software Engineer,Fact checking,Education,Exam Preparation,Perplexity
+Content Writer,System design,Research Lab,Business Growth,ChatGPT
+Data Scientist,Policy drafting,Research Lab,Exam Preparation,Claude
+DevOps Engineer,Debug Python code,E-commerce,Learning,ChatGPT
+HR Manager,Refactor project,Hospital,Documentation,GitHub Copilot
+Backend Developer,Write research report,Research Lab,Research,Claude
+Financial Analyst,System design,Education,Research,ChatGPT
+Backend Developer,Debug Python code,Legal Firm,Deployment,ChatGPT
+UI UX Designer,Generate unit tests,Research Lab,Learning,GitHub Copilot
+Teacher,Excel analysis,Finance,Research,Microsoft Copilot
+Content Writer,Create presentation,College,Automation,Gemini
+Student,Research comparison,Education,Deployment,Perplexity
+Data Scientist,System design,Hospital,Research,ChatGPT
+DevOps Engineer,Social media insights,Enterprise,Research,Grok
+HR Manager,Educational content,Finance,Learning,Gemini
+Data Scientist,Implement feature,Finance,Exam Preparation,Cursor AI
+Software Engineer,Code navigation,Hospital,Business Growth,Cursor AI
+Financial Analyst,Debug Python code,Education,Exam Preparation,ChatGPT
+Business Analyst,Tech discussion,College,Automation,Grok
+Doctor,Social media insights,Legal Firm,Presentation,Grok
+DevOps Engineer,Trend analysis,Healthcare,Deployment,Grok
+Research Scientist,Multilingual translation,Finance,Learning,Qwen
+Machine Learning Engineer,Fix bugs,Education,Business Growth,GitHub Copilot
+Teacher,Find latest information,Research Lab,Presentation,Perplexity
+Data Scientist,Social media insights,Startup,Deployment,Grok
+Doctor,System design,Legal Firm,Prototype,ChatGPT
+Business Analyst,Excel analysis,Startup,Documentation,Microsoft Copilot
+UI UX Designer,Math reasoning,Healthcare,Research,DeepSeek
+Teacher,Coding interview,Hospital,Business Growth,DeepSeek
+Content Writer,Social media insights,College,Presentation,Grok
+Content Writer,Coding interview,College,Learning,DeepSeek
+HR Manager,Trend analysis,College,Research,Grok
+Business Analyst,Debug Python code,Hospital,Deployment,ChatGPT
+DevOps Engineer,Multilingual translation,E-commerce,Documentation,Qwen
+Data Scientist,Multimodal explanation,Education,Placement,Gemini
+Full Stack Developer,Implement feature,Finance,Exam Preparation,Cursor AI
+Research Scientist,Multilingual translation,Legal Firm,Research,Qwen
+Full Stack Developer,Chinese NLP task,Research Lab,Research,Qwen
+Cybersecurity Analyst,Edit repository,Research Lab,Deployment,Cursor AI
+Cybersecurity Analyst,Create presentation,College,Deployment,Gemini
+Professor,Summarize documents,Startup,Prototype,Claude
+Frontend Developer,Algorithm optimization,Enterprise,Placement,DeepSeek
+Financial Analyst,Policy drafting,E-commerce,Learning,Claude
+DevOps Engineer,Chinese NLP task,Education,Documentation,Qwen
+DevOps Engineer,Teams meeting summary,Education,Learning,Microsoft Copilot
+Machine Learning Engineer,Multimodal explanation,Hospital,Exam Preparation,Gemini
+Financial Analyst,Research comparison,Finance,Exam Preparation,Perplexity
+Content Writer,Chinese NLP task,Finance,Research,Qwen
+Lawyer,Debug Python code,Hospital,Research,ChatGPT
+Full Stack Developer,Refactor large codebase,Hospital,Placement,Cursor AI
+Full Stack Developer,Social media insights,Healthcare,Prototype,Grok
+Professor,Research comparison,Education,Placement,Perplexity
+Content Writer,Current events summary,College,Deployment,Grok
+Cybersecurity Analyst,Fact checking,Education,Business Growth,Perplexity
+Financial Analyst,Current events summary,Education,Presentation,Grok
+Doctor,Write SQL queries,Finance,Documentation,ChatGPT
+Full Stack Developer,Policy drafting,Hospital,Business Growth,Claude
+Doctor,Generate project structure,Hospital,Placement,Cursor AI
+DevOps Engineer,Multimodal explanation,Healthcare,Research,Gemini
+Content Writer,Tech discussion,Startup,Exam Preparation,Grok
+Business Analyst,Find latest information,Enterprise,Placement,Perplexity
+Student,Technical writing,Research Lab,Exam Preparation,Claude
+Professor,Fix bugs,College,Automation,GitHub Copilot
+DevOps Engineer,PowerPoint outline,Research Lab,Documentation,Microsoft Copilot
+DevOps Engineer,Build ML model,Hospital,Prototype,ChatGPT
+Teacher,Find latest information,Healthcare,Research,Perplexity
+Research Scientist,Excel analysis,E-commerce,Deployment,Microsoft Copilot
+Professor,Create presentation,Legal Firm,Learning,Gemini
+Marketing Manager,Find latest information,Hospital,Research,Perplexity
+DevOps Engineer,Word drafting,Legal Firm,Deployment,Microsoft Copilot
+Content Writer,Chinese NLP task,Legal Firm,Exam Preparation,Qwen
+Student,Algorithm optimization,Healthcare,Automation,DeepSeek
+DevOps Engineer,Edit repository,Hospital,Presentation,Cursor AI
+Student,Tech discussion,Finance,Research,Grok
+Doctor,Generate project structure,College,Deployment,Cursor AI
+Data Scientist,Fact checking,Hospital,Deployment,Perplexity
+Business Analyst,Refactor project,Enterprise,Presentation,GitHub Copilot
+Teacher,Chinese NLP task,E-commerce,Documentation,Qwen
+Student,Write SQL queries,Startup,Placement,ChatGPT
+Teacher,Coding interview,Hospital,Research,DeepSeek
+Content Writer,Autocomplete functions,Hospital,Learning,GitHub Copilot
+Frontend Developer,Knowledge Q&A,Healthcare,Documentation,Qwen
+Content Writer,Generate unit tests,Legal Firm,Automation,GitHub Copilot
+Content Writer,Complete code,Startup,Business Growth,GitHub Copilot
+Research Scientist,Algorithm optimization,Research Lab,Exam Preparation,DeepSeek
+Cybersecurity Analyst,Office automation,Education,Automation,Microsoft Copilot
+Software Engineer,Policy drafting,Healthcare,Documentation,Claude
+Machine Learning Engineer,Algorithm optimization,College,Placement,DeepSeek
+Marketing Manager,Analyze images,Finance,Presentation,Gemini
+Professor,Autocomplete functions,Education,Business Growth,GitHub Copilot
+Software Engineer,Long-form analysis,Startup,Documentation,Claude
+Content Writer,Python optimization,Research Lab,Research,DeepSeek
+Research Scientist,Brainstorm ideas,Healthcare,Documentation,Grok
+Marketing Manager,Find latest information,Finance,Presentation,Perplexity
+Professor,Code navigation,Research Lab,Learning,Cursor AI
+UI UX Designer,Math reasoning,Research Lab,Prototype,DeepSeek
+DevOps Engineer,Long-form analysis,Research Lab,Prototype,Claude
+DevOps Engineer,Excel analysis,E-commerce,Documentation,Microsoft Copilot
+DevOps Engineer,Debug Python code,E-commerce,Placement,ChatGPT
+Research Scientist,Trend analysis,Healthcare,Exam Preparation,Grok
+Marketing Manager,Create presentation,Startup,Prototype,Gemini
+Cybersecurity Analyst,Debug Python code,Education,Business Growth,ChatGPT
+Full Stack Developer,Summarize documents,College,Exam Preparation,Claude
+Machine Learning Engineer,Technical writing,College,Presentation,Claude
+Content Writer,Reasoning task,Finance,Business Growth,Qwen
+Professor,Python optimization,Finance,Deployment,DeepSeek
+Content Writer,Generate project structure,Finance,Documentation,Cursor AI
+Doctor,Educational content,Healthcare,Deployment,Gemini
+Teacher,Policy drafting,Startup,Presentation,Claude
+DevOps Engineer,Code navigation,Finance,Presentation,Cursor AI
+Financial Analyst,Excel analysis,Finance,Business Growth,Microsoft Copilot
+Cybersecurity Analyst,Educational content,Legal Firm,Automation,Gemini
+Data Scientist,Autocomplete functions,College,Prototype,GitHub Copilot
+Machine Learning Engineer,Current events summary,Finance,Deployment,Grok
+Backend Developer,Analyze images,Finance,Deployment,Gemini
+Full Stack Developer,Write SQL queries,Research Lab,Research,ChatGPT
+Business Analyst,Knowledge Q&A,Legal Firm,Documentation,Qwen
+Full Stack Developer,Fix bugs,E-commerce,Deployment,GitHub Copilot
+Doctor,Python optimization,Finance,Exam Preparation,DeepSeek
+Business Analyst,Long-form analysis,Startup,Research,Claude
+Full Stack Developer,Create presentation,Hospital,Documentation,Gemini
+Frontend Developer,Analyze images,Enterprise,Placement,Gemini
+Financial Analyst,Find latest information,Research Lab,Placement,Perplexity
+Content Writer,Build ML model,Hospital,Placement,ChatGPT
+Business Analyst,System design,Research Lab,Presentation,ChatGPT
+Teacher,Debug Python code,Education,Automation,ChatGPT
+Software Engineer,Chinese NLP task,Education,Business Growth,Qwen
+Student,General coding,College,Research,Qwen
+UI UX Designer,Build ML model,College,Deployment,ChatGPT
+Frontend Developer,Excel analysis,Legal Firm,Deployment,Microsoft Copilot
+Marketing Manager,Trend analysis,E-commerce,Deployment,Grok
+DevOps Engineer,PowerPoint outline,Enterprise,Automation,Microsoft Copilot
+Cybersecurity Analyst,Analyze images,College,Placement,Gemini
+Financial Analyst,Implement feature,Hospital,Presentation,Cursor AI
+Student,Reasoning task,Healthcare,Presentation,Qwen
+Software Engineer,Multilingual translation,E-commerce,Documentation,Qwen
+Backend Developer,Trend analysis,Startup,Learning,Grok
+Lawyer,Complete code,Legal Firm,Documentation,GitHub Copilot
+Content Writer,Autocomplete functions,Research Lab,Business Growth,GitHub Copilot
+Business Analyst,Build ML model,Hospital,Automation,ChatGPT
+Business Analyst,Implement feature,College,Research,Cursor AI
+Lawyer,Long-form analysis,Healthcare,Exam Preparation,Claude
+Data Scientist,Word drafting,Finance,Deployment,Microsoft Copilot
+Doctor,Complete code,Research Lab,Prototype,GitHub Copilot
+Content Writer,Multimodal explanation,Research Lab,Exam Preparation,Gemini
+Financial Analyst,Analyze images,Finance,Deployment,Gemini
+Cybersecurity Analyst,System design,Healthcare,Research,ChatGPT
+Frontend Developer,Teams meeting summary,E-commerce,Deployment,Microsoft Copilot
+Frontend Developer,Literature review,Hospital,Research,Perplexity
+Lawyer,Teams meeting summary,Healthcare,Exam Preparation,Microsoft Copilot
+Content Writer,Multimodal explanation,E-commerce,Research,Gemini
+Data Scientist,Word drafting,Hospital,Learning,Microsoft Copilot
+Backend Developer,Multilingual translation,Education,Placement,Qwen
+Data Scientist,Math reasoning,Hospital,Exam Preparation,DeepSeek
+Software Engineer,General coding,Healthcare,Automation,Qwen
+Marketing Manager,Write research report,Finance,Documentation,Claude
+Data Scientist,Social media insights,Startup,Business Growth,Grok
+Content Writer,Citation search,Legal Firm,Presentation,Perplexity
+Software Engineer,Generate unit tests,College,Automation,GitHub Copilot
+Business Analyst,Multilingual translation,Startup,Automation,Qwen
+Doctor,Excel analysis,Hospital,Presentation,Microsoft Copilot
+Professor,Refactor project,Healthcare,Presentation,GitHub Copilot
+Full Stack Developer,Build ML model,Education,Exam Preparation,ChatGPT
+Software Engineer,System design,Enterprise,Prototype,ChatGPT
+Marketing Manager,Multilingual translation,Hospital,Exam Preparation,Qwen
+Software Engineer,Summarize documents,Enterprise,Business Growth,Claude
+Student,Teams meeting summary,Startup,Prototype,Microsoft Copilot
+Research Scientist,Office automation,Hospital,Business Growth,Microsoft Copilot
+Machine Learning Engineer,Current events summary,Education,Documentation,Grok
+Data Scientist,Competitive programming,Startup,Presentation,DeepSeek
+Research Scientist,Multimodal explanation,Enterprise,Learning,Gemini
+Doctor,Fix bugs,Finance,Exam Preparation,GitHub Copilot
+Doctor,Office automation,College,Automation,Microsoft Copilot
+Teacher,Summarize documents,Hospital,Placement,Claude
+Software Engineer,Long-form analysis,Hospital,Learning,Claude
+Marketing Manager,Multilingual translation,Legal Firm,Prototype,Qwen
+Research Scientist,Trend analysis,E-commerce,Documentation,Grok
+Teacher,Competitive programming,Research Lab,Presentation,DeepSeek
+Financial Analyst,Trend analysis,Education,Research,Grok
+Data Scientist,Write research report,Enterprise,Business Growth,Claude
+Financial Analyst,Multilingual translation,Healthcare,Automation,Qwen
+HR Manager,Policy drafting,Education,Exam Preparation,Claude
+Machine Learning Engineer,Reasoning task,Finance,Documentation,Qwen
+Lawyer,Literature review,Finance,Presentation,Perplexity
+Teacher,Code navigation,Finance,Documentation,Cursor AI
+Lawyer,Fix bugs,E-commerce,Exam Preparation,GitHub Copilot
+Lawyer,Office automation,Healthcare,Business Growth,Microsoft Copilot
+Cybersecurity Analyst,Brainstorm ideas,E-commerce,Deployment,Grok
+Frontend Developer,Citation search,Enterprise,Automation,Perplexity
+Professor,Fact checking,Enterprise,Documentation,Perplexity
+Marketing Manager,Knowledge Q&A,Startup,Placement,Qwen
+Research Scientist,Long-form analysis,Finance,Automation,Claude
+Full Stack Developer,Analyze images,Legal Firm,Deployment,Gemini
+Financial Analyst,Office automation,Healthcare,Documentation,Microsoft Copilot
+Cybersecurity Analyst,Word drafting,Finance,Business Growth,Microsoft Copilot
+Backend Developer,System design,Hospital,Learning,ChatGPT
+Cybersecurity Analyst,Knowledge Q&A,Education,Deployment,Qwen
+HR Manager,Social media insights,College,Placement,Grok
+Backend Developer,General coding,Finance,Learning,Qwen
+Full Stack Developer,Math reasoning,College,Documentation,DeepSeek
+Marketing Manager,Fact checking,Education,Prototype,Perplexity
+Teacher,Tech discussion,Hospital,Business Growth,Grok
+Doctor,Fact checking,Education,Prototype,Perplexity
+Full Stack Developer,Reasoning task,E-commerce,Business Growth,Qwen
+Professor,Google Workspace task,Education,Business Growth,Gemini
+Student,Chinese NLP task,Hospital,Presentation,Qwen
+Content Writer,Python optimization,Startup,Automation,DeepSeek
+Teacher,Summarize documents,Hospital,Business Growth,Claude
+Full Stack Developer,Policy drafting,Research Lab,Business Growth,Claude
+UI UX Designer,Competitive programming,Education,Placement,DeepSeek
+Frontend Developer,Trend analysis,Education,Presentation,Grok
+Financial Analyst,Policy drafting,E-commerce,Prototype,Claude
+Financial Analyst,Code navigation,Healthcare,Presentation,Cursor AI
+Machine Learning Engineer,Code navigation,Hospital,Deployment,Cursor AI
+Financial Analyst,Python optimization,E-commerce,Automation,DeepSeek
+Research Scientist,Word drafting,Healthcare,Documentation,Microsoft Copilot
+Machine Learning Engineer,Google Workspace task,Education,Business Growth,Gemini
+Cybersecurity Analyst,Tech discussion,College,Exam Preparation,Grok
+Content Writer,Analyze images,Education,Automation,Gemini
+Lawyer,Social media insights,E-commerce,Business Growth,Grok
+Student,Refactor project,College,Exam Preparation,GitHub Copilot
+Backend Developer,Analyze images,Hospital,Business Growth,Gemini
+Backend Developer,Code navigation,Research Lab,Prototype,Cursor AI
+Marketing Manager,Complete code,Research Lab,Presentation,GitHub Copilot
+Cybersecurity Analyst,Competitive programming,Hospital,Exam Preparation,DeepSeek
+Software Engineer,Competitive programming,Healthcare,Exam Preparation,DeepSeek
+Teacher,Multilingual translation,Education,Business Growth,Qwen
+Frontend Developer,Literature review,Healthcare,Learning,Perplexity
+Frontend Developer,Summarize documents,Healthcare,Prototype,Claude
+Frontend Developer,Competitive programming,Startup,Placement,DeepSeek
+UI UX Designer,Fix bugs,Hospital,Research,GitHub Copilot
+Business Analyst,Excel analysis,Startup,Documentation,Microsoft Copilot
+Teacher,Word drafting,Finance,Automation,Microsoft Copilot
+UI UX Designer,Refactor project,Hospital,Automation,GitHub Copilot
+Machine Learning Engineer,Tech discussion,Healthcare,Learning,Grok
+UI UX Designer,Tech discussion,Finance,Automation,Grok
+Machine Learning Engineer,Complete code,Research Lab,Automation,GitHub Copilot
+Research Scientist,Teams meeting summary,Finance,Research,Microsoft Copilot
+Software Engineer,Knowledge Q&A,Research Lab,Presentation,Qwen
+Software Engineer,Brainstorm ideas,E-commerce,Automation,Grok
+Machine Learning Engineer,Algorithm optimization,Education,Prototype,DeepSeek
+Professor,Social media insights,Startup,Placement,Grok
+Business Analyst,Teams meeting summary,Education,Presentation,Microsoft Copilot
+Doctor,Generate unit tests,Legal Firm,Exam Preparation,GitHub Copilot
+Doctor,Long-form analysis,Hospital,Placement,Claude
+Teacher,Excel analysis,College,Placement,Microsoft Copilot
+HR Manager,Explain algorithms,E-commerce,Business Growth,ChatGPT
+HR Manager,Coding interview,Research Lab,Documentation,DeepSeek
+Backend Developer,Explain algorithms,Education,Prototype,ChatGPT
+Research Scientist,Math reasoning,Finance,Prototype,DeepSeek
+Business Analyst,Build ML model,Hospital,Placement,ChatGPT
+Full Stack Developer,Build ML model,Education,Exam Preparation,ChatGPT
+Financial Analyst,Explain algorithms,Research Lab,Exam Preparation,ChatGPT
+Content Writer,Trend analysis,Legal Firm,Research,Grok
+Backend Developer,Implement feature,Research Lab,Research,Cursor AI
+Software Engineer,Autocomplete functions,Research Lab,Placement,GitHub Copilot
+Professor,Multimodal explanation,Startup,Business Growth,Gemini
+Financial Analyst,Refactor project,Finance,Research,GitHub Copilot
+Data Scientist,Tech discussion,Startup,Presentation,Grok
+Research Scientist,Complete code,College,Automation,GitHub Copilot
+Marketing Manager,Algorithm optimization,Legal Firm,Prototype,DeepSeek
+Student,Literature review,Healthcare,Presentation,Perplexity
+Financial Analyst,Google Workspace task,Education,Automation,Gemini
+Business Analyst,Citation search,E-commerce,Presentation,Perplexity
+Financial Analyst,Autocomplete functions,Hospital,Presentation,GitHub Copilot
+Cybersecurity Analyst,Excel analysis,Education,Placement,Microsoft Copilot
+Software Engineer,Social media insights,Hospital,Documentation,Grok
+Content Writer,Policy drafting,E-commerce,Documentation,Claude
+Financial Analyst,Autocomplete functions,Startup,Documentation,GitHub Copilot
+Professor,Refactor project,Education,Research,GitHub Copilot
+Teacher,Build ML model,Hospital,Automation,ChatGPT
+Backend Developer,Code navigation,Enterprise,Business Growth,Cursor AI
+Content Writer,Math reasoning,College,Documentation,DeepSeek
+Content Writer,Analyze images,E-commerce,Presentation,Gemini
+Backend Developer,Knowledge Q&A,Enterprise,Exam Preparation,Qwen
+Professor,Refactor large codebase,Enterprise,Research,Cursor AI
+Lawyer,Debug Python code,Startup,Research,ChatGPT
+Research Scientist,Reasoning task,Research Lab,Automation,Qwen
+Doctor,Literature review,Legal Firm,Exam Preparation,Perplexity
+Machine Learning Engineer,General coding,Startup,Exam Preparation,Qwen
+Frontend Developer,Build ML model,Education,Deployment,ChatGPT
+Frontend Developer,Summarize documents,Legal Firm,Research,Claude
+Backend Developer,Find latest information,Legal Firm,Research,Perplexity
+Content Writer,General coding,Finance,Research,Qwen
+UI UX Designer,Create presentation,Hospital,Exam Preparation,Gemini
+Financial Analyst,Autocomplete functions,Legal Firm,Research,GitHub Copilot
+Financial Analyst,Explain algorithms,Research Lab,Prototype,ChatGPT
+Software Engineer,Autocomplete functions,E-commerce,Learning,GitHub Copilot
+Doctor,Knowledge Q&A,Startup,Learning,Qwen
+DevOps Engineer,Explain algorithms,Finance,Presentation,ChatGPT
+Doctor,Word drafting,Research Lab,Presentation,Microsoft Copilot
+Full Stack Developer,Chinese NLP task,Research Lab,Documentation,Qwen
+Backend Developer,Teams meeting summary,E-commerce,Prototype,Microsoft Copilot
+Lawyer,System design,E-commerce,Documentation,ChatGPT
+Teacher,Knowledge Q&A,Education,Automation,Qwen
+Professor,Policy drafting,Healthcare,Research,Claude
+UI UX Designer,Citation search,Research Lab,Placement,Perplexity
+Frontend Developer,Excel analysis,E-commerce,Prototype,Microsoft Copilot
+Professor,Educational content,E-commerce,Deployment,Gemini
+Business Analyst,Knowledge Q&A,College,Exam Preparation,Qwen
+Doctor,Analyze images,Finance,Placement,Gemini
+Content Writer,Summarize documents,Education,Automation,Claude
+Frontend Developer,Coding interview,E-commerce,Placement,DeepSeek
+Professor,Analyze images,Hospital,Research,Gemini
+Student,Fix bugs,College,Deployment,GitHub Copilot
+Student,General coding,Education,Deployment,Qwen
+Lawyer,Long-form analysis,Research Lab,Exam Preparation,Claude
+Cybersecurity Analyst,Generate project structure,Healthcare,Learning,Cursor AI
+Professor,General coding,Finance,Exam Preparation,Qwen
+Research Scientist,Analyze images,Enterprise,Placement,Gemini
+Professor,Social media insights,Startup,Learning,Grok
+Professor,Trend analysis,E-commerce,Business Growth,Grok
+Backend Developer,Trend analysis,Finance,Placement,Grok
+DevOps Engineer,Competitive programming,Research Lab,Learning,DeepSeek
+Financial Analyst,Edit repository,Enterprise,Exam Preparation,Cursor AI
+Data Scientist,Create presentation,Hospital,Learning,Gemini
+Doctor,Python optimization,Finance,Business Growth,DeepSeek
+Cybersecurity Analyst,Refactor project,Research Lab,Exam Preparation,GitHub Copilot
+Student,Build ML model,E-commerce,Exam Preparation,ChatGPT
+Data Scientist,Analyze images,Finance,Documentation,Gemini
+Marketing Manager,Fact checking,Healthcare,Research,Perplexity
+Financial Analyst,Chinese NLP task,Enterprise,Learning,Qwen
+Teacher,Educational content,College,Deployment,Gemini
+DevOps Engineer,Technical writing,Healthcare,Deployment,Claude
+Research Scientist,Write SQL queries,Hospital,Placement,ChatGPT
+Machine Learning Engineer,Teams meeting summary,Healthcare,Learning,Microsoft Copilot
+Financial Analyst,Algorithm optimization,Research Lab,Learning,DeepSeek
+Doctor,Analyze images,Startup,Placement,Gemini
+Software Engineer,Fix bugs,Enterprise,Documentation,GitHub Copilot
+Lawyer,Google Workspace task,Research Lab,Learning,Gemini
+Backend Developer,Tech discussion,Healthcare,Prototype,Grok
+Research Scientist,Social media insights,Enterprise,Presentation,Grok
+Student,Competitive programming,Education,Business Growth,DeepSeek
+Marketing Manager,Teams meeting summary,Healthcare,Business Growth,Microsoft Copilot
+Data Scientist,Code navigation,E-commerce,Documentation,Cursor AI
+Data Scientist,Find latest information,Research Lab,Presentation,Perplexity
+Software Engineer,Technical writing,Startup,Placement,Claude
+Business Analyst,Create presentation,College,Business Growth,Gemini
+Data Scientist,Autocomplete functions,Healthcare,Placement,GitHub Copilot
+Software Engineer,Teams meeting summary,Legal Firm,Business Growth,Microsoft Copilot
+Doctor,Tech discussion,Finance,Documentation,Grok
+Doctor,Refactor project,Enterprise,Business Growth,GitHub Copilot
+Marketing Manager,Multilingual translation,Education,Learning,Qwen
+Student,Trend analysis,Education,Automation,Grok
+Research Scientist,Long-form analysis,Research Lab,Business Growth,Claude
+Financial Analyst,Coding interview,Healthcare,Placement,DeepSeek
+Cybersecurity Analyst,PowerPoint outline,Legal Firm,Presentation,Microsoft Copilot
+Student,Explain algorithms,Hospital,Exam Preparation,ChatGPT
+Software Engineer,Fix bugs,Education,Business Growth,GitHub Copilot
+UI UX Designer,Competitive programming,Enterprise,Presentation,DeepSeek
+Professor,Code navigation,Hospital,Learning,Cursor AI
+Professor,Technical writing,Research Lab,Prototype,Claude
+DevOps Engineer,Literature review,Education,Business Growth,Perplexity
+Student,Write SQL queries,Hospital,Research,ChatGPT
+Marketing Manager,Analyze images,Finance,Learning,Gemini
+Doctor,Code navigation,Finance,Business Growth,Cursor AI
+UI UX Designer,Refactor large codebase,Healthcare,Documentation,Cursor AI
+Marketing Manager,Refactor project,Startup,Placement,GitHub Copilot
+Backend Developer,Find latest information,Healthcare,Documentation,Perplexity
+Doctor,Chinese NLP task,Finance,Deployment,Qwen
+Research Scientist,Code navigation,Hospital,Documentation,Cursor AI
+Data Scientist,Debug Python code,Healthcare,Documentation,ChatGPT
+Cybersecurity Analyst,Trend analysis,Legal Firm,Presentation,Grok
+Business Analyst,Google Workspace task,E-commerce,Prototype,Gemini
+Doctor,Competitive programming,Enterprise,Research,DeepSeek
+Cybersecurity Analyst,Summarize documents,Startup,Learning,Claude
+Financial Analyst,Reasoning task,Healthcare,Documentation,Qwen
+Cybersecurity Analyst,Write SQL queries,Hospital,Placement,ChatGPT
+Backend Developer,Trend analysis,Hospital,Documentation,Grok
+Backend Developer,PowerPoint outline,Hospital,Placement,Microsoft Copilot
+Doctor,Python optimization,Finance,Placement,DeepSeek
+Student,Refactor project,Education,Automation,GitHub Copilot
+Student,Autocomplete functions,Education,Placement,GitHub Copilot
+Doctor,Fact checking,Finance,Deployment,Perplexity
+Machine Learning Engineer,Knowledge Q&A,Education,Business Growth,Qwen
+Student,Citation search,E-commerce,Research,Perplexity
+Lawyer,Analyze images,Healthcare,Prototype,Gemini
+Backend Developer,Citation search,E-commerce,Placement,Perplexity
+Teacher,Educational content,E-commerce,Deployment,Gemini
+Business Analyst,Policy drafting,Research Lab,Learning,Claude
+Cybersecurity Analyst,System design,Healthcare,Automation,ChatGPT
+Financial Analyst,Competitive programming,Healthcare,Deployment,DeepSeek
+Content Writer,Trend analysis,E-commerce,Exam Preparation,Grok
+Research Scientist,General coding,Education,Learning,Qwen
+Student,Social media insights,College,Learning,Grok
+Teacher,Chinese NLP task,E-commerce,Exam Preparation,Qwen
+HR Manager,Current events summary,Research Lab,Exam Preparation,Grok
+Cybersecurity Analyst,Refactor large codebase,Legal Firm,Learning,Cursor AI
+Research Scientist,Fact checking,College,Exam Preparation,Perplexity
+Cybersecurity Analyst,Multimodal explanation,E-commerce,Prototype,Gemini
+HR Manager,Brainstorm ideas,Legal Firm,Learning,Grok
+Cybersecurity Analyst,Find latest information,E-commerce,Presentation,Perplexity
+Marketing Manager,Implement feature,Healthcare,Automation,Cursor AI
+Doctor,Find latest information,College,Learning,Perplexity
+Financial Analyst,Teams meeting summary,Education,Deployment,Microsoft Copilot
+Marketing Manager,Excel analysis,Research Lab,Documentation,Microsoft Copilot
+Backend Developer,Python optimization,Hospital,Research,DeepSeek
+HR Manager,Code navigation,Research Lab,Business Growth,Cursor AI
+UI UX Designer,Generate unit tests,Research Lab,Business Growth,GitHub Copilot
+Business Analyst,Write SQL queries,E-commerce,Automation,ChatGPT
+Data Scientist,Refactor project,E-commerce,Deployment,GitHub Copilot
+Financial Analyst,Word drafting,Legal Firm,Prototype,Microsoft Copilot
+DevOps Engineer,Coding interview,Hospital,Placement,DeepSeek
+Content Writer,Knowledge Q&A,College,Exam Preparation,Qwen
+Software Engineer,Knowledge Q&A,Startup,Business Growth,Qwen
+Research Scientist,Policy drafting,Research Lab,Business Growth,Claude
+Marketing Manager,Analyze images,Research Lab,Deployment,Gemini
+Research Scientist,Fact checking,Education,Learning,Perplexity
+Backend Developer,Summarize documents,E-commerce,Business Growth,Claude
+Teacher,Social media insights,Hospital,Learning,Grok
+Backend Developer,Create presentation,Research Lab,Automation,Gemini
+Business Analyst,Python optimization,Enterprise,Automation,DeepSeek
+Backend Developer,General coding,Startup,Prototype,Qwen
+Full Stack Developer,Chinese NLP task,Startup,Prototype,Qwen
+Doctor,Summarize documents,Finance,Exam Preparation,Claude
+Professor,Long-form analysis,Legal Firm,Placement,Claude
+Doctor,System design,E-commerce,Exam Preparation,ChatGPT
+DevOps Engineer,Brainstorm ideas,Education,Learning,Grok
+Student,Google Workspace task,Startup,Business Growth,Gemini
+Data Scientist,Policy drafting,Healthcare,Prototype,Claude
+Frontend Developer,Complete code,College,Exam Preparation,GitHub Copilot
+Research Scientist,Coding interview,Legal Firm,Prototype,DeepSeek
+Cybersecurity Analyst,Refactor project,Research Lab,Placement,GitHub Copilot
+Data Scientist,Create presentation,Healthcare,Learning,Gemini
+Professor,General coding,College,Documentation,Qwen
+Financial Analyst,Teams meeting summary,College,Business Growth,Microsoft Copilot
+Full Stack Developer,Fix bugs,E-commerce,Business Growth,GitHub Copilot
+Business Analyst,Word drafting,College,Prototype,Microsoft Copilot
+Doctor,Educational content,Legal Firm,Exam Preparation,Gemini
+Lawyer,Social media insights,E-commerce,Research,Grok
+Machine Learning Engineer,PowerPoint outline,College,Presentation,Microsoft Copilot
+Content Writer,General coding,Research Lab,Automation,Qwen
+Frontend Developer,Summarize documents,Hospital,Learning,Claude
+Backend Developer,Refactor large codebase,Finance,Business Growth,Cursor AI
+Content Writer,Find latest information,Education,Deployment,Perplexity
+Financial Analyst,Current events summary,E-commerce,Deployment,Grok
+Lawyer,Citation search,Hospital,Placement,Perplexity
+Frontend Developer,Technical writing,College,Learning,Claude
+Data Scientist,Excel analysis,Research Lab,Exam Preparation,Microsoft Copilot
+Professor,Tech discussion,Enterprise,Presentation,Grok
+Business Analyst,Google Workspace task,Research Lab,Learning,Gemini
+Marketing Manager,Generate project structure,Healthcare,Research,Cursor AI
+Backend Developer,Build ML model,Enterprise,Placement,ChatGPT
+Research Scientist,System design,Hospital,Deployment,ChatGPT
+Doctor,Google Workspace task,College,Presentation,Gemini
+Data Scientist,Write research report,Education,Automation,Claude
+DevOps Engineer,General coding,Healthcare,Presentation,Qwen
+Business Analyst,System design,Startup,Learning,ChatGPT
+Doctor,Code navigation,Finance,Placement,Cursor AI
+Marketing Manager,Find latest information,College,Documentation,Perplexity
+Backend Developer,Analyze images,Legal Firm,Presentation,Gemini
+Full Stack Developer,Research comparison,Finance,Presentation,Perplexity
+Teacher,Debug Python code,E-commerce,Exam Preparation,ChatGPT
+Cybersecurity Analyst,Educational content,Legal Firm,Exam Preparation,Gemini
+Machine Learning Engineer,Algorithm optimization,Hospital,Placement,DeepSeek
+Marketing Manager,Trend analysis,College,Business Growth,Grok
+Marketing Manager,Algorithm optimization,Research Lab,Automation,DeepSeek
+Machine Learning Engineer,Find latest information,Research Lab,Learning,Perplexity
+Research Scientist,Multimodal explanation,Finance,Business Growth,Gemini
+Data Scientist,Complete code,College,Exam Preparation,GitHub Copilot
+Full Stack Developer,Coding interview,Startup,Research,DeepSeek
+Marketing Manager,Social media insights,Startup,Research,Grok
+Professor,Fix bugs,Startup,Presentation,GitHub Copilot
+Business Analyst,System design,Legal Firm,Research,ChatGPT
+Frontend Developer,Reasoning task,Finance,Deployment,Qwen
+Frontend Developer,Debug Python code,Healthcare,Deployment,ChatGPT
+HR Manager,Reasoning task,Research Lab,Automation,Qwen
+Lawyer,Explain algorithms,E-commerce,Research,ChatGPT
+HR Manager,Math reasoning,College,Documentation,DeepSeek
+UI UX Designer,Complete code,Healthcare,Presentation,GitHub Copilot
+Machine Learning Engineer,Refactor project,Legal Firm,Exam Preparation,GitHub Copilot
+Research Scientist,PowerPoint outline,Startup,Presentation,Microsoft Copilot
+Machine Learning Engineer,Fact checking,Enterprise,Prototype,Perplexity
+Backend Developer,Coding interview,E-commerce,Placement,DeepSeek
+Business Analyst,Policy drafting,E-commerce,Learning,Claude
+Business Analyst,Complete code,Enterprise,Documentation,GitHub Copilot
+Doctor,Generate project structure,Education,Placement,Cursor AI
+Marketing Manager,Excel analysis,Finance,Prototype,Microsoft Copilot
+Financial Analyst,Algorithm optimization,Finance,Business Growth,DeepSeek
+UI UX Designer,Teams meeting summary,College,Automation,Microsoft Copilot
+Financial Analyst,Edit repository,E-commerce,Deployment,Cursor AI
+Doctor,Citation search,Legal Firm,Research,Perplexity
+Professor,Code navigation,Education,Documentation,Cursor AI
+Financial Analyst,Generate unit tests,Enterprise,Exam Preparation,GitHub Copilot
+Professor,Social media insights,Legal Firm,Automation,Grok
+Machine Learning Engineer,System design,Legal Firm,Automation,ChatGPT
+Business Analyst,Fix bugs,College,Documentation,GitHub Copilot
+DevOps Engineer,Citation search,Hospital,Learning,Perplexity
+Financial Analyst,Debug Python code,Healthcare,Prototype,ChatGPT
+Teacher,Complete code,Enterprise,Exam Preparation,GitHub Copilot
+Lawyer,Technical writing,Research Lab,Research,Claude
+Research Scientist,Multilingual translation,Research Lab,Deployment,Qwen
+Doctor,Edit repository,Healthcare,Business Growth,Cursor AI
+Doctor,Refactor project,Education,Learning,GitHub Copilot
+Frontend Developer,Office automation,Startup,Placement,Microsoft Copilot
+Full Stack Developer,Office automation,Education,Business Growth,Microsoft Copilot
+Student,Write research report,Education,Learning,Claude
+Doctor,Chinese NLP task,Enterprise,Prototype,Qwen
+Business Analyst,Autocomplete functions,Research Lab,Placement,GitHub Copilot
+Machine Learning Engineer,Summarize documents,Education,Prototype,Claude
+Student,PowerPoint outline,Enterprise,Business Growth,Microsoft Copilot
+Full Stack Developer,Tech discussion,College,Research,Grok
+Financial Analyst,Educational content,Finance,Business Growth,Gemini
+Research Scientist,Multilingual translation,College,Research,Qwen
+Data Scientist,Research comparison,Healthcare,Documentation,Perplexity
+DevOps Engineer,Autocomplete functions,E-commerce,Deployment,GitHub Copilot
+Lawyer,Multimodal explanation,Healthcare,Prototype,Gemini
+Business Analyst,General coding,Enterprise,Exam Preparation,Qwen
+Content Writer,General coding,Education,Placement,Qwen
+Doctor,Refactor project,E-commerce,Placement,GitHub Copilot
+Lawyer,Current events summary,College,Exam Preparation,Grok
+Cybersecurity Analyst,Google Workspace task,College,Research,Gemini
+Research Scientist,Citation search,Healthcare,Automation,Perplexity
+Student,Citation search,E-commerce,Automation,Perplexity
+Frontend Developer,Tech discussion,College,Automation,Grok
+Financial Analyst,Implement feature,Legal Firm,Prototype,Cursor AI
+Cybersecurity Analyst,Technical writing,Healthcare,Prototype,Claude
+Backend Developer,Find latest information,Hospital,Documentation,Perplexity
+Backend Developer,Multilingual translation,Healthcare,Prototype,Qwen
+Student,Algorithm optimization,Hospital,Placement,DeepSeek
+Data Scientist,Coding interview,Legal Firm,Presentation,DeepSeek
+Professor,Coding interview,Hospital,Business Growth,DeepSeek
+Professor,Python optimization,Startup,Research,DeepSeek
+Software Engineer,Analyze images,College,Placement,Gemini
+Student,Analyze images,College,Presentation,Gemini
+Data Scientist,Brainstorm ideas,Healthcare,Presentation,Grok
+Data Scientist,Refactor large codebase,Enterprise,Exam Preparation,Cursor AI
+Teacher,Google Workspace task,E-commerce,Deployment,Gemini
+HR Manager,Python optimization,Enterprise,Prototype,DeepSeek
+DevOps Engineer,Tech discussion,Finance,Automation,Grok
+Research Scientist,Edit repository,Research Lab,Prototype,Cursor AI
+UI UX Designer,Create presentation,Hospital,Presentation,Gemini
+Content Writer,Analyze images,College,Deployment,Gemini
+Teacher,Code navigation,Finance,Deployment,Cursor AI
+Professor,Reasoning task,Hospital,Deployment,Qwen
+DevOps Engineer,Explain algorithms,Hospital,Business Growth,ChatGPT
+Content Writer,Code navigation,E-commerce,Automation,Cursor AI
+Data Scientist,Math reasoning,E-commerce,Documentation,DeepSeek
+Financial Analyst,Math reasoning,Enterprise,Exam Preparation,DeepSeek
+Business Analyst,Google Workspace task,Startup,Learning,Gemini
+Professor,Technical writing,Education,Presentation,Claude
+Research Scientist,Find latest information,Finance,Presentation,Perplexity
+Marketing Manager,Literature review,Research Lab,Automation,Perplexity
+Research Scientist,Research comparison,Hospital,Deployment,Perplexity
+Frontend Developer,Chinese NLP task,Research Lab,Placement,Qwen
+Cybersecurity Analyst,Long-form analysis,Education,Deployment,Claude
+Software Engineer,Citation search,Finance,Placement,Perplexity
+Doctor,Write research report,Hospital,Business Growth,Claude
+Cybersecurity Analyst,Long-form analysis,Startup,Deployment,Claude
+Research Scientist,Math reasoning,Enterprise,Research,DeepSeek
+HR Manager,Math reasoning,Startup,Learning,DeepSeek
+Software Engineer,Create presentation,College,Exam Preparation,Gemini
+Frontend Developer,Coding interview,Education,Research,DeepSeek
+Content Writer,Write SQL queries,Finance,Deployment,ChatGPT
+Machine Learning Engineer,Generate unit tests,Education,Automation,GitHub Copilot
+DevOps Engineer,Coding interview,College,Documentation,DeepSeek
+UI UX Designer,Policy drafting,E-commerce,Deployment,Claude
+Full Stack Developer,Autocomplete functions,E-commerce,Prototype,GitHub Copilot
+Cybersecurity Analyst,Social media insights,Finance,Automation,Grok
+Cybersecurity Analyst,Teams meeting summary,Finance,Deployment,Microsoft Copilot
+DevOps Engineer,Google Workspace task,Enterprise,Automation,Gemini
+Teacher,Office automation,Healthcare,Learning,Microsoft Copilot
+Content Writer,System design,E-commerce,Research,ChatGPT
+Teacher,Office automation,Finance,Business Growth,Microsoft Copilot
+Full Stack Developer,Literature review,Research Lab,Presentation,Perplexity
+Financial Analyst,Autocomplete functions,E-commerce,Presentation,GitHub Copilot
+Software Engineer,Policy drafting,Healthcare,Research,Claude
+Professor,Refactor large codebase,Legal Firm,Presentation,Cursor AI
+Lawyer,Brainstorm ideas,Enterprise,Research,Grok
+Full Stack Developer,Write SQL queries,Legal Firm,Research,ChatGPT
+UI UX Designer,Research comparison,Enterprise,Research,Perplexity
+Backend Developer,Find latest information,Education,Deployment,Perplexity
+Backend Developer,Analyze images,Legal Firm,Learning,Gemini
+HR Manager,Autocomplete functions,Hospital,Placement,GitHub Copilot
+Full Stack Developer,Competitive programming,E-commerce,Business Growth,DeepSeek
+Research Scientist,Tech discussion,Startup,Placement,Grok
+UI UX Designer,Autocomplete functions,Education,Presentation,GitHub Copilot
+Full Stack Developer,Explain algorithms,Hospital,Research,ChatGPT
+Financial Analyst,Refactor large codebase,Research Lab,Exam Preparation,Cursor AI
+Backend Developer,Office automation,Legal Firm,Placement,Microsoft Copilot
+Financial Analyst,Create presentation,Enterprise,Documentation,Gemini
+Machine Learning Engineer,Edit repository,Enterprise,Presentation,Cursor AI
+Content Writer,Research comparison,Education,Deployment,Perplexity
+Business Analyst,Brainstorm ideas,Finance,Research,Grok
+HR Manager,Python optimization,Education,Automation,DeepSeek
+DevOps Engineer,Edit repository,Finance,Documentation,Cursor AI
+Software Engineer,Current events summary,Healthcare,Prototype,Grok
+Machine Learning Engineer,Multimodal explanation,Startup,Learning,Gemini
+Frontend Developer,Tech discussion,Startup,Deployment,Grok
+Content Writer,Research comparison,College,Documentation,Perplexity
+Marketing Manager,Word drafting,Hospital,Placement,Microsoft Copilot
+DevOps Engineer,Build ML model,Legal Firm,Presentation,ChatGPT
+Full Stack Developer,Office automation,Legal Firm,Presentation,Microsoft Copilot
+HR Manager,Generate unit tests,College,Business Growth,GitHub Copilot
+Backend Developer,Brainstorm ideas,Research Lab,Prototype,Grok
+Lawyer,Code navigation,Healthcare,Learning,Cursor AI
+Teacher,Excel analysis,Hospital,Research,Microsoft Copilot
+Research Scientist,Autocomplete functions,Legal Firm,Research,GitHub Copilot
+Data Scientist,Algorithm optimization,Legal Firm,Prototype,DeepSeek
+Content Writer,Python optimization,Research Lab,Deployment,DeepSeek
+Doctor,Autocomplete functions,Startup,Deployment,GitHub Copilot
+Financial Analyst,Refactor large codebase,Education,Placement,Cursor AI
+Financial Analyst,Long-form analysis,Enterprise,Learning,Claude
+Backend Developer,Coding interview,Hospital,Business Growth,DeepSeek
+HR Manager,Implement feature,Finance,Research,Cursor AI
+Research Scientist,Excel analysis,Startup,Research,Microsoft Copilot
+UI UX Designer,Technical writing,Finance,Research,Claude
+Cybersecurity Analyst,Literature review,Education,Presentation,Perplexity
+Data Scientist,Refactor project,College,Learning,GitHub Copilot
+Financial Analyst,Teams meeting summary,College,Placement,Microsoft Copilot
+Student,Word drafting,Enterprise,Documentation,Microsoft Copilot
+UI UX Designer,Current events summary,Finance,Business Growth,Grok
+Cybersecurity Analyst,Knowledge Q&A,Healthcare,Deployment,Qwen
+Teacher,PowerPoint outline,Finance,Deployment,Microsoft Copilot
+DevOps Engineer,System design,Healthcare,Exam Preparation,ChatGPT
+Backend Developer,Edit repository,Healthcare,Research,Cursor AI
+Software Engineer,Educational content,College,Documentation,Gemini
+Professor,Citation search,Enterprise,Deployment,Perplexity
+Machine Learning Engineer,Debug Python code,Startup,Business Growth,ChatGPT
+HR Manager,Refactor large codebase,Legal Firm,Presentation,Cursor AI
+Teacher,Research comparison,Enterprise,Presentation,Perplexity
+Financial Analyst,Educational content,Legal Firm,Business Growth,Gemini
+Professor,Tech discussion,College,Documentation,Grok
+Professor,Write research report,Research Lab,Exam Preparation,Claude
+Teacher,Summarize documents,Hospital,Placement,Claude
+Lawyer,Edit repository,Education,Learning,Cursor AI
+Business Analyst,Citation search,College,Presentation,Perplexity
+Professor,Summarize documents,College,Placement,Claude
+Software Engineer,Technical writing,Startup,Exam Preparation,Claude
+Marketing Manager,Excel analysis,Enterprise,Research,Microsoft Copilot
+Data Scientist,Chinese NLP task,Enterprise,Placement,Qwen
+Cybersecurity Analyst,Social media insights,Enterprise,Learning,Grok
+Marketing Manager,Generate unit tests,Legal Firm,Documentation,GitHub Copilot
+Software Engineer,Autocomplete functions,E-commerce,Learning,GitHub Copilot
+Content Writer,System design,Education,Placement,ChatGPT
+Professor,Summarize documents,Legal Firm,Prototype,Claude
+Backend Developer,Code navigation,Finance,Presentation,Cursor AI
+Content Writer,Educational content,Research Lab,Research,Gemini
+Financial Analyst,Generate project structure,Legal Firm,Business Growth,Cursor AI
+Machine Learning Engineer,Competitive programming,Hospital,Research,DeepSeek
+Doctor,Refactor project,Hospital,Documentation,GitHub Copilot
+Marketing Manager,Current events summary,College,Presentation,Grok
+Financial Analyst,Edit repository,E-commerce,Prototype,Cursor AI
+Financial Analyst,Fact checking,Hospital,Automation,Perplexity
+Teacher,Write SQL queries,Enterprise,Exam Preparation,ChatGPT
+Doctor,Edit repository,E-commerce,Learning,Cursor AI
+Software Engineer,Algorithm optimization,Healthcare,Business Growth,DeepSeek
+Student,Explain algorithms,Healthcare,Prototype,ChatGPT
+DevOps Engineer,Multilingual translation,Education,Prototype,Qwen
+DevOps Engineer,Competitive programming,Education,Exam Preparation,DeepSeek
+Backend Developer,Multilingual translation,Research Lab,Automation,Qwen
+Professor,Reasoning task,Finance,Learning,Qwen
+Full Stack Developer,Citation search,Healthcare,Exam Preparation,Perplexity
+Lawyer,Excel analysis,Education,Learning,Microsoft Copilot
+Student,Python optimization,Legal Firm,Prototype,DeepSeek
+Doctor,Write research report,Hospital,Prototype,Claude
+Student,Generate project structure,Hospital,Automation,Cursor AI
+Professor,Refactor project,College,Exam Preparation,GitHub Copilot
+Teacher,Social media insights,Research Lab,Business Growth,Grok
+Teacher,Summarize documents,Hospital,Research,Claude
+Data Scientist,Edit repository,Research Lab,Documentation,Cursor AI
+Software Engineer,Reasoning task,E-commerce,Deployment,Qwen
+Financial Analyst,Tech discussion,Legal Firm,Exam Preparation,Grok
+Business Analyst,Fix bugs,College,Presentation,GitHub Copilot
+Marketing Manager,Office automation,Legal Firm,Prototype,Microsoft Copilot
+Financial Analyst,Multimodal explanation,College,Deployment,Gemini
+Cybersecurity Analyst,General coding,Research Lab,Placement,Qwen
+Doctor,Build ML model,Startup,Exam Preparation,ChatGPT
+Frontend Developer,Educational content,Healthcare,Exam Preparation,Gemini
+Data Scientist,Citation search,Startup,Automation,Perplexity
+Data Scientist,System design,Research Lab,Deployment,ChatGPT
+UI UX Designer,Algorithm optimization,Healthcare,Research,DeepSeek
+Data Scientist,Write research report,Enterprise,Business Growth,Claude
+Lawyer,Word drafting,College,Documentation,Microsoft Copilot
+Software Engineer,Refactor large codebase,Education,Research,Cursor AI
+Data Scientist,Build ML model,College,Learning,ChatGPT
+Lawyer,Python optimization,Education,Prototype,DeepSeek
+DevOps Engineer,Google Workspace task,Startup,Research,Gemini
+Research Scientist,Teams meeting summary,Startup,Placement,Microsoft Copilot
+Financial Analyst,Office automation,Healthcare,Presentation,Microsoft Copilot
+Data Scientist,Refactor project,Hospital,Placement,GitHub Copilot
+Financial Analyst,Explain algorithms,College,Automation,ChatGPT
+Business Analyst,Policy drafting,Enterprise,Business Growth,Claude
+Cybersecurity Analyst,Tech discussion,Startup,Research,Grok
+Professor,Autocomplete functions,Enterprise,Deployment,GitHub Copilot
+Machine Learning Engineer,Autocomplete functions,Healthcare,Research,GitHub Copilot
+Content Writer,Current events summary,Startup,Exam Preparation,Grok
+HR Manager,Research comparison,Legal Firm,Prototype,Perplexity
+Doctor,Multimodal explanation,Legal Firm,Placement,Gemini
+Research Scientist,Excel analysis,Hospital,Documentation,Microsoft Copilot
+Student,Long-form analysis,Finance,Documentation,Claude
+Frontend Developer,Generate unit tests,Enterprise,Business Growth,GitHub Copilot
+Lawyer,Python optimization,Hospital,Learning,DeepSeek
+Lawyer,Teams meeting summary,Startup,Placement,Microsoft Copilot
+Research Scientist,Generate project structure,Research Lab,Automation,Cursor AI
+UI UX Designer,Implement feature,College,Placement,Cursor AI
+Content Writer,Create presentation,Education,Automation,Gemini
+Professor,System design,College,Prototype,ChatGPT
+Research Scientist,Excel analysis,E-commerce,Presentation,Microsoft Copilot
+Student,Multimodal explanation,Research Lab,Business Growth,Gemini
+HR Manager,Find latest information,Healthcare,Automation,Perplexity
+Marketing Manager,Implement feature,Finance,Automation,Cursor AI
+HR Manager,Policy drafting,Legal Firm,Learning,Claude
+Cybersecurity Analyst,Google Workspace task,Startup,Business Growth,Gemini
+Financial Analyst,System design,Startup,Business Growth,ChatGPT
+Cybersecurity Analyst,Research comparison,Research Lab,Documentation,Perplexity
+HR Manager,Generate project structure,E-commerce,Business Growth,Cursor AI
+UI UX Designer,Find latest information,Finance,Business Growth,Perplexity
+Data Scientist,Refactor project,Finance,Presentation,GitHub Copilot
+DevOps Engineer,Competitive programming,E-commerce,Presentation,DeepSeek
+Data Scientist,Math reasoning,Legal Firm,Learning,DeepSeek
+UI UX Designer,Trend analysis,Research Lab,Placement,Grok
+Financial Analyst,Edit repository,Enterprise,Learning,Cursor AI
+Software Engineer,Google Workspace task,Education,Automation,Gemini
+Doctor,Multilingual translation,Hospital,Placement,Qwen
+Doctor,Write SQL queries,Healthcare,Documentation,ChatGPT
+Lawyer,Autocomplete functions,E-commerce,Learning,GitHub Copilot
+Financial Analyst,Algorithm optimization,Legal Firm,Presentation,DeepSeek
+Professor,Multimodal explanation,Research Lab,Business Growth,Gemini
+Backend Developer,Complete code,Hospital,Exam Preparation,GitHub Copilot
+Research Scientist,Office automation,Research Lab,Exam Preparation,Microsoft Copilot
+Software Engineer,Knowledge Q&A,Research Lab,Research,Qwen
+Teacher,Build ML model,Hospital,Documentation,ChatGPT
+Professor,Reasoning task,College,Exam Preparation,Qwen
+Teacher,Write SQL queries,Enterprise,Documentation,ChatGPT
+HR Manager,Educational content,Research Lab,Business Growth,Gemini
+UI UX Designer,Literature review,Startup,Prototype,Perplexity
+Backend Developer,Trend analysis,Healthcare,Deployment,Grok
+Cybersecurity Analyst,Multilingual translation,Hospital,Research,Qwen
+Professor,Technical writing,Healthcare,Automation,Claude
+Frontend Developer,Knowledge Q&A,Healthcare,Exam Preparation,Qwen
+Doctor,Analyze images,Hospital,Exam Preparation,Gemini
+Business Analyst,Citation search,Finance,Business Growth,Perplexity
+Frontend Developer,Knowledge Q&A,Finance,Placement,Qwen
+Content Writer,Coding interview,E-commerce,Automation,DeepSeek
+Teacher,Summarize documents,Education,Prototype,Claude
+HR Manager,Policy drafting,Research Lab,Deployment,Claude
+Machine Learning Engineer,Implement feature,Healthcare,Deployment,Cursor AI
+UI UX Designer,Fix bugs,Legal Firm,Presentation,GitHub Copilot
+Research Scientist,Policy drafting,Hospital,Presentation,Claude
+Software Engineer,Explain algorithms,Research Lab,Documentation,ChatGPT
+Software Engineer,Multimodal explanation,Legal Firm,Placement,Gemini
+Professor,Write research report,College,Research,Claude
+Content Writer,Algorithm optimization,Startup,Research,DeepSeek
+Content Writer,Google Workspace task,E-commerce,Placement,Gemini
+Backend Developer,Reasoning task,Hospital,Learning,Qwen
+Software Engineer,Autocomplete functions,Education,Prototype,GitHub Copilot
+Financial Analyst,Literature review,Finance,Learning,Perplexity
+Backend Developer,Generate project structure,Education,Exam Preparation,Cursor AI
+Student,Math reasoning,Startup,Presentation,DeepSeek
+Data Scientist,Refactor project,Education,Learning,GitHub Copilot
+Backend Developer,Tech discussion,E-commerce,Presentation,Grok
+Cybersecurity Analyst,Citation search,Finance,Placement,Perplexity
+Professor,System design,Startup,Placement,ChatGPT
+Full Stack Developer,Multimodal explanation,E-commerce,Learning,Gemini
+Backend Developer,Analyze images,Finance,Prototype,Gemini
+Backend Developer,Trend analysis,Education,Prototype,Grok
+Full Stack Developer,Policy drafting,Legal Firm,Business Growth,Claude
+UI UX Designer,Tech discussion,Education,Placement,Grok
+Backend Developer,Long-form analysis,Legal Firm,Exam Preparation,Claude
+DevOps Engineer,Knowledge Q&A,Healthcare,Automation,Qwen
+Data Scientist,Math reasoning,Hospital,Prototype,DeepSeek
+Cybersecurity Analyst,Knowledge Q&A,Finance,Presentation,Qwen
+Data Scientist,Fix bugs,Education,Learning,GitHub Copilot
+Cybersecurity Analyst,Teams meeting summary,Research Lab,Placement,Microsoft Copilot
+Financial Analyst,Word drafting,Startup,Deployment,Microsoft Copilot
+Lawyer,Long-form analysis,E-commerce,Automation,Claude
+Financial Analyst,Algorithm optimization,Startup,Documentation,DeepSeek
+HR Manager,Coding interview,Finance,Presentation,DeepSeek
+Financial Analyst,Teams meeting summary,Finance,Automation,Microsoft Copilot
+UI UX Designer,Chinese NLP task,Hospital,Deployment,Qwen
+Content Writer,Summarize documents,Enterprise,Research,Claude
+Student,Explain algorithms,Legal Firm,Exam Preparation,ChatGPT
+DevOps Engineer,Citation search,Hospital,Automation,Perplexity
+Doctor,Reasoning task,Research Lab,Deployment,Qwen
+Frontend Developer,Build ML model,Research Lab,Placement,ChatGPT
+Machine Learning Engineer,Generate unit tests,College,Presentation,GitHub Copilot
+Full Stack Developer,Write research report,Healthcare,Deployment,Claude
+Professor,Summarize documents,Healthcare,Automation,Claude
+Financial Analyst,Refactor large codebase,Healthcare,Placement,Cursor AI
+Content Writer,Build ML model,Startup,Learning,ChatGPT
+HR Manager,Generate project structure,E-commerce,Documentation,Cursor AI
+UI UX Designer,Debug Python code,Education,Deployment,ChatGPT
+Student,System design,Healthcare,Research,ChatGPT
+Machine Learning Engineer,Coding interview,Healthcare,Deployment,DeepSeek
+Backend Developer,Knowledge Q&A,Legal Firm,Prototype,Qwen
+Business Analyst,Find latest information,Enterprise,Automation,Perplexity
+Research Scientist,Multilingual translation,Startup,Business Growth,Qwen
+Backend Developer,Brainstorm ideas,College,Placement,Grok
+HR Manager,PowerPoint outline,Hospital,Exam Preparation,Microsoft Copilot
+Research Scientist,Explain algorithms,College,Placement,ChatGPT
+Backend Developer,Complete code,Legal Firm,Placement,GitHub Copilot
+Data Scientist,Office automation,College,Automation,Microsoft Copilot
+Full Stack Developer,Current events summary,Education,Deployment,Grok
+Backend Developer,General coding,College,Exam Preparation,Qwen
+Full Stack Developer,Multilingual translation,Startup,Automation,Qwen
+Full Stack Developer,PowerPoint outline,Finance,Learning,Microsoft Copilot
+Business Analyst,Knowledge Q&A,Enterprise,Learning,Qwen
+Data Scientist,Analyze images,Startup,Prototype,Gemini
+Machine Learning Engineer,Generate unit tests,Startup,Presentation,GitHub Copilot
+Content Writer,Coding interview,Healthcare,Business Growth,DeepSeek
+DevOps Engineer,Write research report,Legal Firm,Business Growth,Claude
+UI UX Designer,Autocomplete functions,Startup,Exam Preparation,GitHub Copilot
+Research Scientist,Analyze images,Enterprise,Research,Gemini
+DevOps Engineer,PowerPoint outline,Legal Firm,Exam Preparation,Microsoft Copilot
+Machine Learning Engineer,Refactor project,Finance,Research,GitHub Copilot
+Business Analyst,Algorithm optimization,E-commerce,Documentation,DeepSeek
+Software Engineer,Build ML model,Healthcare,Documentation,ChatGPT
+Software Engineer,Code navigation,Hospital,Documentation,Cursor AI
+Full Stack Developer,Competitive programming,Enterprise,Automation,DeepSeek
+Backend Developer,Educational content,Education,Business Growth,Gemini
+Lawyer,Social media insights,Enterprise,Presentation,Grok
+Business Analyst,Brainstorm ideas,E-commerce,Learning,Grok
+Lawyer,Coding interview,Finance,Placement,DeepSeek
+Backend Developer,Current events summary,Startup,Documentation,Grok
+Professor,Chinese NLP task,Enterprise,Deployment,Qwen
+Frontend Developer,Build ML model,Hospital,Research,ChatGPT
+HR Manager,System design,Education,Learning,ChatGPT
+Software Engineer,Excel analysis,Hospital,Research,Microsoft Copilot
+Student,Fact checking,Finance,Business Growth,Perplexity
+Full Stack Developer,Write research report,Startup,Business Growth,Claude
+Cybersecurity Analyst,Long-form analysis,Healthcare,Research,Claude
+Doctor,Refactor large codebase,College,Automation,Cursor AI
+Research Scientist,Refactor large codebase,Startup,Research,Cursor AI
+Cybersecurity Analyst,Technical writing,Startup,Prototype,Claude
+Software Engineer,Refactor large codebase,Education,Presentation,Cursor AI
+Backend Developer,Math reasoning,Education,Documentation,DeepSeek
+Content Writer,Chinese NLP task,College,Deployment,Qwen
+Backend Developer,Chinese NLP task,Finance,Research,Qwen
+Lawyer,Algorithm optimization,E-commerce,Automation,DeepSeek
+Student,Generate unit tests,Legal Firm,Prototype,GitHub Copilot
+UI UX Designer,Word drafting,Hospital,Presentation,Microsoft Copilot
+Cybersecurity Analyst,Explain algorithms,Finance,Presentation,ChatGPT
+Financial Analyst,Create presentation,Hospital,Business Growth,Gemini
+Machine Learning Engineer,Brainstorm ideas,Healthcare,Placement,Grok
+DevOps Engineer,Write research report,Education,Placement,Claude
+Business Analyst,Autocomplete functions,Hospital,Presentation,GitHub Copilot
+Teacher,Google Workspace task,Startup,Learning,Gemini
+HR Manager,Long-form analysis,Startup,Automation,Claude
+Machine Learning Engineer,Excel analysis,Research Lab,Learning,Microsoft Copilot
+Business Analyst,Current events summary,Startup,Prototype,Grok
+DevOps Engineer,Chinese NLP task,Finance,Deployment,Qwen
+Software Engineer,Technical writing,Hospital,Business Growth,Claude
+Marketing Manager,Debug Python code,Healthcare,Exam Preparation,ChatGPT
+Frontend Developer,Fact checking,Healthcare,Research,Perplexity
+Financial Analyst,Long-form analysis,Startup,Presentation,Claude
+DevOps Engineer,Policy drafting,Enterprise,Exam Preparation,Claude
+Data Scientist,Multilingual translation,Healthcare,Research,Qwen
+Data Scientist,Technical writing,Hospital,Deployment,Claude
+Full Stack Developer,Citation search,Hospital,Business Growth,Perplexity
+DevOps Engineer,System design,Startup,Exam Preparation,ChatGPT
+Data Scientist,Write research report,Legal Firm,Deployment,Claude
+Backend Developer,Teams meeting summary,Enterprise,Business Growth,Microsoft Copilot
+Marketing Manager,Knowledge Q&A,Finance,Prototype,Qwen
+Machine Learning Engineer,Educational content,Startup,Deployment,Gemini
+Professor,Generate project structure,College,Documentation,Cursor AI
+Content Writer,Citation search,Education,Prototype,Perplexity
+Financial Analyst,Find latest information,Research Lab,Prototype,Perplexity
+Research Scientist,Python optimization,Finance,Automation,DeepSeek
+Frontend Developer,Complete code,College,Research,GitHub Copilot
+UI UX Designer,Algorithm optimization,Enterprise,Prototype,DeepSeek
+Software Engineer,Build ML model,Research Lab,Research,ChatGPT
+Business Analyst,Python optimization,College,Documentation,DeepSeek
+Cybersecurity Analyst,Algorithm optimization,Hospital,Exam Preparation,DeepSeek
+UI UX Designer,Build ML model,Research Lab,Learning,ChatGPT
+Content Writer,Generate unit tests,Education,Learning,GitHub Copilot
+DevOps Engineer,Office automation,Hospital,Exam Preparation,Microsoft Copilot
+Financial Analyst,Code navigation,Education,Research,Cursor AI
+Software Engineer,General coding,College,Placement,Qwen
+Full Stack Developer,Implement feature,Enterprise,Deployment,Cursor AI
+Financial Analyst,Citation search,E-commerce,Business Growth,Perplexity
+Software Engineer,Chinese NLP task,E-commerce,Learning,Qwen
+Software Engineer,Analyze images,Hospital,Deployment,Gemini
+Machine Learning Engineer,Research comparison,Research Lab,Research,Perplexity
+Full Stack Developer,Debug Python code,Enterprise,Documentation,ChatGPT
+Business Analyst,Algorithm optimization,Education,Automation,DeepSeek
+Doctor,Educational content,Hospital,Learning,Gemini
+Backend Developer,Multilingual translation,Healthcare,Prototype,Qwen
+Lawyer,Excel analysis,Finance,Exam Preparation,Microsoft Copilot
+Business Analyst,Tech discussion,Healthcare,Automation,Grok
+Doctor,General coding,Education,Business Growth,Qwen
+Teacher,Tech discussion,E-commerce,Learning,Grok
+DevOps Engineer,Python optimization,Startup,Learning,DeepSeek
+Data Scientist,Generate unit tests,Education,Learning,GitHub Copilot
+Doctor,Trend analysis,Research Lab,Presentation,Grok
+Doctor,Write research report,College,Prototype,Claude
+Content Writer,Trend analysis,College,Placement,Grok
+Business Analyst,Explain algorithms,College,Deployment,ChatGPT
+Financial Analyst,Knowledge Q&A,Hospital,Documentation,Qwen
+HR Manager,Fact checking,Research Lab,Documentation,Perplexity
+Cybersecurity Analyst,Fact checking,E-commerce,Presentation,Perplexity
+Data Scientist,PowerPoint outline,Research Lab,Exam Preparation,Microsoft Copilot
+Research Scientist,Brainstorm ideas,College,Documentation,Grok
+Software Engineer,Social media insights,Hospital,Exam Preparation,Grok
+DevOps Engineer,Summarize documents,Finance,Deployment,Claude
+Full Stack Developer,Research comparison,Finance,Business Growth,Perplexity
+Cybersecurity Analyst,Excel analysis,Legal Firm,Business Growth,Microsoft Copilot
+Financial Analyst,Reasoning task,Legal Firm,Business Growth,Qwen
+Lawyer,Multimodal explanation,Finance,Documentation,Gemini
+UI UX Designer,Code navigation,Enterprise,Documentation,Cursor AI
+Software Engineer,Google Workspace task,Enterprise,Presentation,Gemini
+Business Analyst,Current events summary,College,Business Growth,Grok
+Business Analyst,Refactor project,Startup,Prototype,GitHub Copilot
+Doctor,Technical writing,Healthcare,Automation,Claude
+Cybersecurity Analyst,Write SQL queries,Enterprise,Prototype,ChatGPT
+Lawyer,Refactor large codebase,Healthcare,Deployment,Cursor AI
+Data Scientist,Coding interview,Research Lab,Deployment,DeepSeek
+Research Scientist,Chinese NLP task,College,Exam Preparation,Qwen
+Financial Analyst,Word drafting,Startup,Prototype,Microsoft Copilot
+Lawyer,Create presentation,Education,Prototype,Gemini
+Data Scientist,Edit repository,E-commerce,Research,Cursor AI
+Doctor,Find latest information,Research Lab,Deployment,Perplexity
+DevOps Engineer,Implement feature,Research Lab,Deployment,Cursor AI
+Cybersecurity Analyst,PowerPoint outline,E-commerce,Learning,Microsoft Copilot
+Marketing Manager,Explain algorithms,Enterprise,Presentation,ChatGPT
+Doctor,Teams meeting summary,Education,Presentation,Microsoft Copilot
+Business Analyst,Algorithm optimization,Legal Firm,Learning,DeepSeek
+HR Manager,Generate unit tests,E-commerce,Learning,GitHub Copilot
+Professor,Long-form analysis,E-commerce,Automation,Claude
+Student,Citation search,Finance,Automation,Perplexity
+Software Engineer,Current events summary,Finance,Exam Preparation,Grok
+Doctor,Explain algorithms,Hospital,Research,ChatGPT
+Lawyer,Literature review,Research Lab,Presentation,Perplexity
+Doctor,Edit repository,Finance,Documentation,Cursor AI
+Data Scientist,Refactor large codebase,Enterprise,Learning,Cursor AI
+Cybersecurity Analyst,Refactor large codebase,Education,Automation,Cursor AI
+Content Writer,Long-form analysis,E-commerce,Placement,Claude
+Professor,Research comparison,Education,Research,Perplexity
+Content Writer,Knowledge Q&A,Legal Firm,Presentation,Qwen
+Business Analyst,Multilingual translation,Healthcare,Deployment,Qwen
+Lawyer,Technical writing,Education,Documentation,Claude
+Frontend Developer,Algorithm optimization,Startup,Exam Preparation,DeepSeek
+Lawyer,Chinese NLP task,Healthcare,Business Growth,Qwen
+Business Analyst,Complete code,Hospital,Research,GitHub Copilot
+Data Scientist,Multilingual translation,Research Lab,Automation,Qwen
+Marketing Manager,Google Workspace task,E-commerce,Learning,Gemini
+Cybersecurity Analyst,Current events summary,Enterprise,Deployment,Grok
+Frontend Developer,Create presentation,College,Learning,Gemini
+Professor,Long-form analysis,Research Lab,Deployment,Claude
+Full Stack Developer,Fix bugs,Legal Firm,Documentation,GitHub Copilot
+Doctor,Competitive programming,Hospital,Learning,DeepSeek
+Cybersecurity Analyst,Word drafting,Legal Firm,Placement,Microsoft Copilot
+Business Analyst,Algorithm optimization,Hospital,Automation,DeepSeek
+Business Analyst,Reasoning task,Healthcare,Deployment,Qwen
+Teacher,Knowledge Q&A,College,Business Growth,Qwen
+Professor,PowerPoint outline,Enterprise,Documentation,Microsoft Copilot
+Data Scientist,Brainstorm ideas,College,Learning,Grok
+Machine Learning Engineer,Complete code,E-commerce,Exam Preparation,GitHub Copilot
+Marketing Manager,System design,Finance,Business Growth,ChatGPT
+Frontend Developer,Policy drafting,Education,Business Growth,Claude
+Cybersecurity Analyst,Generate unit tests,Hospital,Documentation,GitHub Copilot
+UI UX Designer,Autocomplete functions,Legal Firm,Automation,GitHub Copilot
+Professor,Python optimization,Research Lab,Research,DeepSeek
+DevOps Engineer,Refactor project,E-commerce,Exam Preparation,GitHub Copilot
+Machine Learning Engineer,Python optimization,Finance,Automation,DeepSeek
+Doctor,Write research report,College,Exam Preparation,Claude
+DevOps Engineer,Technical writing,E-commerce,Automation,Claude
+Content Writer,Literature review,Finance,Business Growth,Perplexity
+Machine Learning Engineer,Refactor large codebase,Enterprise,Business Growth,Cursor AI
+DevOps Engineer,Brainstorm ideas,Enterprise,Business Growth,Grok
+Professor,Autocomplete functions,College,Automation,GitHub Copilot
+Backend Developer,Write SQL queries,Startup,Deployment,ChatGPT
+Financial Analyst,Refactor large codebase,Education,Exam Preparation,Cursor AI
+Content Writer,Generate project structure,Education,Deployment,Cursor AI
+Backend Developer,Long-form analysis,Finance,Research,Claude
+DevOps Engineer,Trend analysis,College,Business Growth,Grok
+Research Scientist,Edit repository,Enterprise,Business Growth,Cursor AI
+DevOps Engineer,General coding,Healthcare,Placement,Qwen
+Business Analyst,Complete code,Education,Learning,GitHub Copilot
+Student,Technical writing,Education,Research,Claude
+Cybersecurity Analyst,Generate project structure,Enterprise,Deployment,Cursor AI
+Business Analyst,Refactor project,Research Lab,Documentation,GitHub Copilot
+Backend Developer,Trend analysis,Healthcare,Exam Preparation,Grok
+Full Stack Developer,Technical writing,Healthcare,Learning,Claude
+Doctor,Policy drafting,Research Lab,Deployment,Claude
+Doctor,Explain algorithms,Healthcare,Learning,ChatGPT
+Data Scientist,Trend analysis,Startup,Documentation,Grok
+Backend Developer,Brainstorm ideas,Research Lab,Deployment,Grok
+UI UX Designer,Fact checking,Education,Documentation,Perplexity
+Machine Learning Engineer,Algorithm optimization,Healthcare,Prototype,DeepSeek
+Student,Refactor project,Startup,Automation,GitHub Copilot
+Student,PowerPoint outline,Healthcare,Research,Microsoft Copilot
+Teacher,Refactor project,Legal Firm,Presentation,GitHub Copilot
+Doctor,Refactor large codebase,Research Lab,Placement,Cursor AI
+Student,Fix bugs,Finance,Automation,GitHub Copilot
+Software Engineer,Google Workspace task,Startup,Prototype,Gemini
+Teacher,Current events summary,Research Lab,Automation,Grok
+Marketing Manager,Technical writing,Research Lab,Automation,Claude
+Professor,Teams meeting summary,Education,Research,Microsoft Copilot
+Business Analyst,Coding interview,Healthcare,Business Growth,DeepSeek
+Marketing Manager,Brainstorm ideas,Research Lab,Learning,Grok
+Cybersecurity Analyst,Math reasoning,Startup,Research,DeepSeek
+Full Stack Developer,Citation search,Enterprise,Learning,Perplexity
+Data Scientist,Office automation,Research Lab,Learning,Microsoft Copilot
+Content Writer,PowerPoint outline,Finance,Learning,Microsoft Copilot
+Marketing Manager,Chinese NLP task,Finance,Deployment,Qwen
+Marketing Manager,Multilingual translation,E-commerce,Learning,Qwen
+Software Engineer,Complete code,Enterprise,Prototype,GitHub Copilot
+Backend Developer,Trend analysis,College,Exam Preparation,Grok
+Research Scientist,Technical writing,Research Lab,Learning,Claude
+Frontend Developer,Citation search,Education,Placement,Perplexity
+Student,Fact checking,E-commerce,Research,Perplexity
+UI UX Designer,Generate unit tests,Legal Firm,Prototype,GitHub Copilot
+Financial Analyst,Implement feature,College,Research,Cursor AI
+Frontend Developer,Explain algorithms,Education,Exam Preparation,ChatGPT
+Data Scientist,Fact checking,Enterprise,Documentation,Perplexity
+Software Engineer,Chinese NLP task,Finance,Learning,Qwen
+Financial Analyst,Citation search,Research Lab,Learning,Perplexity
+Data Scientist,Refactor large codebase,Research Lab,Automation,Cursor AI
+UI UX Designer,Generate project structure,Enterprise,Research,Cursor AI
+Research Scientist,Fix bugs,Startup,Prototype,GitHub Copilot
+Financial Analyst,Complete code,Enterprise,Placement,GitHub Copilot
+Financial Analyst,Debug Python code,Finance,Automation,ChatGPT
+Frontend Developer,Current events summary,Startup,Business Growth,Grok
+Cybersecurity Analyst,Build ML model,Finance,Research,ChatGPT
+DevOps Engineer,Refactor project,Healthcare,Exam Preparation,GitHub Copilot
+UI UX Designer,Analyze images,Research Lab,Exam Preparation,Gemini
+Data Scientist,Office automation,Finance,Automation,Microsoft Copilot
+Machine Learning Engineer,Social media insights,E-commerce,Presentation,Grok
+Machine Learning Engineer,Refactor large codebase,Education,Research,Cursor AI
+Data Scientist,Multimodal explanation,College,Prototype,Gemini
+Lawyer,Social media insights,Education,Automation,Grok
+Cybersecurity Analyst,Refactor large codebase,Education,Placement,Cursor AI
+Professor,Refactor project,E-commerce,Research,GitHub Copilot
+Financial Analyst,Generate unit tests,Startup,Automation,GitHub Copilot
+Software Engineer,Policy drafting,Finance,Deployment,Claude
+DevOps Engineer,Long-form analysis,Legal Firm,Automation,Claude
+UI UX Designer,Word drafting,Education,Business Growth,Microsoft Copilot
+Data Scientist,Create presentation,Enterprise,Documentation,Gemini
+Lawyer,Implement feature,Finance,Presentation,Cursor AI
+Student,Educational content,Education,Prototype,Gemini
+Marketing Manager,Debug Python code,Hospital,Learning,ChatGPT
+Backend Developer,Teams meeting summary,Education,Deployment,Microsoft Copilot
+UI UX Designer,Edit repository,Legal Firm,Exam Preparation,Cursor AI
+Data Scientist,Knowledge Q&A,College,Presentation,Qwen
+Business Analyst,Debug Python code,Hospital,Exam Preparation,ChatGPT
+Student,Create presentation,Hospital,Research,Gemini
+Research Scientist,Algorithm optimization,E-commerce,Business Growth,DeepSeek
+DevOps Engineer,Multilingual translation,Finance,Deployment,Qwen
+Business Analyst,Fact checking,Startup,Learning,Perplexity
+Research Scientist,Current events summary,College,Business Growth,Grok
+Research Scientist,Competitive programming,Startup,Documentation,DeepSeek
+DevOps Engineer,Math reasoning,Hospital,Documentation,DeepSeek
+Lawyer,Research comparison,College,Business Growth,Perplexity
+UI UX Designer,Build ML model,E-commerce,Prototype,ChatGPT
+Cybersecurity Analyst,Explain algorithms,Finance,Business Growth,ChatGPT
+Doctor,Policy drafting,Hospital,Presentation,Claude
+Frontend Developer,Google Workspace task,College,Documentation,Gemini
+Full Stack Developer,Edit repository,E-commerce,Presentation,Cursor AI
+Backend Developer,General coding,College,Presentation,Qwen
+Lawyer,Social media insights,Hospital,Research,Grok
+Data Scientist,Word drafting,Enterprise,Business Growth,Microsoft Copilot
+Machine Learning Engineer,Knowledge Q&A,Startup,Business Growth,Qwen
+Lawyer,Math reasoning,Healthcare,Documentation,DeepSeek
+Backend Developer,Refactor project,Hospital,Presentation,GitHub Copilot
+Full Stack Developer,Autocomplete functions,Hospital,Learning,GitHub Copilot
+Marketing Manager,Tech discussion,Hospital,Research,Grok
+Marketing Manager,Word drafting,Research Lab,Documentation,Microsoft Copilot
+Business Analyst,Analyze images,E-commerce,Automation,Gemini
+Research Scientist,Chinese NLP task,Education,Exam Preparation,Qwen
+Backend Developer,Code navigation,Legal Firm,Exam Preparation,Cursor AI
+Research Scientist,Social media insights,Hospital,Placement,Grok
+Business Analyst,Research comparison,Enterprise,Learning,Perplexity
+Research Scientist,Competitive programming,E-commerce,Research,DeepSeek
+Data Scientist,Teams meeting summary,Enterprise,Research,Microsoft Copilot
+Full Stack Developer,Generate unit tests,Research Lab,Automation,GitHub Copilot
+Teacher,Coding interview,Finance,Research,DeepSeek
+Backend Developer,Generate project structure,Hospital,Deployment,Cursor AI
+UI UX Designer,Word drafting,Healthcare,Documentation,Microsoft Copilot
+Cybersecurity Analyst,Code navigation,Finance,Learning,Cursor AI
+Backend Developer,Social media insights,Education,Learning,Grok
+Cybersecurity Analyst,Social media insights,Enterprise,Placement,Grok
+UI UX Designer,Word drafting,College,Documentation,Microsoft Copilot
+HR Manager,Python optimization,Finance,Research,DeepSeek
+Lawyer,Find latest information,College,Automation,Perplexity
+Doctor,Literature review,College,Presentation,Perplexity
+Machine Learning Engineer,Chinese NLP task,Legal Firm,Research,Qwen
+Lawyer,Office automation,Hospital,Prototype,Microsoft Copilot
+Data Scientist,Technical writing,Finance,Automation,Claude
+Professor,Summarize documents,Healthcare,Placement,Claude
+Backend Developer,Research comparison,College,Business Growth,Perplexity
+Research Scientist,Educational content,Finance,Deployment,Gemini
+Software Engineer,Write research report,Enterprise,Presentation,Claude
+Frontend Developer,Build ML model,College,Exam Preparation,ChatGPT
+UI UX Designer,Write SQL queries,College,Learning,ChatGPT
+Data Scientist,Long-form analysis,Enterprise,Business Growth,Claude
+Lawyer,Algorithm optimization,Hospital,Documentation,DeepSeek
+Machine Learning Engineer,Citation search,Finance,Prototype,Perplexity
+UI UX Designer,Autocomplete functions,Enterprise,Placement,GitHub Copilot
+Software Engineer,System design,College,Learning,ChatGPT
+Full Stack Developer,Write research report,Research Lab,Research,Claude
+Business Analyst,Trend analysis,Research Lab,Documentation,Grok
+UI UX Designer,Technical writing,Finance,Documentation,Claude
+Machine Learning Engineer,Brainstorm ideas,Hospital,Automation,Grok
+Teacher,Reasoning task,College,Presentation,Qwen
+Professor,Research comparison,Education,Placement,Perplexity
+Content Writer,Build ML model,Finance,Documentation,ChatGPT
+Full Stack Developer,Write research report,Legal Firm,Placement,Claude
+Lawyer,Generate project structure,Enterprise,Deployment,Cursor AI
+Lawyer,Complete code,Startup,Presentation,GitHub Copilot
+Full Stack Developer,Debug Python code,E-commerce,Documentation,ChatGPT
+Machine Learning Engineer,Multimodal explanation,College,Documentation,Gemini
+Lawyer,General coding,Enterprise,Placement,Qwen
+Frontend Developer,Write SQL queries,Enterprise,Exam Preparation,ChatGPT
+Software Engineer,Chinese NLP task,Hospital,Research,Qwen
+Content Writer,Policy drafting,Startup,Placement,Claude
+Professor,Knowledge Q&A,Startup,Research,Qwen
+Doctor,General coding,E-commerce,Documentation,Qwen
+Lawyer,Algorithm optimization,Startup,Deployment,DeepSeek
+Business Analyst,Current events summary,Research Lab,Presentation,Grok
+Software Engineer,Knowledge Q&A,Hospital,Automation,Qwen
+Cybersecurity Analyst,Knowledge Q&A,Finance,Deployment,Qwen
+Data Scientist,Chinese NLP task,Finance,Presentation,Qwen
+Machine Learning Engineer,Math reasoning,Legal Firm,Prototype,DeepSeek
+Content Writer,Explain algorithms,E-commerce,Prototype,ChatGPT
+Data Scientist,Policy drafting,Research Lab,Presentation,Claude
+Research Scientist,Policy drafting,Legal Firm,Prototype,Claude
+Software Engineer,Research comparison,Education,Exam Preparation,Perplexity
+Doctor,Educational content,Startup,Documentation,Gemini
+Research Scientist,Long-form analysis,Healthcare,Learning,Claude
+Student,Generate project structure,Finance,Deployment,Cursor AI
+Frontend Developer,Educational content,Startup,Exam Preparation,Gemini
+DevOps Engineer,Find latest information,Startup,Automation,Perplexity
+Software Engineer,Refactor project,College,Research,GitHub Copilot
+Business Analyst,Multilingual translation,Education,Research,Qwen
+Business Analyst,Debug Python code,College,Research,ChatGPT
+Content Writer,Implement feature,Finance,Placement,Cursor AI
+UI UX Designer,Google Workspace task,Finance,Placement,Gemini
+Backend Developer,Fix bugs,Research Lab,Business Growth,GitHub Copilot
+Content Writer,Tech discussion,Enterprise,Research,Grok
+Marketing Manager,Find latest information,E-commerce,Placement,Perplexity
+Full Stack Developer,Refactor large codebase,E-commerce,Deployment,Cursor AI
+Software Engineer,Office automation,E-commerce,Learning,Microsoft Copilot
+Doctor,Social media insights,Startup,Research,Grok
+Doctor,Office automation,Finance,Research,Microsoft Copilot
+Teacher,Social media insights,Finance,Presentation,Grok
+Frontend Developer,Technical writing,Enterprise,Automation,Claude
+Software Engineer,Knowledge Q&A,E-commerce,Deployment,Qwen
+Marketing Manager,Explain algorithms,Enterprise,Prototype,ChatGPT
+HR Manager,Find latest information,Education,Exam Preparation,Perplexity
+HR Manager,Edit repository,Hospital,Placement,Cursor AI
+Research Scientist,Research comparison,Finance,Placement,Perplexity
+Doctor,Word drafting,Startup,Prototype,Microsoft Copilot
+Teacher,Excel analysis,Education,Prototype,Microsoft Copilot
+Machine Learning Engineer,Citation search,Finance,Learning,Perplexity
+Content Writer,Build ML model,College,Presentation,ChatGPT
+Frontend Developer,Google Workspace task,Enterprise,Presentation,Gemini
+Full Stack Developer,PowerPoint outline,Research Lab,Business Growth,Microsoft Copilot
+UI UX Designer,Literature review,Enterprise,Presentation,Perplexity
+Cybersecurity Analyst,Find latest information,Research Lab,Automation,Perplexity
+Full Stack Developer,Competitive programming,Education,Exam Preparation,DeepSeek
+Teacher,General coding,Startup,Prototype,Qwen
+Doctor,Google Workspace task,Healthcare,Presentation,Gemini
+UI UX Designer,Office automation,Healthcare,Exam Preparation,Microsoft Copilot
+Content Writer,Complete code,Research Lab,Placement,GitHub Copilot
+Software Engineer,Long-form analysis,Education,Automation,Claude
+Software Engineer,Research comparison,Healthcare,Documentation,Perplexity
+Teacher,Research comparison,Finance,Placement,Perplexity
+Machine Learning Engineer,Technical writing,Education,Prototype,Claude
+Cybersecurity Analyst,Edit repository,College,Automation,Cursor AI
+Doctor,Math reasoning,Startup,Presentation,DeepSeek
+Backend Developer,Write research report,Legal Firm,Exam Preparation,Claude
+Data Scientist,Refactor large codebase,Research Lab,Business Growth,Cursor AI
+UI UX Designer,Google Workspace task,E-commerce,Presentation,Gemini
+Software Engineer,Google Workspace task,Startup,Deployment,Gemini
+Financial Analyst,Word drafting,Legal Firm,Learning,Microsoft Copilot
+Software Engineer,Create presentation,Enterprise,Deployment,Gemini
+Machine Learning Engineer,Math reasoning,College,Deployment,DeepSeek
+Teacher,Write SQL queries,E-commerce,Exam Preparation,ChatGPT
+UI UX Designer,Knowledge Q&A,Startup,Presentation,Qwen
+Financial Analyst,Analyze images,Startup,Research,Gemini
+Backend Developer,Technical writing,College,Automation,Claude
+UI UX Designer,Write research report,Hospital,Prototype,Claude
+Cybersecurity Analyst,Coding interview,Research Lab,Prototype,DeepSeek
+Cybersecurity Analyst,Fact checking,Education,Placement,Perplexity
+Teacher,Teams meeting summary,Research Lab,Placement,Microsoft Copilot
+DevOps Engineer,Current events summary,Startup,Deployment,Grok
+Teacher,Multimodal explanation,Hospital,Prototype,Gemini
+Content Writer,Find latest information,Legal Firm,Prototype,Perplexity
+UI UX Designer,Chinese NLP task,Hospital,Presentation,Qwen
+Lawyer,Code navigation,Hospital,Research,Cursor AI
+Software Engineer,Current events summary,Startup,Automation,Grok
+Backend Developer,Excel analysis,Hospital,Placement,Microsoft Copilot
+UI UX Designer,Reasoning task,Startup,Documentation,Qwen
+Content Writer,PowerPoint outline,Legal Firm,Automation,Microsoft Copilot
+Software Engineer,Multilingual translation,E-commerce,Documentation,Qwen
+Business Analyst,Research comparison,College,Automation,Perplexity
+Professor,Long-form analysis,Education,Learning,Claude
+Business Analyst,PowerPoint outline,Startup,Learning,Microsoft Copilot
+Business Analyst,Complete code,Education,Prototype,GitHub Copilot
+Lawyer,Code navigation,E-commerce,Exam Preparation,Cursor AI
+Business Analyst,General coding,College,Business Growth,Qwen
+Lawyer,Python optimization,College,Documentation,DeepSeek
+Research Scientist,Word drafting,Finance,Deployment,Microsoft Copilot
+Backend Developer,Find latest information,Healthcare,Prototype,Perplexity
+Frontend Developer,Generate project structure,Finance,Prototype,Cursor AI
+UI UX Designer,Write research report,E-commerce,Exam Preparation,Claude
+Data Scientist,Build ML model,Enterprise,Research,ChatGPT
+Full Stack Developer,PowerPoint outline,Research Lab,Prototype,Microsoft Copilot
+Student,Code navigation,Legal Firm,Placement,Cursor AI
+Machine Learning Engineer,Current events summary,Healthcare,Automation,Grok
+Lawyer,Chinese NLP task,Research Lab,Research,Qwen
+Content Writer,Excel analysis,E-commerce,Research,Microsoft Copilot
+Research Scientist,Coding interview,Legal Firm,Research,DeepSeek
+Student,PowerPoint outline,Legal Firm,Learning,Microsoft Copilot
+Backend Developer,Tech discussion,Legal Firm,Presentation,Grok
+Business Analyst,Educational content,E-commerce,Placement,Gemini
+Teacher,Research comparison,Hospital,Prototype,Perplexity
+Lawyer,Code navigation,Healthcare,Documentation,Cursor AI
+Lawyer,Explain algorithms,Healthcare,Business Growth,ChatGPT
+Doctor,Algorithm optimization,E-commerce,Exam Preparation,DeepSeek
+Business Analyst,Multimodal explanation,Enterprise,Automation,Gemini
+Doctor,Debug Python code,Education,Automation,ChatGPT
+DevOps Engineer,Word drafting,E-commerce,Presentation,Microsoft Copilot
+Doctor,Math reasoning,Startup,Deployment,DeepSeek
+Professor,System design,College,Automation,ChatGPT
+Software Engineer,Explain algorithms,Research Lab,Exam Preparation,ChatGPT
+Content Writer,Code navigation,Finance,Research,Cursor AI
+Lawyer,Excel analysis,Legal Firm,Placement,Microsoft Copilot
+Business Analyst,General coding,Hospital,Presentation,Qwen
+Lawyer,Algorithm optimization,Research Lab,Placement,DeepSeek
+Marketing Manager,Generate project structure,Hospital,Documentation,Cursor AI
+Cybersecurity Analyst,PowerPoint outline,College,Presentation,Microsoft Copilot
+DevOps Engineer,Code navigation,Startup,Automation,Cursor AI
+Data Scientist,Edit repository,E-commerce,Documentation,Cursor AI
+Doctor,Coding interview,Hospital,Documentation,DeepSeek
+Cybersecurity Analyst,Competitive programming,Startup,Presentation,DeepSeek
+Cybersecurity Analyst,Brainstorm ideas,Finance,Presentation,Grok
+HR Manager,Edit repository,Education,Business Growth,Cursor AI
+Professor,Explain algorithms,E-commerce,Documentation,ChatGPT
+Student,Multimodal explanation,Finance,Prototype,Gemini
+HR Manager,Debug Python code,Education,Placement,ChatGPT
+Machine Learning Engineer,Implement feature,Research Lab,Learning,Cursor AI
+Teacher,Python optimization,College,Research,DeepSeek
+Doctor,Social media insights,College,Presentation,Grok
+Machine Learning Engineer,Reasoning task,Legal Firm,Placement,Qwen
+HR Manager,Summarize documents,Finance,Presentation,Claude
+Backend Developer,Coding interview,Education,Research,DeepSeek
+Data Scientist,Word drafting,Research Lab,Prototype,Microsoft Copilot
+UI UX Designer,Math reasoning,Healthcare,Business Growth,DeepSeek
+Backend Developer,Teams meeting summary,Hospital,Learning,Microsoft Copilot
+Software Engineer,Multilingual translation,Hospital,Learning,Qwen
+DevOps Engineer,Generate unit tests,Hospital,Exam Preparation,GitHub Copilot
+UI UX Designer,Research comparison,Education,Research,Perplexity
+Software Engineer,Tech discussion,Finance,Presentation,Grok
+Student,Current events summary,Healthcare,Documentation,Grok
+Student,Refactor large codebase,Healthcare,Presentation,Cursor AI
+Doctor,Competitive programming,Legal Firm,Automation,DeepSeek
+Professor,Coding interview,Healthcare,Presentation,DeepSeek
+Doctor,Long-form analysis,Research Lab,Learning,Claude
+Lawyer,Google Workspace task,Healthcare,Automation,Gemini
+Cybersecurity Analyst,Code navigation,Research Lab,Prototype,Cursor AI
+Financial Analyst,Python optimization,Hospital,Business Growth,DeepSeek
+Content Writer,Refactor large codebase,Research Lab,Deployment,Cursor AI
+Data Scientist,Explain algorithms,Research Lab,Learning,ChatGPT
+Professor,Fix bugs,Legal Firm,Business Growth,GitHub Copilot
+HR Manager,Python optimization,Enterprise,Presentation,DeepSeek
+Cybersecurity Analyst,Create presentation,Legal Firm,Deployment,Gemini
+Professor,Analyze images,Education,Documentation,Gemini
+Machine Learning Engineer,Chinese NLP task,Research Lab,Deployment,Qwen
+Cybersecurity Analyst,Generate project structure,Education,Automation,Cursor AI
+Marketing Manager,Trend analysis,Research Lab,Learning,Grok
+Marketing Manager,Excel analysis,Hospital,Business Growth,Microsoft Copilot
+Teacher,Code navigation,Education,Automation,Cursor AI
+Doctor,Implement feature,Legal Firm,Automation,Cursor AI
+Machine Learning Engineer,Explain algorithms,Enterprise,Documentation,ChatGPT
+Full Stack Developer,Brainstorm ideas,Education,Business Growth,Grok
+Business Analyst,Generate project structure,Healthcare,Business Growth,Cursor AI
+Content Writer,Generate project structure,Legal Firm,Learning,Cursor AI
+Machine Learning Engineer,Refactor project,College,Business Growth,GitHub Copilot
+Doctor,Educational content,Legal Firm,Exam Preparation,Gemini
+Frontend Developer,Educational content,E-commerce,Documentation,Gemini
+Research Scientist,Office automation,Hospital,Exam Preparation,Microsoft Copilot
+Software Engineer,Refactor project,Education,Business Growth,GitHub Copilot
+Teacher,Coding interview,Startup,Placement,DeepSeek
+Data Scientist,Reasoning task,Enterprise,Exam Preparation,Qwen
+Teacher,PowerPoint outline,Education,Research,Microsoft Copilot
+UI UX Designer,Brainstorm ideas,College,Business Growth,Grok
+Research Scientist,Social media insights,College,Deployment,Grok
+Doctor,Multimodal explanation,College,Research,Gemini
+Frontend Developer,Implement feature,Enterprise,Automation,Cursor AI
+Frontend Developer,Current events summary,Legal Firm,Learning,Grok
+Cybersecurity Analyst,Find latest information,E-commerce,Learning,Perplexity
+Professor,Generate unit tests,Legal Firm,Automation,GitHub Copilot
+Data Scientist,Excel analysis,Finance,Prototype,Microsoft Copilot
+Cybersecurity Analyst,Literature review,Research Lab,Prototype,Perplexity
+Teacher,Technical writing,Finance,Automation,Claude
+Doctor,Algorithm optimization,Education,Exam Preparation,DeepSeek
+HR Manager,Coding interview,Education,Learning,DeepSeek
+Frontend Developer,Teams meeting summary,Startup,Automation,Microsoft Copilot
+Cybersecurity Analyst,Debug Python code,Enterprise,Prototype,ChatGPT
+Doctor,Create presentation,Finance,Deployment,Gemini
+Lawyer,Python optimization,Healthcare,Deployment,DeepSeek
+Professor,Generate unit tests,College,Research,GitHub Copilot
+Cybersecurity Analyst,Write SQL queries,E-commerce,Documentation,ChatGPT
+Full Stack Developer,Generate project structure,Legal Firm,Research,Cursor AI
+Machine Learning Engineer,Office automation,Hospital,Presentation,Microsoft Copilot
+Research Scientist,Office automation,College,Documentation,Microsoft Copilot
+Professor,Long-form analysis,Startup,Presentation,Claude
+Teacher,Code navigation,Hospital,Deployment,Cursor AI
+Doctor,Citation search,Healthcare,Learning,Perplexity
+Professor,Fact checking,College,Exam Preparation,Perplexity
+Doctor,PowerPoint outline,Enterprise,Deployment,Microsoft Copilot
+HR Manager,Research comparison,College,Deployment,Perplexity
+Teacher,Debug Python code,Enterprise,Documentation,ChatGPT
+Software Engineer,Generate project structure,Hospital,Placement,Cursor AI
+Professor,Social media insights,Legal Firm,Prototype,Grok
+UI UX Designer,Fix bugs,Finance,Research,GitHub Copilot
+Cybersecurity Analyst,Debug Python code,Finance,Business Growth,ChatGPT
+Machine Learning Engineer,Teams meeting summary,Hospital,Deployment,Microsoft Copilot
+UI UX Designer,Math reasoning,Finance,Prototype,DeepSeek
+Backend Developer,Brainstorm ideas,Research Lab,Prototype,Grok
+Research Scientist,Code navigation,Enterprise,Exam Preparation,Cursor AI
+Backend Developer,Coding interview,College,Presentation,DeepSeek
+Backend Developer,Refactor large codebase,Enterprise,Business Growth,Cursor AI
+HR Manager,Analyze images,Startup,Learning,Gemini
+Cybersecurity Analyst,Citation search,E-commerce,Presentation,Perplexity
+Financial Analyst,Debug Python code,Healthcare,Placement,ChatGPT
+Professor,Write research report,Legal Firm,Exam Preparation,Claude
+Data Scientist,Coding interview,Startup,Automation,DeepSeek
+Backend Developer,Reasoning task,Education,Learning,Qwen
+Business Analyst,Technical writing,Legal Firm,Research,Claude
+Full Stack Developer,Complete code,Startup,Exam Preparation,GitHub Copilot
+Financial Analyst,Fix bugs,Healthcare,Exam Preparation,GitHub Copilot
+Doctor,Python optimization,Startup,Business Growth,DeepSeek
+Doctor,Generate unit tests,Healthcare,Deployment,GitHub Copilot
+Machine Learning Engineer,Complete code,Startup,Documentation,GitHub Copilot
+Lawyer,Write SQL queries,Healthcare,Presentation,ChatGPT
+Research Scientist,Summarize documents,Enterprise,Exam Preparation,Claude
+Machine Learning Engineer,Write research report,College,Deployment,Claude
+Frontend Developer,Current events summary,Research Lab,Learning,Grok
+Marketing Manager,Refactor project,Research Lab,Business Growth,GitHub Copilot
+Teacher,Find latest information,Education,Learning,Perplexity
+Doctor,Google Workspace task,Healthcare,Automation,Gemini
+Backend Developer,Create presentation,Research Lab,Placement,Gemini
+UI UX Designer,Tech discussion,Education,Automation,Grok
+Data Scientist,Office automation,Education,Business Growth,Microsoft Copilot
+Teacher,Debug Python code,Startup,Presentation,ChatGPT
+Frontend Developer,Educational content,Startup,Research,Gemini
+Software Engineer,Research comparison,Finance,Presentation,Perplexity
+DevOps Engineer,Coding interview,College,Documentation,DeepSeek
+HR Manager,Technical writing,Finance,Prototype,Claude
+Backend Developer,Fix bugs,Hospital,Automation,GitHub Copilot
+Software Engineer,Fix bugs,Research Lab,Learning,GitHub Copilot
+Lawyer,Social media insights,Hospital,Automation,Grok
+Data Scientist,Tech discussion,Hospital,Documentation,Grok
+DevOps Engineer,Implement feature,Legal Firm,Learning,Cursor AI
+Full Stack Developer,Literature review,Finance,Automation,Perplexity
+Content Writer,Chinese NLP task,Legal Firm,Placement,Qwen
+Research Scientist,Generate unit tests,College,Automation,GitHub Copilot
+Business Analyst,Citation search,Research Lab,Automation,Perplexity
+Content Writer,Brainstorm ideas,Finance,Research,Grok
+Software Engineer,Fix bugs,Enterprise,Automation,GitHub Copilot
+Backend Developer,Brainstorm ideas,Research Lab,Documentation,Grok
+Professor,Reasoning task,Startup,Presentation,Qwen
+Student,Python optimization,Research Lab,Business Growth,DeepSeek
+Doctor,Python optimization,Education,Prototype,DeepSeek
+Professor,Generate project structure,Legal Firm,Learning,Cursor AI
+HR Manager,Fact checking,Education,Exam Preparation,Perplexity
+Content Writer,Coding interview,Finance,Business Growth,DeepSeek
+DevOps Engineer,Educational content,Research Lab,Business Growth,Gemini
+Financial Analyst,Social media insights,Finance,Exam Preparation,Grok
+Software Engineer,Find latest information,Startup,Exam Preparation,Perplexity
+Backend Developer,Multimodal explanation,Hospital,Exam Preparation,Gemini
+Content Writer,Office automation,E-commerce,Prototype,Microsoft Copilot
+Marketing Manager,Algorithm optimization,E-commerce,Deployment,DeepSeek
+Doctor,Generate project structure,Enterprise,Placement,Cursor AI
+Teacher,Long-form analysis,Research Lab,Presentation,Claude
+Backend Developer,Debug Python code,Legal Firm,Presentation,ChatGPT
+HR Manager,Social media insights,Startup,Research,Grok
+DevOps Engineer,Generate unit tests,Research Lab,Deployment,GitHub Copilot
+Full Stack Developer,Social media insights,Healthcare,Deployment,Grok
+HR Manager,Research comparison,Finance,Automation,Perplexity
+Content Writer,Generate unit tests,College,Automation,GitHub Copilot
+Frontend Developer,Excel analysis,Education,Documentation,Microsoft Copilot
+Professor,Multilingual translation,Startup,Learning,Qwen
+Cybersecurity Analyst,Find latest information,Legal Firm,Deployment,Perplexity
+Business Analyst,Write SQL queries,Startup,Research,ChatGPT
+Student,Multilingual translation,Finance,Learning,Qwen
+Cybersecurity Analyst,Multimodal explanation,Legal Firm,Research,Gemini
+Student,Long-form analysis,Legal Firm,Research,Claude
+Lawyer,System design,Enterprise,Learning,ChatGPT
+Cybersecurity Analyst,Citation search,Hospital,Deployment,Perplexity
+Data Scientist,Educational content,Legal Firm,Research,Gemini
+Teacher,Create presentation,Enterprise,Learning,Gemini
+Business Analyst,Citation search,Startup,Learning,Perplexity
+Professor,Policy drafting,E-commerce,Learning,Claude
+Full Stack Developer,Write SQL queries,Startup,Automation,ChatGPT
+Cybersecurity Analyst,Build ML model,Hospital,Research,ChatGPT
+Student,Teams meeting summary,Research Lab,Business Growth,Microsoft Copilot
+Teacher,Technical writing,Legal Firm,Documentation,Claude
+Full Stack Developer,Summarize documents,College,Exam Preparation,Claude
+Marketing Manager,Edit repository,Finance,Presentation,Cursor AI
+Software Engineer,Citation search,Education,Documentation,Perplexity
+Lawyer,Refactor project,E-commerce,Deployment,GitHub Copilot
+Software Engineer,Math reasoning,Finance,Documentation,DeepSeek
+HR Manager,Find latest information,College,Prototype,Perplexity
+Professor,General coding,Healthcare,Research,Qwen
+Research Scientist,Code navigation,Enterprise,Research,Cursor AI
+Data Scientist,Fix bugs,College,Placement,GitHub Copilot
+Frontend Developer,Generate project structure,Education,Placement,Cursor AI
+Financial Analyst,Literature review,Research Lab,Research,Perplexity
+Full Stack Developer,PowerPoint outline,College,Placement,Microsoft Copilot
+Content Writer,Teams meeting summary,E-commerce,Prototype,Microsoft Copilot
+Full Stack Developer,Citation search,College,Automation,Perplexity
+Student,Policy drafting,Legal Firm,Automation,Claude
+Data Scientist,Chinese NLP task,Startup,Placement,Qwen
+Content Writer,Python optimization,Legal Firm,Automation,DeepSeek
+Cybersecurity Analyst,Coding interview,E-commerce,Deployment,DeepSeek
+Frontend Developer,Python optimization,Enterprise,Prototype,DeepSeek
+Frontend Developer,Write research report,Education,Research,Claude
+Full Stack Developer,Teams meeting summary,E-commerce,Prototype,Microsoft Copilot
+HR Manager,Long-form analysis,Legal Firm,Learning,Claude
+Student,Edit repository,Legal Firm,Business Growth,Cursor AI
+Professor,Math reasoning,Legal Firm,Automation,DeepSeek
+Research Scientist,General coding,E-commerce,Learning,Qwen
+Machine Learning Engineer,Analyze images,Healthcare,Deployment,Gemini
+Research Scientist,Python optimization,Finance,Exam Preparation,DeepSeek
+Student,Math reasoning,Finance,Deployment,DeepSeek
+Data Scientist,Fix bugs,Enterprise,Exam Preparation,GitHub Copilot
+Software Engineer,Autocomplete functions,Research Lab,Exam Preparation,GitHub Copilot
+Financial Analyst,Math reasoning,College,Presentation,DeepSeek
+Frontend Developer,Refactor project,Healthcare,Prototype,GitHub Copilot
+DevOps Engineer,Knowledge Q&A,Healthcare,Prototype,Qwen
+Content Writer,Debug Python code,Education,Research,ChatGPT
+Financial Analyst,Fix bugs,Education,Prototype,GitHub Copilot
+Research Scientist,Knowledge Q&A,E-commerce,Automation,Qwen
+HR Manager,Generate unit tests,Research Lab,Business Growth,GitHub Copilot
+HR Manager,Create presentation,Education,Documentation,Gemini
+Lawyer,Create presentation,Healthcare,Automation,Gemini
+Financial Analyst,Office automation,Education,Prototype,Microsoft Copilot
+Financial Analyst,Build ML model,Hospital,Documentation,ChatGPT
+Research Scientist,Python optimization,Startup,Exam Preparation,DeepSeek
+Machine Learning Engineer,Generate unit tests,Startup,Research,GitHub Copilot
+Data Scientist,PowerPoint outline,E-commerce,Learning,Microsoft Copilot
+DevOps Engineer,Brainstorm ideas,Legal Firm,Presentation,Grok
+Software Engineer,Math reasoning,Research Lab,Documentation,DeepSeek
+Software Engineer,PowerPoint outline,Healthcare,Documentation,Microsoft Copilot
+Business Analyst,Complete code,Enterprise,Prototype,GitHub Copilot
+Cybersecurity Analyst,Build ML model,Enterprise,Learning,ChatGPT
+Student,Chinese NLP task,Startup,Prototype,Qwen
+Research Scientist,Literature review,Startup,Learning,Perplexity
+Doctor,Long-form analysis,Healthcare,Business Growth,Claude
+Cybersecurity Analyst,Multilingual translation,Finance,Business Growth,Qwen
+Data Scientist,Citation search,College,Automation,Perplexity
+UI UX Designer,Find latest information,Education,Automation,Perplexity
+Financial Analyst,Refactor project,E-commerce,Deployment,GitHub Copilot
+DevOps Engineer,Technical writing,College,Exam Preparation,Claude
+Research Scientist,Educational content,Finance,Presentation,Gemini
+Professor,Build ML model,Enterprise,Placement,ChatGPT
+Full Stack Developer,Find latest information,Healthcare,Presentation,Perplexity
+Business Analyst,Refactor project,Healthcare,Documentation,GitHub Copilot
+Frontend Developer,Tech discussion,Healthcare,Documentation,Grok
+Backend Developer,Debug Python code,Enterprise,Business Growth,ChatGPT
+Teacher,Current events summary,Research Lab,Placement,Grok
+Backend Developer,Technical writing,Education,Deployment,Claude
+Frontend Developer,Refactor project,Research Lab,Documentation,GitHub Copilot
+Professor,Edit repository,College,Automation,Cursor AI
+UI UX Designer,Educational content,Healthcare,Learning,Gemini
+Lawyer,System design,Enterprise,Exam Preparation,ChatGPT
+Business Analyst,Refactor project,Enterprise,Business Growth,GitHub Copilot
+Business Analyst,Multimodal explanation,Education,Prototype,Gemini
+Professor,Fact checking,Hospital,Learning,Perplexity
+Research Scientist,Refactor large codebase,Hospital,Automation,Cursor AI
+Lawyer,Coding interview,Research Lab,Prototype,DeepSeek
+Lawyer,System design,Hospital,Research,ChatGPT
+Marketing Manager,Research comparison,Hospital,Exam Preparation,Perplexity
+Machine Learning Engineer,Find latest information,Finance,Exam Preparation,Perplexity
+Cybersecurity Analyst,Reasoning task,Healthcare,Prototype,Qwen
+Content Writer,Generate project structure,Education,Business Growth,Cursor AI
+Software Engineer,Write research report,Research Lab,Prototype,Claude
+Marketing Manager,Summarize documents,Finance,Prototype,Claude
+Marketing Manager,Fix bugs,Finance,Documentation,GitHub Copilot
+Financial Analyst,Teams meeting summary,Finance,Exam Preparation,Microsoft Copilot
+HR Manager,Fact checking,Legal Firm,Documentation,Perplexity
+Student,Trend analysis,Finance,Deployment,Grok
+DevOps Engineer,Technical writing,Research Lab,Placement,Claude
+HR Manager,PowerPoint outline,College,Exam Preparation,Microsoft Copilot
+Machine Learning Engineer,System design,College,Business Growth,ChatGPT
+Financial Analyst,Math reasoning,E-commerce,Documentation,DeepSeek
+Backend Developer,Social media insights,Enterprise,Placement,Grok
+HR Manager,Literature review,Legal Firm,Documentation,Perplexity
+Full Stack Developer,Analyze images,Legal Firm,Learning,Gemini
+Student,Citation search,Research Lab,Research,Perplexity
+Data Scientist,Fact checking,Finance,Documentation,Perplexity
+Doctor,Trend analysis,Enterprise,Prototype,Grok
+Backend Developer,Generate project structure,Research Lab,Documentation,Cursor AI
+Software Engineer,Write SQL queries,Education,Business Growth,ChatGPT
+Marketing Manager,Educational content,Finance,Automation,Gemini
+UI UX Designer,Multimodal explanation,Healthcare,Exam Preparation,Gemini
+Lawyer,Research comparison,Legal Firm,Prototype,Perplexity
+Research Scientist,Python optimization,Startup,Documentation,DeepSeek
+Student,Brainstorm ideas,Finance,Automation,Grok
+UI UX Designer,Write SQL queries,Hospital,Documentation,ChatGPT
+Student,Brainstorm ideas,College,Deployment,Grok
+Financial Analyst,Code navigation,Research Lab,Deployment,Cursor AI
+Machine Learning Engineer,Word drafting,Hospital,Prototype,Microsoft Copilot
+DevOps Engineer,Chinese NLP task,Hospital,Automation,Qwen
+HR Manager,Refactor project,Hospital,Deployment,GitHub Copilot
+Lawyer,Build ML model,Enterprise,Deployment,ChatGPT
+Backend Developer,Knowledge Q&A,Research Lab,Deployment,Qwen
+Content Writer,Reasoning task,Finance,Business Growth,Qwen
+Professor,Refactor large codebase,Research Lab,Exam Preparation,Cursor AI
+Data Scientist,Competitive programming,Education,Research,DeepSeek
+Business Analyst,Multimodal explanation,College,Exam Preparation,Gemini
+Machine Learning Engineer,Chinese NLP task,E-commerce,Prototype,Qwen
+Doctor,Fact checking,E-commerce,Documentation,Perplexity
+Student,Brainstorm ideas,College,Documentation,Grok
+Teacher,Office automation,College,Exam Preparation,Microsoft Copilot
+DevOps Engineer,Long-form analysis,Legal Firm,Learning,Claude
+Business Analyst,Current events summary,College,Documentation,Grok
+Business Analyst,Multilingual translation,Hospital,Deployment,Qwen
+Marketing Manager,Refactor large codebase,Finance,Exam Preparation,Cursor AI
+Financial Analyst,Generate project structure,Education,Learning,Cursor AI
+Cybersecurity Analyst,Write research report,Research Lab,Exam Preparation,Claude
+UI UX Designer,Refactor large codebase,Research Lab,Automation,Cursor AI
+UI UX Designer,Coding interview,E-commerce,Business Growth,DeepSeek
+DevOps Engineer,Trend analysis,Research Lab,Automation,Grok
+Research Scientist,Algorithm optimization,Hospital,Learning,DeepSeek
+Business Analyst,Debug Python code,Hospital,Placement,ChatGPT
+Content Writer,Generate project structure,Education,Research,Cursor AI
+Full Stack Developer,Generate project structure,Finance,Learning,Cursor AI
+Software Engineer,Citation search,Finance,Automation,Perplexity
+Research Scientist,Office automation,Research Lab,Deployment,Microsoft Copilot
+Marketing Manager,Trend analysis,Finance,Placement,Grok
+Research Scientist,Write research report,Legal Firm,Presentation,Claude
+Doctor,Autocomplete functions,Research Lab,Automation,GitHub Copilot
+Machine Learning Engineer,General coding,Healthcare,Automation,Qwen
+UI UX Designer,Algorithm optimization,Finance,Research,DeepSeek
+DevOps Engineer,Autocomplete functions,Enterprise,Business Growth,GitHub Copilot
+Cybersecurity Analyst,Citation search,College,Placement,Perplexity
+Frontend Developer,Autocomplete functions,Legal Firm,Presentation,GitHub Copilot
+Machine Learning Engineer,Create presentation,Legal Firm,Research,Gemini
+Machine Learning Engineer,Refactor large codebase,College,Placement,Cursor AI
+Teacher,Fact checking,College,Deployment,Perplexity
+Doctor,Technical writing,Finance,Documentation,Claude
+Research Scientist,Technical writing,Research Lab,Research,Claude
+DevOps Engineer,Code navigation,E-commerce,Learning,Cursor AI
+Teacher,Refactor large codebase,E-commerce,Documentation,Cursor AI
+Doctor,Literature review,Education,Deployment,Perplexity
+Software Engineer,Google Workspace task,Legal Firm,Prototype,Gemini
+Research Scientist,Find latest information,Startup,Documentation,Perplexity
+Content Writer,Trend analysis,Enterprise,Automation,Grok
+Business Analyst,Reasoning task,Hospital,Business Growth,Qwen
+Frontend Developer,Word drafting,Healthcare,Placement,Microsoft Copilot
+Full Stack Developer,Tech discussion,Healthcare,Presentation,Grok
+Teacher,Math reasoning,Enterprise,Business Growth,DeepSeek
+HR Manager,Competitive programming,College,Prototype,DeepSeek
+Research Scientist,Google Workspace task,E-commerce,Exam Preparation,Gemini
+Student,Word drafting,Research Lab,Business Growth,Microsoft Copilot
+Machine Learning Engineer,Fix bugs,Education,Research,GitHub Copilot
+Data Scientist,Multimodal explanation,Education,Deployment,Gemini
+Doctor,Word drafting,Education,Prototype,Microsoft Copilot
+Financial Analyst,Complete code,Hospital,Automation,GitHub Copilot
+Full Stack Developer,Math reasoning,Legal Firm,Research,DeepSeek
+Content Writer,General coding,Enterprise,Research,Qwen
+DevOps Engineer,Citation search,Education,Documentation,Perplexity
+Full Stack Developer,Math reasoning,Legal Firm,Presentation,DeepSeek
+Teacher,Fact checking,Legal Firm,Business Growth,Perplexity
+Machine Learning Engineer,Generate project structure,College,Prototype,Cursor AI
+DevOps Engineer,Refactor project,Research Lab,Placement,GitHub Copilot
+Financial Analyst,Edit repository,Enterprise,Learning,Cursor AI
+Research Scientist,Python optimization,E-commerce,Automation,DeepSeek
+Research Scientist,Tech discussion,Education,Exam Preparation,Grok
+DevOps Engineer,Tech discussion,Finance,Exam Preparation,Grok
+DevOps Engineer,Explain algorithms,Finance,Presentation,ChatGPT
+Cybersecurity Analyst,Edit repository,Research Lab,Research,Cursor AI
+Software Engineer,Math reasoning,College,Placement,DeepSeek
+Student,Educational content,Education,Automation,Gemini
+Doctor,Tech discussion,Enterprise,Deployment,Grok
+Cybersecurity Analyst,Autocomplete functions,Legal Firm,Exam Preparation,GitHub Copilot
+Teacher,Research comparison,Enterprise,Research,Perplexity
+Full Stack Developer,Long-form analysis,Healthcare,Placement,Claude
+Student,Citation search,Finance,Learning,Perplexity
+Professor,Generate unit tests,Enterprise,Presentation,GitHub Copilot
+DevOps Engineer,Google Workspace task,College,Automation,Gemini
+UI UX Designer,Multimodal explanation,College,Prototype,Gemini
+Cybersecurity Analyst,Multilingual translation,Healthcare,Presentation,Qwen
+Business Analyst,Python optimization,Research Lab,Exam Preparation,DeepSeek
+Doctor,Trend analysis,Hospital,Documentation,Grok
+HR Manager,Fact checking,Finance,Research,Perplexity
+DevOps Engineer,Fix bugs,Finance,Presentation,GitHub Copilot
+Cybersecurity Analyst,Trend analysis,Enterprise,Business Growth,Grok
+Backend Developer,PowerPoint outline,Healthcare,Presentation,Microsoft Copilot
+Marketing Manager,Write SQL queries,Finance,Research,ChatGPT
+Cybersecurity Analyst,Build ML model,College,Placement,ChatGPT
+UI UX Designer,Social media insights,Legal Firm,Deployment,Grok
+Machine Learning Engineer,Summarize documents,Enterprise,Presentation,Claude
+DevOps Engineer,Social media insights,Startup,Prototype,Grok
+Cybersecurity Analyst,Summarize documents,College,Exam Preparation,Claude
+Professor,Refactor large codebase,Startup,Research,Cursor AI
+Marketing Manager,Debug Python code,Startup,Prototype,ChatGPT
+Business Analyst,Multimodal explanation,College,Research,Gemini
+UI UX Designer,Multilingual translation,Healthcare,Research,Qwen
+Professor,System design,Enterprise,Learning,ChatGPT
+UI UX Designer,Social media insights,Hospital,Learning,Grok
+UI UX Designer,Implement feature,Research Lab,Research,Cursor AI
+Content Writer,Analyze images,Enterprise,Placement,Gemini
+Business Analyst,Multilingual translation,Education,Placement,Qwen
+Machine Learning Engineer,Debug Python code,Finance,Deployment,ChatGPT
+DevOps Engineer,Debug Python code,Hospital,Documentation,ChatGPT
+Cybersecurity Analyst,Refactor large codebase,Finance,Prototype,Cursor AI
+Software Engineer,Trend analysis,Legal Firm,Presentation,Grok
+Financial Analyst,Code navigation,Legal Firm,Research,Cursor AI
+Doctor,Brainstorm ideas,Enterprise,Presentation,Grok
+Software Engineer,Implement feature,Research Lab,Prototype,Cursor AI
+Software Engineer,Office automation,E-commerce,Placement,Microsoft Copilot
+Software Engineer,Policy drafting,Legal Firm,Business Growth,Claude
+Cybersecurity Analyst,Generate project structure,Startup,Deployment,Cursor AI
+Cybersecurity Analyst,Complete code,Enterprise,Deployment,GitHub Copilot
+Student,Fact checking,Research Lab,Documentation,Perplexity
+Doctor,Citation search,Enterprise,Documentation,Perplexity
+Research Scientist,Long-form analysis,Education,Research,Claude
+Full Stack Developer,Citation search,Research Lab,Prototype,Perplexity
+Marketing Manager,Chinese NLP task,E-commerce,Learning,Qwen
+Frontend Developer,Write research report,Hospital,Deployment,Claude
+Financial Analyst,Generate project structure,Research Lab,Documentation,Cursor AI
+Teacher,Coding interview,E-commerce,Presentation,DeepSeek
+HR Manager,Excel analysis,Hospital,Automation,Microsoft Copilot
+Research Scientist,Algorithm optimization,E-commerce,Business Growth,DeepSeek
+Machine Learning Engineer,Autocomplete functions,E-commerce,Exam Preparation,GitHub Copilot
+Machine Learning Engineer,Refactor project,E-commerce,Deployment,GitHub Copilot
+HR Manager,Excel analysis,Enterprise,Research,Microsoft Copilot
+Machine Learning Engineer,General coding,Finance,Deployment,Qwen
+Lawyer,Implement feature,Education,Learning,Cursor AI
+Software Engineer,Create presentation,E-commerce,Placement,Gemini
+Teacher,Implement feature,College,Business Growth,Cursor AI
+Backend Developer,Chinese NLP task,Hospital,Placement,Qwen
+Backend Developer,Fix bugs,Healthcare,Documentation,GitHub Copilot
+Doctor,Chinese NLP task,Healthcare,Documentation,Qwen
+Backend Developer,Social media insights,Enterprise,Learning,Grok
+UI UX Designer,Citation search,Healthcare,Prototype,Perplexity
+Frontend Developer,Generate project structure,Startup,Research,Cursor AI
+Research Scientist,Create presentation,Finance,Prototype,Gemini
+Cybersecurity Analyst,Complete code,College,Placement,GitHub Copilot
+Doctor,Multilingual translation,E-commerce,Deployment,Qwen
+Financial Analyst,Trend analysis,Research Lab,Documentation,Grok
+Marketing Manager,Word drafting,Research Lab,Deployment,Microsoft Copilot
+Software Engineer,General coding,Research Lab,Prototype,Qwen
+Student,Build ML model,Education,Learning,ChatGPT
+Teacher,Explain algorithms,Startup,Automation,ChatGPT
+Data Scientist,Generate project structure,Education,Learning,Cursor AI
+Doctor,Create presentation,Healthcare,Placement,Gemini
+Research Scientist,Refactor project,Education,Business Growth,GitHub Copilot
+Full Stack Developer,Code navigation,College,Deployment,Cursor AI
+Cybersecurity Analyst,Algorithm optimization,Legal Firm,Research,DeepSeek
+Cybersecurity Analyst,Current events summary,College,Placement,Grok
+Data Scientist,Generate unit tests,College,Placement,GitHub Copilot
+Software Engineer,Refactor large codebase,College,Research,Cursor AI
+Full Stack Developer,Complete code,Startup,Research,GitHub Copilot
+Professor,Reasoning task,E-commerce,Automation,Qwen
+Backend Developer,Competitive programming,Finance,Business Growth,DeepSeek
+Content Writer,Technical writing,Startup,Automation,Claude
+Lawyer,Refactor large codebase,Legal Firm,Deployment,Cursor AI
+Teacher,Policy drafting,College,Documentation,Claude
+UI UX Designer,Competitive programming,Finance,Exam Preparation,DeepSeek
+Doctor,Chinese NLP task,Healthcare,Presentation,Qwen
+Data Scientist,Excel analysis,College,Documentation,Microsoft Copilot
+UI UX Designer,Research comparison,Finance,Automation,Perplexity
+Teacher,Multilingual translation,Research Lab,Automation,Qwen
+Financial Analyst,Implement feature,College,Prototype,Cursor AI
+Backend Developer,Math reasoning,E-commerce,Exam Preparation,DeepSeek
+Teacher,Tech discussion,Hospital,Automation,Grok
+Frontend Developer,Refactor project,Legal Firm,Deployment,GitHub Copilot
+Backend Developer,Write research report,Hospital,Business Growth,Claude
+Student,Office automation,College,Presentation,Microsoft Copilot
+HR Manager,Tech discussion,Enterprise,Learning,Grok
+Cybersecurity Analyst,Implement feature,Startup,Prototype,Cursor AI
+Professor,Word drafting,Enterprise,Presentation,Microsoft Copilot
+HR Manager,Refactor large codebase,College,Research,Cursor AI
+Frontend Developer,Write SQL queries,Education,Placement,ChatGPT
+Backend Developer,Competitive programming,Finance,Automation,DeepSeek
+Financial Analyst,Edit repository,E-commerce,Prototype,Cursor AI
+Professor,Create presentation,Finance,Learning,Gemini
+Backend Developer,Fact checking,Startup,Research,Perplexity
+Machine Learning Engineer,Implement feature,College,Business Growth,Cursor AI
+Financial Analyst,Write SQL queries,Enterprise,Presentation,ChatGPT
+Backend Developer,Generate project structure,College,Documentation,Cursor AI
+Marketing Manager,Edit repository,Education,Presentation,Cursor AI
+Content Writer,Office automation,Research Lab,Exam Preparation,Microsoft Copilot
+Data Scientist,Summarize documents,College,Exam Preparation,Claude
+Full Stack Developer,Google Workspace task,Healthcare,Exam Preparation,Gemini
+Professor,Competitive programming,Legal Firm,Research,DeepSeek
+Full Stack Developer,Algorithm optimization,Healthcare,Deployment,DeepSeek
+Lawyer,Technical writing,Hospital,Presentation,Claude
+DevOps Engineer,System design,Finance,Documentation,ChatGPT
+Financial Analyst,Long-form analysis,Hospital,Deployment,Claude
+Data Scientist,Write SQL queries,Research Lab,Prototype,ChatGPT
+Data Scientist,Google Workspace task,College,Automation,Gemini
+Professor,Current events summary,Education,Learning,Grok
+Student,Tech discussion,College,Research,Grok
+HR Manager,Fix bugs,E-commerce,Prototype,GitHub Copilot
+Student,Math reasoning,Research Lab,Prototype,DeepSeek
+Teacher,Fix bugs,Finance,Placement,GitHub Copilot
+HR Manager,Reasoning task,Enterprise,Research,Qwen
+Teacher,Multimodal explanation,Finance,Prototype,Gemini
+UI UX Designer,Build ML model,Startup,Presentation,ChatGPT
+Professor,Refactor project,Finance,Placement,GitHub Copilot
+Research Scientist,Literature review,Healthcare,Presentation,Perplexity
+UI UX Designer,Implement feature,Startup,Placement,Cursor AI
+Teacher,Teams meeting summary,Healthcare,Placement,Microsoft Copilot
+Content Writer,System design,Enterprise,Documentation,ChatGPT
+Doctor,Create presentation,E-commerce,Presentation,Gemini
+Lawyer,Generate project structure,Research Lab,Deployment,Cursor AI
+Machine Learning Engineer,Debug Python code,Startup,Presentation,ChatGPT
+Backend Developer,System design,Startup,Prototype,ChatGPT
+Business Analyst,Teams meeting summary,Startup,Research,Microsoft Copilot
+Frontend Developer,Write research report,Startup,Automation,Claude
+Research Scientist,System design,College,Presentation,ChatGPT
+UI UX Designer,Autocomplete functions,Enterprise,Presentation,GitHub Copilot
+Cybersecurity Analyst,Fact checking,College,Research,Perplexity
+HR Manager,Write SQL queries,Enterprise,Deployment,ChatGPT
+Marketing Manager,Find latest information,Healthcare,Placement,Perplexity
+Machine Learning Engineer,System design,College,Placement,ChatGPT
+Teacher,Math reasoning,Startup,Placement,DeepSeek
+Software Engineer,Literature review,Healthcare,Deployment,Perplexity
+Doctor,Social media insights,Healthcare,Automation,Grok
+Teacher,Word drafting,Finance,Placement,Microsoft Copilot
+Full Stack Developer,Office automation,E-commerce,Business Growth,Microsoft Copilot
+Student,Knowledge Q&A,Education,Learning,Qwen
+Student,Trend analysis,Enterprise,Presentation,Grok
+Frontend Developer,Social media insights,Finance,Deployment,Grok
+HR Manager,Refactor large codebase,Legal Firm,Prototype,Cursor AI
+Student,Social media insights,Research Lab,Exam Preparation,Grok
+Frontend Developer,Generate project structure,Education,Research,Cursor AI
+Data Scientist,Office automation,Education,Deployment,Microsoft Copilot
+Cybersecurity Analyst,Complete code,Research Lab,Automation,GitHub Copilot
+UI UX Designer,Word drafting,Healthcare,Deployment,Microsoft Copilot
+HR Manager,Analyze images,College,Research,Gemini
+Lawyer,Coding interview,Startup,Presentation,DeepSeek
+HR Manager,Refactor project,College,Deployment,GitHub Copilot
+Marketing Manager,Debug Python code,Finance,Prototype,ChatGPT
+Backend Developer,Brainstorm ideas,Research Lab,Deployment,Grok
+Student,Literature review,Hospital,Deployment,Perplexity
+Student,Social media insights,Hospital,Business Growth,Grok
+Doctor,Write SQL queries,Enterprise,Documentation,ChatGPT
+Student,Explain algorithms,Hospital,Research,ChatGPT
+Backend Developer,Multilingual translation,Research Lab,Prototype,Qwen
+Student,Edit repository,Education,Presentation,Cursor AI
+Frontend Developer,Competitive programming,Research Lab,Research,DeepSeek
+Cybersecurity Analyst,Technical writing,Hospital,Learning,Claude
+Full Stack Developer,Debug Python code,Enterprise,Exam Preparation,ChatGPT
+Full Stack Developer,Algorithm optimization,Legal Firm,Learning,DeepSeek
+UI UX Designer,Autocomplete functions,Education,Automation,GitHub Copilot
+Doctor,Social media insights,College,Research,Grok
+Doctor,Code navigation,Research Lab,Placement,Cursor AI
+Doctor,Brainstorm ideas,E-commerce,Documentation,Grok
+Marketing Manager,Social media insights,College,Research,Grok
+Frontend Developer,Refactor large codebase,Enterprise,Business Growth,Cursor AI
+Lawyer,Long-form analysis,Education,Prototype,Claude
+Cybersecurity Analyst,PowerPoint outline,Healthcare,Learning,Microsoft Copilot
+Content Writer,Tech discussion,Enterprise,Prototype,Grok
+Student,Tech discussion,Finance,Exam Preparation,Grok
+Software Engineer,Tech discussion,College,Automation,Grok
+Frontend Developer,Excel analysis,Hospital,Business Growth,Microsoft Copilot
+UI UX Designer,Citation search,Research Lab,Presentation,Perplexity
+Machine Learning Engineer,Word drafting,Hospital,Documentation,Microsoft Copilot
+Lawyer,Fact checking,Research Lab,Deployment,Perplexity
+Full Stack Developer,Find latest information,Finance,Deployment,Perplexity
+Cybersecurity Analyst,Multimodal explanation,Finance,Learning,Gemini
+Frontend Developer,Refactor project,Enterprise,Placement,GitHub Copilot
+Machine Learning Engineer,Competitive programming,Enterprise,Documentation,DeepSeek
+Backend Developer,Write research report,Hospital,Documentation,Claude
+DevOps Engineer,Python optimization,Education,Research,DeepSeek
+Professor,Build ML model,Education,Exam Preparation,ChatGPT
+Machine Learning Engineer,Summarize documents,Hospital,Exam Preparation,Claude
+Lawyer,Long-form analysis,Enterprise,Prototype,Claude
+Marketing Manager,Analyze images,Legal Firm,Exam Preparation,Gemini
+Research Scientist,Debug Python code,Finance,Documentation,ChatGPT
+Research Scientist,Analyze images,Finance,Business Growth,Gemini
+Frontend Developer,Policy drafting,Hospital,Automation,Claude
+Backend Developer,Trend analysis,Education,Automation,Grok
+DevOps Engineer,Refactor project,Hospital,Documentation,GitHub Copilot
+Research Scientist,Current events summary,Legal Firm,Learning,Grok
+Full Stack Developer,Educational content,Legal Firm,Business Growth,Gemini
+Backend Developer,Code navigation,Healthcare,Business Growth,Cursor AI
+Backend Developer,Fix bugs,Enterprise,Exam Preparation,GitHub Copilot
+Backend Developer,Citation search,Enterprise,Business Growth,Perplexity
+Software Engineer,Write research report,Finance,Placement,Claude
+Backend Developer,Build ML model,Startup,Placement,ChatGPT
+Research Scientist,Write SQL queries,Research Lab,Research,ChatGPT
+Business Analyst,Research comparison,Legal Firm,Exam Preparation,Perplexity
+UI UX Designer,Citation search,College,Placement,Perplexity
+Business Analyst,Trend analysis,E-commerce,Placement,Grok
+Cybersecurity Analyst,Code navigation,Research Lab,Placement,Cursor AI
+Research Scientist,Excel analysis,Legal Firm,Placement,Microsoft Copilot
+Doctor,Literature review,Enterprise,Prototype,Perplexity
+UI UX Designer,Edit repository,Startup,Documentation,Cursor AI
+UI UX Designer,Summarize documents,Research Lab,Exam Preparation,Claude
+Professor,Autocomplete functions,Hospital,Documentation,GitHub Copilot
+Content Writer,Brainstorm ideas,Enterprise,Prototype,Grok
+Software Engineer,Google Workspace task,Healthcare,Placement,Gemini
+Cybersecurity Analyst,Refactor project,College,Research,GitHub Copilot
+Business Analyst,Math reasoning,Finance,Automation,DeepSeek
+Doctor,Build ML model,Enterprise,Business Growth,ChatGPT
+Frontend Developer,Knowledge Q&A,Hospital,Business Growth,Qwen
+Teacher,Google Workspace task,Finance,Exam Preparation,Gemini
+Teacher,Build ML model,Enterprise,Deployment,ChatGPT
+Student,Educational content,E-commerce,Presentation,Gemini
+Content Writer,Refactor large codebase,Finance,Presentation,Cursor AI
+Cybersecurity Analyst,Explain algorithms,Enterprise,Learning,ChatGPT
+Research Scientist,Word drafting,Legal Firm,Learning,Microsoft Copilot
+Doctor,Write research report,Enterprise,Prototype,Claude
+Marketing Manager,Create presentation,Hospital,Exam Preparation,Gemini
+Student,Code navigation,Research Lab,Documentation,Cursor AI
+Full Stack Developer,Generate project structure,Enterprise,Business Growth,Cursor AI
+Business Analyst,Competitive programming,Startup,Presentation,DeepSeek
+Doctor,Educational content,College,Business Growth,Gemini
+UI UX Designer,Math reasoning,Research Lab,Automation,DeepSeek
+Machine Learning Engineer,Tech discussion,Legal Firm,Deployment,Grok
+Software Engineer,System design,Education,Deployment,ChatGPT
+Teacher,Algorithm optimization,E-commerce,Prototype,DeepSeek
+Cybersecurity Analyst,Debug Python code,Education,Deployment,ChatGPT
+Content Writer,Refactor project,E-commerce,Research,GitHub Copilot
+Backend Developer,Competitive programming,Education,Business Growth,DeepSeek
+Research Scientist,Explain algorithms,Startup,Learning,ChatGPT
+UI UX Designer,Edit repository,Research Lab,Research,Cursor AI
+Machine Learning Engineer,Algorithm optimization,Startup,Placement,DeepSeek
+UI UX Designer,Coding interview,Finance,Presentation,DeepSeek
+Doctor,System design,Hospital,Deployment,ChatGPT
+Business Analyst,Educational content,Finance,Placement,Gemini
+Data Scientist,Python optimization,Education,Business Growth,DeepSeek
+Software Engineer,Python optimization,Education,Deployment,DeepSeek
+Machine Learning Engineer,Educational content,Education,Presentation,Gemini
+Full Stack Developer,Long-form analysis,E-commerce,Documentation,Claude
+Teacher,Research comparison,Enterprise,Prototype,Perplexity
+Data Scientist,Math reasoning,College,Documentation,DeepSeek
+Professor,Build ML model,E-commerce,Prototype,ChatGPT
+Frontend Developer,Debug Python code,Enterprise,Documentation,ChatGPT
+Teacher,Generate unit tests,Enterprise,Research,GitHub Copilot
+Marketing Manager,Generate project structure,E-commerce,Automation,Cursor AI
+Cybersecurity Analyst,Technical writing,Education,Learning,Claude
+Student,Autocomplete functions,Startup,Research,GitHub Copilot
+Teacher,Algorithm optimization,Finance,Presentation,DeepSeek
+DevOps Engineer,Fix bugs,College,Placement,GitHub Copilot
+Financial Analyst,Knowledge Q&A,Legal Firm,Documentation,Qwen
+HR Manager,Python optimization,Startup,Deployment,DeepSeek
+Content Writer,Write research report,Healthcare,Presentation,Claude
+Machine Learning Engineer,Algorithm optimization,Enterprise,Presentation,DeepSeek
+Cybersecurity Analyst,Summarize documents,Education,Prototype,Claude
+Marketing Manager,Chinese NLP task,Finance,Exam Preparation,Qwen
+Professor,Multilingual translation,E-commerce,Automation,Qwen
+Content Writer,Edit repository,Research Lab,Research,Cursor AI
+Machine Learning Engineer,Analyze images,Enterprise,Learning,Gemini
+Software Engineer,Write research report,E-commerce,Prototype,Claude
+Student,System design,Healthcare,Exam Preparation,ChatGPT
+HR Manager,Current events summary,E-commerce,Business Growth,Grok
+Marketing Manager,Implement feature,Education,Learning,Cursor AI
+Content Writer,Debug Python code,Healthcare,Automation,ChatGPT
+Professor,Create presentation,Hospital,Placement,Gemini
+Content Writer,Algorithm optimization,Finance,Exam Preparation,DeepSeek
+Machine Learning Engineer,Long-form analysis,E-commerce,Presentation,Claude
+Financial Analyst,Multimodal explanation,Healthcare,Placement,Gemini
+Teacher,System design,Enterprise,Learning,ChatGPT
+Frontend Developer,Coding interview,Hospital,Business Growth,DeepSeek
+UI UX Designer,Excel analysis,Startup,Prototype,Microsoft Copilot
+Full Stack Developer,Competitive programming,Startup,Automation,DeepSeek
+DevOps Engineer,Generate project structure,College,Documentation,Cursor AI
+Doctor,Brainstorm ideas,Startup,Research,Grok
+Backend Developer,Chinese NLP task,E-commerce,Learning,Qwen
+Student,Multilingual translation,Hospital,Deployment,Qwen
+Lawyer,Policy drafting,Education,Deployment,Claude
+Research Scientist,Fix bugs,Legal Firm,Research,GitHub Copilot
+Financial Analyst,Analyze images,Enterprise,Presentation,Gemini
+Backend Developer,Python optimization,Healthcare,Presentation,DeepSeek
+Professor,Social media insights,E-commerce,Documentation,Grok
+Marketing Manager,Edit repository,College,Research,Cursor AI
+Machine Learning Engineer,Implement feature,Startup,Presentation,Cursor AI
+Software Engineer,Research comparison,Hospital,Documentation,Perplexity
+HR Manager,Explain algorithms,Education,Automation,ChatGPT
+Doctor,Brainstorm ideas,Finance,Automation,Grok
+Research Scientist,Generate unit tests,Research Lab,Prototype,GitHub Copilot
+Data Scientist,Code navigation,Finance,Research,Cursor AI
+Content Writer,Teams meeting summary,Finance,Deployment,Microsoft Copilot
+DevOps Engineer,Refactor large codebase,Healthcare,Presentation,Cursor AI
+Marketing Manager,Policy drafting,Startup,Prototype,Claude
+Business Analyst,Summarize documents,E-commerce,Automation,Claude
+Teacher,Summarize documents,Legal Firm,Placement,Claude
+Financial Analyst,Policy drafting,Enterprise,Research,Claude
+Financial Analyst,Reasoning task,College,Placement,Qwen
+HR Manager,Math reasoning,Healthcare,Business Growth,DeepSeek
+Lawyer,Word drafting,Startup,Automation,Microsoft Copilot
+Doctor,General coding,Education,Exam Preparation,Qwen
+Student,Analyze images,College,Automation,Gemini
+UI UX Designer,Complete code,College,Exam Preparation,GitHub Copilot
+Backend Developer,Debug Python code,Legal Firm,Learning,ChatGPT
+Content Writer,Google Workspace task,Enterprise,Prototype,Gemini
+Marketing Manager,Chinese NLP task,Finance,Automation,Qwen
+Professor,Brainstorm ideas,Hospital,Automation,Grok
+Doctor,Complete code,Finance,Research,GitHub Copilot
+Financial Analyst,Write SQL queries,Finance,Prototype,ChatGPT
+Professor,Math reasoning,Enterprise,Business Growth,DeepSeek
+Backend Developer,Summarize documents,College,Prototype,Claude
+Full Stack Developer,Implement feature,Education,Exam Preparation,Cursor AI
+Research Scientist,Tech discussion,College,Automation,Grok
+Professor,Knowledge Q&A,College,Documentation,Qwen
+Doctor,Social media insights,Research Lab,Documentation,Grok
+DevOps Engineer,Trend analysis,Healthcare,Prototype,Grok
+Software Engineer,Write SQL queries,Finance,Automation,ChatGPT
+Professor,Edit repository,Research Lab,Learning,Cursor AI
+Backend Developer,Edit repository,Healthcare,Documentation,Cursor AI
+Content Writer,Multimodal explanation,E-commerce,Presentation,Gemini
+Business Analyst,Write SQL queries,Healthcare,Automation,ChatGPT
+Student,Excel analysis,Research Lab,Exam Preparation,Microsoft Copilot
+HR Manager,Policy drafting,Hospital,Prototype,Claude
+Professor,Teams meeting summary,Enterprise,Presentation,Microsoft Copilot
+Frontend Developer,Research comparison,Finance,Presentation,Perplexity
+Research Scientist,Code navigation,College,Prototype,Cursor AI
+Lawyer,Social media insights,Enterprise,Presentation,Grok
+Cybersecurity Analyst,Refactor project,Education,Exam Preparation,GitHub Copilot
+Professor,Edit repository,E-commerce,Learning,Cursor AI
+Full Stack Developer,Analyze images,College,Documentation,Gemini
+Content Writer,Build ML model,Healthcare,Presentation,ChatGPT
+Frontend Developer,Google Workspace task,Finance,Deployment,Gemini
+Financial Analyst,Technical writing,E-commerce,Prototype,Claude
+Frontend Developer,Trend analysis,E-commerce,Placement,Grok
+Data Scientist,Generate unit tests,Finance,Deployment,GitHub Copilot
+Professor,Fact checking,Startup,Automation,Perplexity
+DevOps Engineer,Find latest information,College,Documentation,Perplexity
+Lawyer,Technical writing,Finance,Documentation,Claude
+Business Analyst,Multimodal explanation,Finance,Learning,Gemini
+DevOps Engineer,Policy drafting,College,Research,Claude
+HR Manager,Find latest information,Healthcare,Prototype,Perplexity
+UI UX Designer,Complete code,Hospital,Business Growth,GitHub Copilot
+Machine Learning Engineer,Literature review,Startup,Presentation,Perplexity
+Professor,Policy drafting,Finance,Prototype,Claude
+Marketing Manager,Fix bugs,Legal Firm,Deployment,GitHub Copilot
+Software Engineer,Social media insights,E-commerce,Learning,Grok
+Teacher,PowerPoint outline,College,Placement,Microsoft Copilot
+Content Writer,Fix bugs,Research Lab,Documentation,GitHub Copilot
+Student,Refactor large codebase,Finance,Documentation,Cursor AI
+Financial Analyst,Office automation,Enterprise,Documentation,Microsoft Copilot
+Frontend Developer,Brainstorm ideas,Legal Firm,Presentation,Grok
+Backend Developer,Refactor project,College,Prototype,GitHub Copilot
+Lawyer,Excel analysis,Hospital,Research,Microsoft Copilot
+Cybersecurity Analyst,Generate unit tests,E-commerce,Research,GitHub Copilot
+HR Manager,Knowledge Q&A,Education,Presentation,Qwen
+Content Writer,Write SQL queries,Research Lab,Placement,ChatGPT
+Professor,Literature review,Legal Firm,Exam Preparation,Perplexity
+Research Scientist,Educational content,Enterprise,Learning,Gemini
+Cybersecurity Analyst,Implement feature,Finance,Deployment,Cursor AI
+Frontend Developer,Math reasoning,College,Deployment,DeepSeek
+HR Manager,Social media insights,Education,Placement,Grok
+Machine Learning Engineer,Algorithm optimization,Healthcare,Presentation,DeepSeek
+HR Manager,Write SQL queries,Healthcare,Exam Preparation,ChatGPT
+DevOps Engineer,Research comparison,Hospital,Prototype,Perplexity
+Software Engineer,Literature review,Enterprise,Learning,Perplexity
+Marketing Manager,Literature review,Healthcare,Learning,Perplexity
+HR Manager,Educational content,College,Documentation,Gemini
+Frontend Developer,Word drafting,Education,Deployment,Microsoft Copilot
+Business Analyst,Fix bugs,College,Automation,GitHub Copilot
+Software Engineer,Write research report,Education,Business Growth,Claude
+HR Manager,General coding,Enterprise,Business Growth,Qwen
+Student,Coding interview,Education,Documentation,DeepSeek
+Financial Analyst,Implement feature,Research Lab,Placement,Cursor AI
+Teacher,Code navigation,Legal Firm,Automation,Cursor AI
+Business Analyst,Complete code,Healthcare,Prototype,GitHub Copilot
+Business Analyst,Google Workspace task,Healthcare,Documentation,Gemini
+Software Engineer,Multimodal explanation,College,Presentation,Gemini
+Content Writer,Reasoning task,Legal Firm,Automation,Qwen
+Doctor,Excel analysis,Enterprise,Business Growth,Microsoft Copilot
+HR Manager,Tech discussion,Finance,Exam Preparation,Grok
+Full Stack Developer,General coding,E-commerce,Placement,Qwen
+Lawyer,Brainstorm ideas,Hospital,Exam Preparation,Grok
+Full Stack Developer,Analyze images,Legal Firm,Business Growth,Gemini
+Software Engineer,System design,Research Lab,Learning,ChatGPT
+HR Manager,Debug Python code,E-commerce,Automation,ChatGPT
+DevOps Engineer,Chinese NLP task,Legal Firm,Documentation,Qwen
+Research Scientist,Google Workspace task,Legal Firm,Deployment,Gemini
+Financial Analyst,Explain algorithms,Healthcare,Placement,ChatGPT
+Teacher,Chinese NLP task,E-commerce,Documentation,Qwen
+Financial Analyst,Generate unit tests,Healthcare,Presentation,GitHub Copilot
+Financial Analyst,Current events summary,Legal Firm,Automation,Grok
+Teacher,Implement feature,Education,Business Growth,Cursor AI
+Software Engineer,Literature review,Education,Exam Preparation,Perplexity
+Research Scientist,Fix bugs,E-commerce,Exam Preparation,GitHub Copilot
+Lawyer,Debug Python code,Startup,Research,ChatGPT
+Marketing Manager,Policy drafting,Startup,Deployment,Claude
+Student,Teams meeting summary,Enterprise,Business Growth,Microsoft Copilot
+Data Scientist,Write research report,Finance,Learning,Claude
+Full Stack Developer,Trend analysis,Legal Firm,Documentation,Grok
+Doctor,Generate project structure,Legal Firm,Business Growth,Cursor AI
+Data Scientist,Generate unit tests,Education,Exam Preparation,GitHub Copilot
+Full Stack Developer,Teams meeting summary,Enterprise,Prototype,Microsoft Copilot
+Research Scientist,Algorithm optimization,Startup,Research,DeepSeek
+Content Writer,Chinese NLP task,Education,Documentation,Qwen
+Doctor,Edit repository,E-commerce,Deployment,Cursor AI
+Business Analyst,Office automation,Enterprise,Prototype,Microsoft Copilot
+Full Stack Developer,Refactor project,Finance,Exam Preparation,GitHub Copilot
+Research Scientist,Fix bugs,Finance,Placement,GitHub Copilot
+Student,Math reasoning,Finance,Placement,DeepSeek
+Software Engineer,Current events summary,Legal Firm,Business Growth,Grok
+Frontend Developer,Teams meeting summary,College,Documentation,Microsoft Copilot
+Data Scientist,Citation search,Enterprise,Exam Preparation,Perplexity
+Frontend Developer,Excel analysis,Research Lab,Learning,Microsoft Copilot
+Business Analyst,Research comparison,E-commerce,Learning,Perplexity
+Frontend Developer,Multimodal explanation,Finance,Presentation,Gemini
+Teacher,Explain algorithms,Research Lab,Placement,ChatGPT
+Research Scientist,Google Workspace task,Hospital,Automation,Gemini
+Software Engineer,Chinese NLP task,Education,Automation,Qwen
+UI UX Designer,Literature review,Finance,Presentation,Perplexity
+Machine Learning Engineer,Tech discussion,Legal Firm,Exam Preparation,Grok
+Business Analyst,Brainstorm ideas,Hospital,Automation,Grok
+Lawyer,Complete code,Healthcare,Automation,GitHub Copilot
+Teacher,Find latest information,Finance,Placement,Perplexity
+Data Scientist,Algorithm optimization,E-commerce,Learning,DeepSeek
+Marketing Manager,Fact checking,Hospital,Research,Perplexity
+Backend Developer,Research comparison,Enterprise,Prototype,Perplexity
+UI UX Designer,Refactor project,Education,Research,GitHub Copilot
+Data Scientist,Trend analysis,College,Prototype,Grok
+Software Engineer,Multimodal explanation,Finance,Learning,Gemini
+Business Analyst,Write SQL queries,Education,Presentation,ChatGPT
+Student,Multilingual translation,Legal Firm,Automation,Qwen
+Content Writer,Multimodal explanation,Finance,Exam Preparation,Gemini
+Marketing Manager,Analyze images,College,Documentation,Gemini
+Backend Developer,Knowledge Q&A,E-commerce,Exam Preparation,Qwen
+Data Scientist,System design,Finance,Presentation,ChatGPT
+DevOps Engineer,Debug Python code,E-commerce,Placement,ChatGPT
+Lawyer,Long-form analysis,Legal Firm,Prototype,Claude
+Content Writer,Tech discussion,Healthcare,Automation,Grok
+Teacher,Math reasoning,College,Placement,DeepSeek
+Cybersecurity Analyst,Knowledge Q&A,Hospital,Prototype,Qwen
+Full Stack Developer,Technical writing,Research Lab,Research,Claude
+Machine Learning Engineer,Refactor project,Healthcare,Exam Preparation,GitHub Copilot
+Cybersecurity Analyst,Social media insights,Hospital,Business Growth,Grok
+Backend Developer,Generate project structure,Legal Firm,Business Growth,Cursor AI
+Full Stack Developer,Technical writing,Legal Firm,Business Growth,Claude
+Machine Learning Engineer,Competitive programming,Education,Deployment,DeepSeek
+UI UX Designer,Complete code,Hospital,Automation,GitHub Copilot
+Content Writer,Generate project structure,Enterprise,Presentation,Cursor AI
+Lawyer,Multimodal explanation,Finance,Placement,Gemini
+Research Scientist,General coding,Education,Presentation,Qwen
+Professor,Algorithm optimization,Legal Firm,Prototype,DeepSeek
+Professor,Excel analysis,Finance,Research,Microsoft Copilot
+Content Writer,System design,E-commerce,Presentation,ChatGPT
+Marketing Manager,Tech discussion,Finance,Deployment,Grok
+Full Stack Developer,Math reasoning,Hospital,Exam Preparation,DeepSeek
+Software Engineer,Knowledge Q&A,Finance,Documentation,Qwen
+Data Scientist,Find latest information,Enterprise,Automation,Perplexity
+Frontend Developer,Teams meeting summary,Legal Firm,Automation,Microsoft Copilot
+Student,Fact checking,Healthcare,Learning,Perplexity
+DevOps Engineer,Math reasoning,College,Automation,DeepSeek
+Backend Developer,Refactor large codebase,Legal Firm,Prototype,Cursor AI
+Full Stack Developer,Multimodal explanation,Healthcare,Presentation,Gemini
+Cybersecurity Analyst,Google Workspace task,Education,Automation,Gemini
+Full Stack Developer,Long-form analysis,Education,Business Growth,Claude
+Data Scientist,Office automation,College,Exam Preparation,Microsoft Copilot
+Full Stack Developer,Teams meeting summary,Legal Firm,Documentation,Microsoft Copilot
+Frontend Developer,Multimodal explanation,Finance,Research,Gemini
+Data Scientist,Educational content,E-commerce,Learning,Gemini
+Doctor,Debug Python code,Legal Firm,Exam Preparation,ChatGPT
+Lawyer,Policy drafting,Enterprise,Documentation,Claude
+Backend Developer,Office automation,E-commerce,Business Growth,Microsoft Copilot
+HR Manager,Multilingual translation,Research Lab,Learning,Qwen
+Teacher,Build ML model,Enterprise,Exam Preparation,ChatGPT
+Software Engineer,Refactor large codebase,Legal Firm,Automation,Cursor AI
+DevOps Engineer,Analyze images,E-commerce,Documentation,Gemini
+Research Scientist,Word drafting,E-commerce,Learning,Microsoft Copilot
+Lawyer,System design,Finance,Documentation,ChatGPT
+Frontend Developer,Tech discussion,Startup,Learning,Grok
+Research Scientist,System design,Enterprise,Deployment,ChatGPT
+Data Scientist,Literature review,Education,Deployment,Perplexity
+Lawyer,Research comparison,Enterprise,Business Growth,Perplexity
+Cybersecurity Analyst,Complete code,E-commerce,Research,GitHub Copilot
+Lawyer,Multilingual translation,Finance,Presentation,Qwen
+Data Scientist,General coding,Education,Deployment,Qwen
+Content Writer,General coding,Healthcare,Learning,Qwen
+Cybersecurity Analyst,Office automation,Healthcare,Deployment,Microsoft Copilot
+Backend Developer,Social media insights,Startup,Placement,Grok
+Machine Learning Engineer,Brainstorm ideas,Hospital,Automation,Grok
+Marketing Manager,Excel analysis,Enterprise,Prototype,Microsoft Copilot
+Lawyer,Create presentation,Research Lab,Presentation,Gemini
+UI UX Designer,Competitive programming,Legal Firm,Placement,DeepSeek
+Professor,Educational content,Legal Firm,Business Growth,Gemini
+UI UX Designer,Write research report,Legal Firm,Deployment,Claude
+Business Analyst,Coding interview,Legal Firm,Learning,DeepSeek
+Business Analyst,Office automation,Education,Prototype,Microsoft Copilot
+Marketing Manager,Technical writing,Education,Business Growth,Claude
+Financial Analyst,Technical writing,Hospital,Learning,Claude
+Content Writer,Generate unit tests,Hospital,Exam Preparation,GitHub Copilot
+UI UX Designer,Fact checking,Enterprise,Placement,Perplexity
+Financial Analyst,Multilingual translation,Healthcare,Deployment,Qwen
+HR Manager,Reasoning task,Legal Firm,Automation,Qwen
+Business Analyst,PowerPoint outline,College,Prototype,Microsoft Copilot
+HR Manager,Teams meeting summary,Hospital,Placement,Microsoft Copilot
+Content Writer,Edit repository,Healthcare,Placement,Cursor AI
+Marketing Manager,Policy drafting,College,Business Growth,Claude
+DevOps Engineer,Knowledge Q&A,Startup,Automation,Qwen
+Cybersecurity Analyst,Refactor project,Finance,Research,GitHub Copilot
+Professor,Excel analysis,E-commerce,Learning,Microsoft Copilot
+Professor,Technical writing,E-commerce,Business Growth,Claude
+Cybersecurity Analyst,Math reasoning,E-commerce,Presentation,DeepSeek
+Machine Learning Engineer,Social media insights,Enterprise,Prototype,Grok
+UI UX Designer,Tech discussion,Education,Business Growth,Grok
+Frontend Developer,Math reasoning,E-commerce,Presentation,DeepSeek
+Student,Fix bugs,E-commerce,Learning,GitHub Copilot
+Backend Developer,General coding,College,Deployment,Qwen
+Doctor,Citation search,Hospital,Prototype,Perplexity
+Data Scientist,Office automation,Healthcare,Research,Microsoft Copilot
+UI UX Designer,Competitive programming,Legal Firm,Placement,DeepSeek
+Research Scientist,Fact checking,Legal Firm,Presentation,Perplexity
+Machine Learning Engineer,Literature review,E-commerce,Prototype,Perplexity
+Teacher,Trend analysis,Education,Learning,Grok
+Business Analyst,Fact checking,Startup,Research,Perplexity
+Backend Developer,Excel analysis,Education,Business Growth,Microsoft Copilot
+Frontend Developer,System design,Legal Firm,Learning,ChatGPT
+Student,Chinese NLP task,Legal Firm,Prototype,Qwen
+Frontend Developer,Policy drafting,Research Lab,Presentation,Claude
+UI UX Designer,Autocomplete functions,E-commerce,Deployment,GitHub Copilot
+Business Analyst,Educational content,E-commerce,Prototype,Gemini
+Student,Autocomplete functions,Research Lab,Prototype,GitHub Copilot
+Professor,Google Workspace task,Legal Firm,Automation,Gemini
+Cybersecurity Analyst,Write research report,Education,Automation,Claude
+Research Scientist,Long-form analysis,Enterprise,Exam Preparation,Claude
+UI UX Designer,Research comparison,Finance,Automation,Perplexity
+UI UX Designer,Find latest information,E-commerce,Prototype,Perplexity
+DevOps Engineer,Policy drafting,Startup,Deployment,Claude
+Professor,Create presentation,Legal Firm,Presentation,Gemini
+UI UX Designer,Tech discussion,Education,Prototype,Grok
+Content Writer,Word drafting,Healthcare,Prototype,Microsoft Copilot
+Data Scientist,Citation search,E-commerce,Presentation,Perplexity
+Financial Analyst,Code navigation,Startup,Research,Cursor AI
+Data Scientist,Research comparison,College,Placement,Perplexity
+Professor,Reasoning task,College,Learning,Qwen
+Teacher,System design,Research Lab,Placement,ChatGPT
+Machine Learning Engineer,Google Workspace task,Startup,Business Growth,Gemini
+Frontend Developer,General coding,Hospital,Deployment,Qwen
+HR Manager,Generate project structure,Research Lab,Business Growth,Cursor AI
+Financial Analyst,Research comparison,College,Deployment,Perplexity
+Software Engineer,Code navigation,Education,Research,Cursor AI
+Backend Developer,Educational content,E-commerce,Prototype,Gemini
+Frontend Developer,Build ML model,College,Documentation,ChatGPT
+Frontend Developer,Create presentation,Startup,Exam Preparation,Gemini
+Teacher,Knowledge Q&A,Education,Presentation,Qwen
+HR Manager,Brainstorm ideas,Healthcare,Deployment,Grok
+Research Scientist,Multilingual translation,Hospital,Business Growth,Qwen
+DevOps Engineer,Create presentation,Finance,Presentation,Gemini
+Cybersecurity Analyst,Policy drafting,E-commerce,Documentation,Claude
+Data Scientist,Explain algorithms,Research Lab,Automation,ChatGPT
+Professor,Write SQL queries,Legal Firm,Business Growth,ChatGPT
+Professor,Find latest information,E-commerce,Business Growth,Perplexity
+Data Scientist,Multimodal explanation,Enterprise,Deployment,Gemini
+Frontend Developer,Analyze images,Startup,Learning,Gemini
+Full Stack Developer,Generate unit tests,E-commerce,Placement,GitHub Copilot
+Lawyer,Literature review,E-commerce,Exam Preparation,Perplexity
+HR Manager,System design,Healthcare,Exam Preparation,ChatGPT
+Lawyer,Excel analysis,Enterprise,Deployment,Microsoft Copilot
+Backend Developer,Python optimization,Healthcare,Business Growth,DeepSeek
+Doctor,Current events summary,College,Deployment,Grok
+Data Scientist,Literature review,Enterprise,Automation,Perplexity
+Marketing Manager,Google Workspace task,Finance,Business Growth,Gemini
+Business Analyst,Create presentation,Research Lab,Prototype,Gemini
+Financial Analyst,Excel analysis,E-commerce,Exam Preparation,Microsoft Copilot
+Software Engineer,Math reasoning,Legal Firm,Exam Preparation,DeepSeek
+Frontend Developer,Python optimization,Startup,Presentation,DeepSeek
+Backend Developer,Coding interview,Research Lab,Placement,DeepSeek
+Machine Learning Engineer,Literature review,Research Lab,Business Growth,Perplexity
+Lawyer,Technical writing,Startup,Placement,Claude
+Software Engineer,Debug Python code,Startup,Placement,ChatGPT
+Business Analyst,Educational content,Research Lab,Prototype,Gemini
+Doctor,Refactor large codebase,Startup,Deployment,Cursor AI
+Frontend Developer,Edit repository,Enterprise,Business Growth,Cursor AI
+Financial Analyst,Multimodal explanation,Legal Firm,Exam Preparation,Gemini
+UI UX Designer,Research comparison,Legal Firm,Presentation,Perplexity
+Data Scientist,Literature review,Research Lab,Exam Preparation,Perplexity
+Content Writer,Brainstorm ideas,Startup,Deployment,Grok
+Doctor,Generate project structure,Legal Firm,Presentation,Cursor AI
+Cybersecurity Analyst,Literature review,Enterprise,Exam Preparation,Perplexity
+Backend Developer,Long-form analysis,College,Research,Claude
+Professor,Tech discussion,Education,Learning,Grok
+Machine Learning Engineer,Python optimization,Research Lab,Automation,DeepSeek
+Full Stack Developer,Write SQL queries,College,Research,ChatGPT
+Business Analyst,Multimodal explanation,Legal Firm,Documentation,Gemini
+HR Manager,Build ML model,Legal Firm,Placement,ChatGPT
+DevOps Engineer,Knowledge Q&A,Startup,Business Growth,Qwen
+Content Writer,Write research report,College,Exam Preparation,Claude
+Research Scientist,Social media insights,Legal Firm,Placement,Grok
+Content Writer,Fact checking,Education,Learning,Perplexity
+Research Scientist,Implement feature,Legal Firm,Presentation,Cursor AI
+Doctor,Refactor large codebase,Finance,Learning,Cursor AI
+Professor,Technical writing,Finance,Documentation,Claude
+Full Stack Developer,Teams meeting summary,Finance,Deployment,Microsoft Copilot
+Doctor,General coding,Research Lab,Presentation,Qwen
+Marketing Manager,Write SQL queries,Hospital,Business Growth,ChatGPT
+Teacher,Google Workspace task,Healthcare,Placement,Gemini
+Financial Analyst,Fix bugs,E-commerce,Prototype,GitHub Copilot
+Professor,Social media insights,Legal Firm,Prototype,Grok
+Student,System design,E-commerce,Learning,ChatGPT
+DevOps Engineer,PowerPoint outline,Research Lab,Research,Microsoft Copilot
+Data Scientist,Multimodal explanation,College,Exam Preparation,Gemini
+Business Analyst,Reasoning task,College,Presentation,Qwen
+Full Stack Developer,Fix bugs,E-commerce,Business Growth,GitHub Copilot
+Full Stack Developer,Write research report,College,Business Growth,Claude
+Data Scientist,General coding,College,Placement,Qwen
+Data Scientist,Excel analysis,Research Lab,Research,Microsoft Copilot
+Content Writer,Generate project structure,Finance,Learning,Cursor AI
+Backend Developer,Edit repository,Education,Learning,Cursor AI
+Content Writer,Build ML model,Startup,Deployment,ChatGPT
+Lawyer,General coding,Research Lab,Placement,Qwen
+Teacher,Code navigation,Healthcare,Research,Cursor AI
+Frontend Developer,Research comparison,Hospital,Automation,Perplexity
+UI UX Designer,Multilingual translation,Research Lab,Documentation,Qwen
+UI UX Designer,Explain algorithms,Research Lab,Business Growth,ChatGPT
+Frontend Developer,Research comparison,E-commerce,Learning,Perplexity
+Full Stack Developer,Find latest information,E-commerce,Exam Preparation,Perplexity
+Frontend Developer,Multimodal explanation,Enterprise,Research,Gemini
+Student,Educational content,College,Documentation,Gemini
+Teacher,Debug Python code,Hospital,Automation,ChatGPT
+Backend Developer,Write research report,Startup,Exam Preparation,Claude
+Cybersecurity Analyst,Tech discussion,Startup,Business Growth,Grok
+Data Scientist,Multilingual translation,E-commerce,Deployment,Qwen
+Backend Developer,Citation search,Hospital,Deployment,Perplexity
+Software Engineer,Knowledge Q&A,Legal Firm,Business Growth,Qwen
+Doctor,Chinese NLP task,College,Deployment,Qwen
+Marketing Manager,Tech discussion,Research Lab,Learning,Grok
+Full Stack Developer,Literature review,College,Documentation,Perplexity
+Backend Developer,Tech discussion,Healthcare,Deployment,Grok
+Data Scientist,Python optimization,Enterprise,Placement,DeepSeek
+Professor,Fix bugs,E-commerce,Placement,GitHub Copilot
+Lawyer,Explain algorithms,Education,Automation,ChatGPT
+DevOps Engineer,General coding,Legal Firm,Prototype,Qwen
+Financial Analyst,Write research report,Education,Exam Preparation,Claude
+DevOps Engineer,Educational content,Hospital,Learning,Gemini
+UI UX Designer,Chinese NLP task,Enterprise,Learning,Qwen
+UI UX Designer,General coding,Finance,Exam Preparation,Qwen
+Financial Analyst,PowerPoint outline,Education,Documentation,Microsoft Copilot
+Student,Literature review,Legal Firm,Prototype,Perplexity
+Cybersecurity Analyst,Algorithm optimization,Legal Firm,Research,DeepSeek
+Machine Learning Engineer,Analyze images,Hospital,Placement,Gemini
+Marketing Manager,Debug Python code,Finance,Presentation,ChatGPT
+Full Stack Developer,Code navigation,College,Research,Cursor AI
+DevOps Engineer,Excel analysis,Research Lab,Automation,Microsoft Copilot
+Content Writer,Brainstorm ideas,Legal Firm,Documentation,Grok
+Student,Chinese NLP task,Hospital,Placement,Qwen
+Content Writer,Competitive programming,Finance,Learning,DeepSeek
+Lawyer,Code navigation,Finance,Business Growth,Cursor AI
+Business Analyst,PowerPoint outline,Enterprise,Presentation,Microsoft Copilot
+Professor,Literature review,College,Research,Perplexity
+DevOps Engineer,Summarize documents,Hospital,Automation,Claude
+Frontend Developer,Literature review,Finance,Automation,Perplexity
+Doctor,Reasoning task,Research Lab,Learning,Qwen
+Business Analyst,Google Workspace task,Startup,Documentation,Gemini
+Cybersecurity Analyst,Reasoning task,Enterprise,Presentation,Qwen
+Marketing Manager,Refactor project,Education,Deployment,GitHub Copilot
+UI UX Designer,Find latest information,Finance,Deployment,Perplexity
+Data Scientist,Complete code,Enterprise,Placement,GitHub Copilot
+Backend Developer,Knowledge Q&A,Enterprise,Prototype,Qwen
+Backend Developer,Teams meeting summary,Research Lab,Placement,Microsoft Copilot
+Student,Multilingual translation,Finance,Deployment,Qwen
+Frontend Developer,Complete code,Legal Firm,Documentation,GitHub Copilot
+Data Scientist,General coding,College,Presentation,Qwen
+Financial Analyst,Excel analysis,Finance,Documentation,Microsoft Copilot
+UI UX Designer,Debug Python code,Research Lab,Presentation,ChatGPT
+Financial Analyst,Word drafting,E-commerce,Documentation,Microsoft Copilot
+UI UX Designer,Literature review,College,Exam Preparation,Perplexity
+DevOps Engineer,General coding,Research Lab,Prototype,Qwen
+Machine Learning Engineer,Educational content,Hospital,Exam Preparation,Gemini
+Professor,Generate project structure,Research Lab,Presentation,Cursor AI
+Frontend Developer,Refactor large codebase,Hospital,Automation,Cursor AI
+Student,Python optimization,E-commerce,Deployment,DeepSeek
+Professor,Build ML model,Startup,Placement,ChatGPT
+Student,Knowledge Q&A,Startup,Documentation,Qwen
+Cybersecurity Analyst,Trend analysis,Education,Documentation,Grok
+UI UX Designer,Write SQL queries,Hospital,Automation,ChatGPT
+Backend Developer,Write SQL queries,Healthcare,Business Growth,ChatGPT
+HR Manager,Complete code,Research Lab,Exam Preparation,GitHub Copilot
+Doctor,Complete code,Startup,Prototype,GitHub Copilot
+Lawyer,Office automation,College,Prototype,Microsoft Copilot
+HR Manager,Technical writing,Finance,Research,Claude
+Content Writer,Educational content,Education,Exam Preparation,Gemini
+Backend Developer,Excel analysis,Finance,Prototype,Microsoft Copilot
+Lawyer,Python optimization,E-commerce,Business Growth,DeepSeek
+Content Writer,Coding interview,Hospital,Automation,DeepSeek
+Software Engineer,Technical writing,Legal Firm,Documentation,Claude
+Content Writer,Fact checking,Research Lab,Exam Preparation,Perplexity
+Professor,Algorithm optimization,Hospital,Learning,DeepSeek
+Financial Analyst,PowerPoint outline,Education,Exam Preparation,Microsoft Copilot
+Professor,Implement feature,Hospital,Business Growth,Cursor AI
+Machine Learning Engineer,Reasoning task,E-commerce,Presentation,Qwen
+UI UX Designer,Policy drafting,Enterprise,Learning,Claude
+Content Writer,Coding interview,Legal Firm,Deployment,DeepSeek
+Student,Fix bugs,Enterprise,Business Growth,GitHub Copilot
+Marketing Manager,Implement feature,Enterprise,Exam Preparation,Cursor AI
+Data Scientist,Analyze images,Education,Presentation,Gemini
+Software Engineer,Knowledge Q&A,Education,Learning,Qwen
+Marketing Manager,Create presentation,Legal Firm,Prototype,Gemini
+Lawyer,Coding interview,Healthcare,Placement,DeepSeek
+Financial Analyst,Chinese NLP task,Legal Firm,Research,Qwen
+UI UX Designer,Excel analysis,College,Presentation,Microsoft Copilot
+Student,Debug Python code,Research Lab,Exam Preparation,ChatGPT
+Content Writer,Office automation,Enterprise,Documentation,Microsoft Copilot
+Student,Fix bugs,Startup,Placement,GitHub Copilot
+Data Scientist,Python optimization,Hospital,Prototype,DeepSeek
+Student,Edit repository,E-commerce,Exam Preparation,Cursor AI
+Frontend Developer,Tech discussion,Finance,Research,Grok
+UI UX Designer,Refactor large codebase,Hospital,Prototype,Cursor AI
+Business Analyst,Google Workspace task,Research Lab,Research,Gemini
+Doctor,Python optimization,Finance,Documentation,DeepSeek
+Student,Trend analysis,E-commerce,Presentation,Grok
+Backend Developer,General coding,Hospital,Learning,Qwen
+Full Stack Developer,Implement feature,Enterprise,Automation,Cursor AI
+Software Engineer,Policy drafting,Hospital,Exam Preparation,Claude
+UI UX Designer,Code navigation,Finance,Exam Preparation,Cursor AI
+Full Stack Developer,Office automation,Finance,Placement,Microsoft Copilot
+Research Scientist,Write SQL queries,College,Prototype,ChatGPT
+Frontend Developer,Word drafting,Healthcare,Prototype,Microsoft Copilot
+Teacher,Implement feature,Enterprise,Placement,Cursor AI
+Financial Analyst,Refactor project,Research Lab,Documentation,GitHub Copilot
+Business Analyst,Brainstorm ideas,College,Exam Preparation,Grok
+Cybersecurity Analyst,Multilingual translation,Enterprise,Learning,Qwen
+Machine Learning Engineer,Google Workspace task,Legal Firm,Documentation,Gemini
+HR Manager,Excel analysis,Enterprise,Documentation,Microsoft Copilot
+HR Manager,Current events summary,Startup,Automation,Grok
+Financial Analyst,Write SQL queries,Healthcare,Placement,ChatGPT
+DevOps Engineer,Citation search,Hospital,Exam Preparation,Perplexity
+Backend Developer,Analyze images,Legal Firm,Documentation,Gemini
+Cybersecurity Analyst,Math reasoning,Healthcare,Exam Preparation,DeepSeek
+DevOps Engineer,Refactor large codebase,Finance,Exam Preparation,Cursor AI
+Content Writer,Debug Python code,Legal Firm,Deployment,ChatGPT
+Doctor,Competitive programming,Finance,Deployment,DeepSeek
+Professor,Debug Python code,College,Learning,ChatGPT
+Backend Developer,Multimodal explanation,Legal Firm,Automation,Gemini
+Marketing Manager,Long-form analysis,Education,Automation,Claude
+Content Writer,Build ML model,College,Prototype,ChatGPT
+Data Scientist,Explain algorithms,Hospital,Placement,ChatGPT
+Marketing Manager,Create presentation,Healthcare,Automation,Gemini
+Research Scientist,Competitive programming,Finance,Learning,DeepSeek
+Teacher,Autocomplete functions,Education,Business Growth,GitHub Copilot
+Content Writer,Excel analysis,Hospital,Prototype,Microsoft Copilot
+Data Scientist,Office automation,Startup,Prototype,Microsoft Copilot
+Content Writer,Reasoning task,Startup,Exam Preparation,Qwen
+Backend Developer,Teams meeting summary,Enterprise,Placement,Microsoft Copilot
+Cybersecurity Analyst,General coding,Education,Presentation,Qwen
+HR Manager,Find latest information,Hospital,Learning,Perplexity
+Teacher,Office automation,Healthcare,Business Growth,Microsoft Copilot
+Software Engineer,Social media insights,College,Research,Grok
+Research Scientist,Teams meeting summary,Enterprise,Automation,Microsoft Copilot
+Financial Analyst,Analyze images,Legal Firm,Presentation,Gemini
+HR Manager,Excel analysis,Healthcare,Research,Microsoft Copilot
+UI UX Designer,Coding interview,Enterprise,Exam Preparation,DeepSeek
+Student,Educational content,Legal Firm,Automation,Gemini
+Business Analyst,Build ML model,Finance,Exam Preparation,ChatGPT
+Frontend Developer,Python optimization,Hospital,Presentation,DeepSeek
+HR Manager,Analyze images,College,Deployment,Gemini
+DevOps Engineer,Office automation,College,Deployment,Microsoft Copilot
+Full Stack Developer,Refactor project,Hospital,Presentation,GitHub Copilot
+Lawyer,Knowledge Q&A,College,Automation,Qwen
+Machine Learning Engineer,Social media insights,Hospital,Learning,Grok
+Data Scientist,Office automation,Education,Business Growth,Microsoft Copilot
+Research Scientist,Edit repository,Hospital,Exam Preparation,Cursor AI
+Marketing Manager,Citation search,Enterprise,Deployment,Perplexity
+Lawyer,Chinese NLP task,Education,Research,Qwen
+Frontend Developer,Word drafting,Hospital,Exam Preparation,Microsoft Copilot
+Business Analyst,Edit repository,Education,Automation,Cursor AI
+HR Manager,Analyze images,Startup,Presentation,Gemini
+Machine Learning Engineer,Multimodal explanation,Hospital,Business Growth,Gemini
+Frontend Developer,Complete code,Startup,Business Growth,GitHub Copilot
+Machine Learning Engineer,Technical writing,Startup,Prototype,Claude
+Frontend Developer,Analyze images,Research Lab,Presentation,Gemini
+Frontend Developer,Complete code,Healthcare,Business Growth,GitHub Copilot
+Full Stack Developer,Refactor project,Legal Firm,Business Growth,GitHub Copilot
+Financial Analyst,Multimodal explanation,Education,Documentation,Gemini
+Cybersecurity Analyst,Autocomplete functions,Startup,Automation,GitHub Copilot
+Financial Analyst,Office automation,Hospital,Learning,Microsoft Copilot
+Professor,Find latest information,Enterprise,Documentation,Perplexity
+Machine Learning Engineer,Trend analysis,Research Lab,Presentation,Grok
+Frontend Developer,Current events summary,Research Lab,Automation,Grok
+DevOps Engineer,Generate unit tests,Education,Exam Preparation,GitHub Copilot
+Full Stack Developer,Complete code,E-commerce,Automation,GitHub Copilot
+Backend Developer,Complete code,E-commerce,Documentation,GitHub Copilot
+Lawyer,Coding interview,Enterprise,Deployment,DeepSeek
+Teacher,Refactor project,Healthcare,Automation,GitHub Copilot
+Data Scientist,Refactor large codebase,Research Lab,Presentation,Cursor AI
+Full Stack Developer,Teams meeting summary,Legal Firm,Documentation,Microsoft Copilot
+Teacher,Teams meeting summary,Research Lab,Research,Microsoft Copilot
+Content Writer,Complete code,College,Research,GitHub Copilot
+Professor,Chinese NLP task,Research Lab,Placement,Qwen
+Content Writer,Knowledge Q&A,Hospital,Placement,Qwen
+Frontend Developer,Word drafting,Legal Firm,Documentation,Microsoft Copilot
+Doctor,Literature review,Legal Firm,Research,Perplexity
+Full Stack Developer,Create presentation,College,Research,Gemini
+DevOps Engineer,Current events summary,Education,Research,Grok
+DevOps Engineer,Office automation,Legal Firm,Placement,Microsoft Copilot
+Student,Trend analysis,Finance,Deployment,Grok
+Machine Learning Engineer,Multilingual translation,Legal Firm,Automation,Qwen
+Research Scientist,Trend analysis,College,Exam Preparation,Grok
+Cybersecurity Analyst,Implement feature,Legal Firm,Business Growth,Cursor AI
+Lawyer,Word drafting,Education,Learning,Microsoft Copilot
+Frontend Developer,Fact checking,Finance,Research,Perplexity
+Software Engineer,Brainstorm ideas,Education,Documentation,Grok
+Business Analyst,Literature review,Healthcare,Placement,Perplexity
+Business Analyst,Write research report,E-commerce,Business Growth,Claude
+Cybersecurity Analyst,PowerPoint outline,Healthcare,Research,Microsoft Copilot
+Teacher,Knowledge Q&A,Research Lab,Deployment,Qwen
+Lawyer,Multilingual translation,Legal Firm,Exam Preparation,Qwen
+Software Engineer,Current events summary,E-commerce,Presentation,Grok
+Financial Analyst,Teams meeting summary,Education,Deployment,Microsoft Copilot
+Financial Analyst,Implement feature,College,Business Growth,Cursor AI
+UI UX Designer,Debug Python code,Research Lab,Prototype,ChatGPT
+Content Writer,Find latest information,Finance,Business Growth,Perplexity
+Backend Developer,Policy drafting,Research Lab,Business Growth,Claude
+Content Writer,Chinese NLP task,Legal Firm,Presentation,Qwen
+Frontend Developer,Educational content,Finance,Prototype,Gemini
+HR Manager,Generate unit tests,Healthcare,Research,GitHub Copilot
+Business Analyst,Generate project structure,Legal Firm,Prototype,Cursor AI
+Full Stack Developer,Literature review,Healthcare,Research,Perplexity
+Backend Developer,System design,College,Prototype,ChatGPT
+HR Manager,Summarize documents,Healthcare,Business Growth,Claude
+Financial Analyst,Knowledge Q&A,Legal Firm,Deployment,Qwen
+Teacher,Educational content,Finance,Exam Preparation,Gemini
+Student,Policy drafting,Research Lab,Prototype,Claude
+Financial Analyst,General coding,Hospital,Deployment,Qwen
+Marketing Manager,Reasoning task,Education,Automation,Qwen
+Teacher,Literature review,Healthcare,Business Growth,Perplexity
+Professor,Current events summary,Hospital,Placement,Grok
+Student,Complete code,Legal Firm,Research,GitHub Copilot
+Doctor,Social media insights,E-commerce,Deployment,Grok
+HR Manager,Citation search,E-commerce,Deployment,Perplexity
+Financial Analyst,Excel analysis,Education,Business Growth,Microsoft Copilot
+Financial Analyst,Knowledge Q&A,Research Lab,Business Growth,Qwen
+Backend Developer,Refactor large codebase,E-commerce,Presentation,Cursor AI
+Cybersecurity Analyst,Knowledge Q&A,Education,Research,Qwen
+Lawyer,Python optimization,Healthcare,Presentation,DeepSeek
+Frontend Developer,Create presentation,Legal Firm,Prototype,Gemini
+DevOps Engineer,Excel analysis,Enterprise,Automation,Microsoft Copilot
+Software Engineer,Social media insights,E-commerce,Exam Preparation,Grok
+UI UX Designer,Technical writing,Enterprise,Business Growth,Claude
+Business Analyst,Analyze images,Research Lab,Presentation,Gemini
+Doctor,Generate project structure,Hospital,Presentation,Cursor AI
+Machine Learning Engineer,System design,Enterprise,Business Growth,ChatGPT
+HR Manager,Python optimization,E-commerce,Exam Preparation,DeepSeek
+Cybersecurity Analyst,Refactor large codebase,Legal Firm,Placement,Cursor AI
+Financial Analyst,Python optimization,Healthcare,Prototype,DeepSeek
+Research Scientist,Excel analysis,E-commerce,Automation,Microsoft Copilot
+Professor,Summarize documents,Startup,Placement,Claude
+Student,Coding interview,Research Lab,Business Growth,DeepSeek
+HR Manager,Long-form analysis,College,Deployment,Claude
+Backend Developer,Word drafting,Enterprise,Research,Microsoft Copilot
+Research Scientist,Technical writing,E-commerce,Business Growth,Claude
+Professor,Trend analysis,Finance,Documentation,Grok
+Full Stack Developer,Office automation,Legal Firm,Deployment,Microsoft Copilot
+Business Analyst,Research comparison,College,Documentation,Perplexity
+UI UX Designer,Fix bugs,Finance,Deployment,GitHub Copilot
+Student,Tech discussion,Legal Firm,Exam Preparation,Grok
+Financial Analyst,Refactor large codebase,Startup,Presentation,Cursor AI
+Machine Learning Engineer,Citation search,Research Lab,Exam Preparation,Perplexity
+Marketing Manager,Refactor project,Hospital,Learning,GitHub Copilot
+Cybersecurity Analyst,Brainstorm ideas,E-commerce,Business Growth,Grok
+Financial Analyst,Write SQL queries,Startup,Documentation,ChatGPT
+Doctor,Refactor large codebase,Startup,Business Growth,Cursor AI
+Lawyer,Citation search,Finance,Research,Perplexity
+Content Writer,Summarize documents,Education,Automation,Claude
+Frontend Developer,Technical writing,Startup,Deployment,Claude
+Full Stack Developer,Algorithm optimization,Legal Firm,Documentation,DeepSeek
+Marketing Manager,Analyze images,Legal Firm,Research,Gemini
+Software Engineer,Coding interview,Education,Placement,DeepSeek
+Backend Developer,Analyze images,Hospital,Business Growth,Gemini
+Financial Analyst,Literature review,College,Business Growth,Perplexity
+UI UX Designer,Analyze images,Finance,Business Growth,Gemini
+Doctor,Write research report,Research Lab,Deployment,Claude
+Professor,Multilingual translation,Finance,Prototype,Qwen
+Cybersecurity Analyst,Algorithm optimization,Research Lab,Research,DeepSeek
+Financial Analyst,Fact checking,Enterprise,Exam Preparation,Perplexity
+Professor,Generate unit tests,Enterprise,Presentation,GitHub Copilot
+Doctor,Policy drafting,Hospital,Documentation,Claude
+Business Analyst,Educational content,College,Placement,Gemini
+UI UX Designer,Competitive programming,Education,Research,DeepSeek
+Data Scientist,Fact checking,E-commerce,Presentation,Perplexity
+Lawyer,Code navigation,Legal Firm,Documentation,Cursor AI
+Financial Analyst,Write SQL queries,Research Lab,Deployment,ChatGPT
+Software Engineer,Debug Python code,Healthcare,Presentation,ChatGPT
+Content Writer,PowerPoint outline,Healthcare,Research,Microsoft Copilot
+Doctor,Knowledge Q&A,Legal Firm,Research,Qwen
+Research Scientist,Brainstorm ideas,Healthcare,Presentation,Grok
+Financial Analyst,Create presentation,Research Lab,Research,Gemini
+DevOps Engineer,PowerPoint outline,E-commerce,Prototype,Microsoft Copilot
+Student,Find latest information,Research Lab,Exam Preparation,Perplexity
+Student,Brainstorm ideas,Enterprise,Learning,Grok
+Data Scientist,Citation search,E-commerce,Prototype,Perplexity
+HR Manager,Word drafting,Startup,Automation,Microsoft Copilot
+Cybersecurity Analyst,Refactor large codebase,Research Lab,Documentation,Cursor AI
+Student,Coding interview,Research Lab,Documentation,DeepSeek
+Full Stack Developer,Write SQL queries,Healthcare,Research,ChatGPT
+DevOps Engineer,Google Workspace task,Education,Automation,Gemini
+Research Scientist,Social media insights,Healthcare,Automation,Grok
+Financial Analyst,Fix bugs,Legal Firm,Placement,GitHub Copilot
+Teacher,Fix bugs,Research Lab,Business Growth,GitHub Copilot
+Data Scientist,Python optimization,Hospital,Placement,DeepSeek
+Lawyer,Fix bugs,Hospital,Research,GitHub Copilot
+HR Manager,Social media insights,Education,Deployment,Grok
+Student,Knowledge Q&A,Finance,Automation,Qwen
+DevOps Engineer,Code navigation,Enterprise,Documentation,Cursor AI
+Business Analyst,Build ML model,Enterprise,Exam Preparation,ChatGPT
+Machine Learning Engineer,Implement feature,E-commerce,Deployment,Cursor AI
+Cybersecurity Analyst,Coding interview,Hospital,Business Growth,DeepSeek
+Lawyer,Multimodal explanation,Healthcare,Documentation,Gemini
+DevOps Engineer,Current events summary,College,Deployment,Grok
+DevOps Engineer,Generate unit tests,Hospital,Prototype,GitHub Copilot
+Student,Coding interview,Healthcare,Business Growth,DeepSeek
+Business Analyst,General coding,Startup,Exam Preparation,Qwen
+Data Scientist,Implement feature,Hospital,Automation,Cursor AI
+Frontend Developer,Create presentation,Enterprise,Exam Preparation,Gemini
+HR Manager,Teams meeting summary,Legal Firm,Prototype,Microsoft Copilot
+Student,General coding,Legal Firm,Deployment,Qwen
+Research Scientist,Fix bugs,Enterprise,Presentation,GitHub Copilot
+HR Manager,Implement feature,Startup,Exam Preparation,Cursor AI
+HR Manager,Summarize documents,Startup,Learning,Claude
+Backend Developer,Multilingual translation,Healthcare,Placement,Qwen
+UI UX Designer,System design,Research Lab,Documentation,ChatGPT
+Lawyer,Code navigation,Legal Firm,Exam Preparation,Cursor AI
+Frontend Developer,Citation search,E-commerce,Documentation,Perplexity
+Financial Analyst,General coding,Enterprise,Placement,Qwen
+Teacher,Refactor large codebase,Education,Business Growth,Cursor AI
+Doctor,Social media insights,Healthcare,Placement,Grok
+UI UX Designer,Citation search,Healthcare,Learning,Perplexity
+Student,Long-form analysis,Finance,Research,Claude
+UI UX Designer,Multilingual translation,Legal Firm,Exam Preparation,Qwen
+Student,Google Workspace task,Finance,Automation,Gemini
+Cybersecurity Analyst,Python optimization,Legal Firm,Automation,DeepSeek
+Business Analyst,Debug Python code,Research Lab,Documentation,ChatGPT
+Full Stack Developer,Long-form analysis,Enterprise,Automation,Claude
+DevOps Engineer,Literature review,Startup,Automation,Perplexity
+Student,Competitive programming,Research Lab,Presentation,DeepSeek
+UI UX Designer,Find latest information,E-commerce,Presentation,Perplexity
+Professor,Autocomplete functions,Hospital,Prototype,GitHub Copilot
+DevOps Engineer,Tech discussion,Finance,Exam Preparation,Grok
+Research Scientist,Chinese NLP task,E-commerce,Learning,Qwen
+Business Analyst,Office automation,Legal Firm,Documentation,Microsoft Copilot
+Student,Coding interview,Startup,Exam Preparation,DeepSeek
+Content Writer,Create presentation,Hospital,Research,Gemini
+Backend Developer,Office automation,Research Lab,Documentation,Microsoft Copilot
+Cybersecurity Analyst,Build ML model,College,Business Growth,ChatGPT
+HR Manager,General coding,E-commerce,Documentation,Qwen
+DevOps Engineer,Algorithm optimization,Finance,Exam Preparation,DeepSeek
+Student,Refactor project,Healthcare,Automation,GitHub Copilot
+Lawyer,Long-form analysis,E-commerce,Documentation,Claude
+Data Scientist,Fix bugs,Legal Firm,Placement,GitHub Copilot
+Frontend Developer,Long-form analysis,Hospital,Learning,Claude
+Doctor,Coding interview,Finance,Learning,DeepSeek
+Data Scientist,Excel analysis,Legal Firm,Automation,Microsoft Copilot
+Business Analyst,Find latest information,Research Lab,Exam Preparation,Perplexity
+Data Scientist,Literature review,Enterprise,Presentation,Perplexity
+Professor,Refactor project,Finance,Placement,GitHub Copilot
+Marketing Manager,Create presentation,Healthcare,Presentation,Gemini
